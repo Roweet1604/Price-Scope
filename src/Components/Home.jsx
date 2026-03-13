@@ -1,10 +1,10 @@
 import { useEffect, useRef, useState } from "react";
 import { useNavigate } from "react-router-dom";
 
-import BigBasketLogo from "../Images/Bigbasket.png";
-import BlinkitLogo from "../Images/Blinkit.png";
-import SwiggyLogo from "../Images/Swiggy-Instamart.png";
-import ZeptoLogo from "../Images/Zepto.png";
+const BigBasketLogo = "/Images/Bigbasket.png";
+const BlinkitLogo   = "/Images/BlinkIt.png";
+const SwiggyLogo    = "/Images/Swiggy-Instamart.png";
+const ZeptoLogo     = "/Images/Zepto.png";
 
 const COLOR = {
   primary: "#53d22c",
@@ -305,7 +305,7 @@ export default function Home() {
           </p>
         )}
 
-        <p style={S.trustedTxt}> Compare prices from your favorite apps</p>
+        <p style={S.trustedTxt}>Trusted by users of your favorite apps</p>
         <div style={S.logoRow}>
           {partnerLogos.map((logo) => (
             <img
