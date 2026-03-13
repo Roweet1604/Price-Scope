@@ -1,0 +1,3253 @@
+[
+  {
+    "id": 1,
+    "title": "Amul Toned Milk",
+    "quantity": "1 L",
+    "category": "Dairy",
+    "image": "https://images.unsplash.com/photo-1563636619-e9143da7973b?w=300&h=200&fit=crop",
+    "platforms": [
+      { "name": "Blinkit", "price": "₹132", "link": "https://blinkit.com/s/?q=Amul+Toned+Milk" },
+      { "name": "Swiggy Instamart", "price": "₹118", "link": "https://www.swiggy.com/instamart/search?q=Amul+Toned+Milk" },
+      { "name": "Zepto", "price": "₹125", "link": "https://www.zeptonow.com/search?query=Amul+Toned+Milk" },
+      { "name": "BigBasket", "price": "₹120", "link": "https://www.bigbasket.com/ps/?q=Amul+Toned+Milk" }
+    ]
+  },
+  {
+    "id": 2,
+    "title": "Amul Butter",
+    "quantity": "500 g",
+    "category": "Dairy",
+    "image": "https://images.unsplash.com/photo-1589985270826-4b7bb135bc9d?w=300&h=200&fit=crop",
+    "platforms": [
+      { "name": "Blinkit", "price": "₹280", "link": "https://blinkit.com/s/?q=Amul+Butter+500g" },
+      { "name": "Swiggy Instamart", "price": "₹270", "link": "https://www.swiggy.com/instamart/search?q=Amul+Butter+500g" },
+      { "name": "Zepto", "price": "₹275", "link": "https://www.zeptonow.com/search?query=Amul+Butter+500g" },
+      { "name": "BigBasket", "price": "₹268", "link": "https://www.bigbasket.com/ps/?q=Amul+Butter+500g" }
+    ]
+  },
+  {
+    "id": 3,
+    "title": "Amul Processed Cheese",
+    "quantity": "200 g",
+    "category": "Dairy",
+    "image": "https://images.unsplash.com/photo-1486297678162-eb2a19b0a32d?w=300&h=200&fit=crop",
+    "platforms": [
+      { "name": "Blinkit", "price": "₹105", "link": "https://blinkit.com/s/?q=Amul+Processed+Cheese+200g" },
+      { "name": "Swiggy Instamart", "price": "₹99", "link": "https://www.swiggy.com/instamart/search?q=Amul+Processed+Cheese+200g" },
+      { "name": "Zepto", "price": "₹102", "link": "https://www.zeptonow.com/search?query=Amul+Processed+Cheese+200g" },
+      { "name": "BigBasket", "price": "₹97", "link": "https://www.bigbasket.com/ps/?q=Amul+Processed+Cheese+200g" }
+    ]
+  },
+  {
+    "id": 4,
+    "title": "Epigamia Greek Yogurt (Plain)",
+    "quantity": "400 g",
+    "category": "Dairy",
+    "image": "https://images.unsplash.com/photo-1488477181946-6428a0291777?w=300&h=200&fit=crop",
+    "platforms": [
+      { "name": "Blinkit", "price": "₹145", "link": "https://blinkit.com/s/?q=Epigamia+Greek+Yogurt+Plain" },
+      { "name": "Swiggy Instamart", "price": "₹138", "link": "https://www.swiggy.com/instamart/search?q=Epigamia+Greek+Yogurt" },
+      { "name": "Zepto", "price": "₹140", "link": "https://www.zeptonow.com/search?query=Epigamia+Greek+Yogurt" },
+      { "name": "BigBasket", "price": "₹135", "link": "https://www.bigbasket.com/ps/?q=Epigamia+Greek+Yogurt" }
+    ]
+  },
+  {
+    "id": 5,
+    "title": "Amul Gold Full Cream Milk",
+    "quantity": "1 L",
+    "category": "Dairy",
+    "image": "https://images.unsplash.com/photo-1550583724-b2692b85b150?w=300&h=200&fit=crop",
+    "platforms": [
+      { "name": "Blinkit", "price": "₹68", "link": "https://blinkit.com/s/?q=Amul+Gold+Full+Cream+Milk+1L" },
+      { "name": "Swiggy Instamart", "price": "₹65", "link": "https://www.swiggy.com/instamart/search?q=Amul+Gold+Full+Cream+Milk" },
+      { "name": "Zepto", "price": "₹66", "link": "https://www.zeptonow.com/search?query=Amul+Gold+Full+Cream+Milk" },
+      { "name": "BigBasket", "price": "₹64", "link": "https://www.bigbasket.com/ps/?q=Amul+Gold+Milk" }
+    ]
+  },
+  {
+    "id": 6,
+    "title": "Mother Dairy Paneer",
+    "quantity": "200 g",
+    "category": "Dairy",
+    "image": "https://images.unsplash.com/photo-1601050690597-df0568f70950?w=300&h=200&fit=crop",
+    "platforms": [
+      { "name": "Blinkit", "price": "₹85", "link": "https://blinkit.com/s/?q=Mother+Dairy+Paneer+200g" },
+      { "name": "Swiggy Instamart", "price": "₹80", "link": "https://www.swiggy.com/instamart/search?q=Mother+Dairy+Paneer+200g" },
+      { "name": "Zepto", "price": "₹82", "link": "https://www.zeptonow.com/search?query=Mother+Dairy+Paneer+200g" },
+      { "name": "BigBasket", "price": "₹78", "link": "https://www.bigbasket.com/ps/?q=Mother+Dairy+Paneer+200g" }
+    ]
+  },
+  {
+    "id": 7,
+    "title": "Britannia Brown Bread",
+    "quantity": "400 g",
+    "category": "Bakery",
+    "image": "https://images.unsplash.com/photo-1509440159596-0249088772ff?w=300&h=200&fit=crop",
+    "platforms": [
+      { "name": "Blinkit", "price": "₹42", "link": "https://blinkit.com/s/?q=Britannia+Brown+Bread" },
+      { "name": "Swiggy Instamart", "price": "₹40", "link": "https://www.swiggy.com/instamart/search?q=Britannia+Brown+Bread" },
+      { "name": "Zepto", "price": "₹41", "link": "https://www.zeptonow.com/search?query=Britannia+Brown+Bread" },
+      { "name": "BigBasket", "price": "₹39", "link": "https://www.bigbasket.com/ps/?q=Britannia+Brown+Bread" }
+    ]
+  },
+  {
+    "id": 8,
+    "title": "Britannia Whole Wheat Bread",
+    "quantity": "400 g",
+    "category": "Bakery",
+    "image": "https://images.unsplash.com/photo-1586444248902-2f64eddc13df?w=300&h=200&fit=crop",
+    "platforms": [
+      { "name": "Blinkit", "price": "₹45", "link": "https://blinkit.com/s/?q=Britannia+Whole+Wheat+Bread" },
+      { "name": "Swiggy Instamart", "price": "₹43", "link": "https://www.swiggy.com/instamart/search?q=Britannia+Whole+Wheat+Bread" },
+      { "name": "Zepto", "price": "₹44", "link": "https://www.zeptonow.com/search?query=Britannia+Whole+Wheat+Bread" },
+      { "name": "BigBasket", "price": "₹42", "link": "https://www.bigbasket.com/ps/?q=Britannia+Whole+Wheat+Bread" }
+    ]
+  },
+  {
+    "id": 9,
+    "title": "Aashirvaad Atta (Whole Wheat)",
+    "quantity": "5 kg",
+    "category": "Staples",
+    "image": "https://images.unsplash.com/photo-1574323347407-f5e1ad6d020b?w=300&h=200&fit=crop",
+    "platforms": [
+      { "name": "Blinkit", "price": "₹285", "link": "https://blinkit.com/s/?q=Aashirvaad+Atta+5kg" },
+      { "name": "Swiggy Instamart", "price": "₹275", "link": "https://www.swiggy.com/instamart/search?q=Aashirvaad+Atta+5kg" },
+      { "name": "Zepto", "price": "₹279", "link": "https://www.zeptonow.com/search?query=Aashirvaad+Atta+5kg" },
+      { "name": "BigBasket", "price": "₹272", "link": "https://www.bigbasket.com/ps/?q=Aashirvaad+Atta+5kg" }
+    ]
+  },
+  {
+    "id": 10,
+    "title": "India Gate Basmati Rice",
+    "quantity": "5 kg",
+    "category": "Staples",
+    "image": "https://images.unsplash.com/photo-1586201375761-83865001e31c?w=300&h=200&fit=crop",
+    "platforms": [
+      { "name": "Blinkit", "price": "₹520", "link": "https://blinkit.com/s/?q=India+Gate+Basmati+Rice+5kg" },
+      { "name": "Swiggy Instamart", "price": "₹510", "link": "https://www.swiggy.com/instamart/search?q=India+Gate+Basmati+Rice+5kg" },
+      { "name": "Zepto", "price": "₹515", "link": "https://www.zeptonow.com/search?query=India+Gate+Basmati+Rice+5kg" },
+      { "name": "BigBasket", "price": "₹499", "link": "https://www.bigbasket.com/ps/?q=India+Gate+Basmati+Rice+5kg" }
+    ]
+  },
+  {
+    "id": 11,
+    "title": "Tata Salt",
+    "quantity": "1 kg",
+    "category": "Staples",
+    "image": "https://images.unsplash.com/photo-1518110925495-5fe2fda0442c?w=300&h=200&fit=crop",
+    "platforms": [
+      { "name": "Blinkit", "price": "₹24", "link": "https://blinkit.com/s/?q=Tata+Salt+1kg" },
+      { "name": "Swiggy Instamart", "price": "₹22", "link": "https://www.swiggy.com/instamart/search?q=Tata+Salt+1kg" },
+      { "name": "Zepto", "price": "₹23", "link": "https://www.zeptonow.com/search?query=Tata+Salt+1kg" },
+      { "name": "BigBasket", "price": "₹21", "link": "https://www.bigbasket.com/ps/?q=Tata+Salt+1kg" }
+    ]
+  },
+  {
+    "id": 12,
+    "title": "Fortune Sunflower Oil",
+    "quantity": "1 L",
+    "category": "Staples",
+    "image": "https://images.unsplash.com/photo-1474979266404-7eaacbcd87c5?w=300&h=200&fit=crop",
+    "platforms": [
+      { "name": "Blinkit", "price": "₹155", "link": "https://blinkit.com/s/?q=Fortune+Sunflower+Oil+1L" },
+      { "name": "Swiggy Instamart", "price": "₹149", "link": "https://www.swiggy.com/instamart/search?q=Fortune+Sunflower+Oil+1L" },
+      { "name": "Zepto", "price": "₹152", "link": "https://www.zeptonow.com/search?query=Fortune+Sunflower+Oil+1L" },
+      { "name": "BigBasket", "price": "₹148", "link": "https://www.bigbasket.com/ps/?q=Fortune+Sunflower+Oil+1L" }
+    ]
+  },
+  {
+    "id": 13,
+    "title": "Saffola Gold Oil",
+    "quantity": "1 L",
+    "category": "Staples",
+    "image": "https://images.unsplash.com/photo-1620706857370-e1b9770e8bb1?w=300&h=200&fit=crop",
+    "platforms": [
+      { "name": "Blinkit", "price": "₹175", "link": "https://blinkit.com/s/?q=Saffola+Gold+Oil+1L" },
+      { "name": "Swiggy Instamart", "price": "₹168", "link": "https://www.swiggy.com/instamart/search?q=Saffola+Gold+Oil+1L" },
+      { "name": "Zepto", "price": "₹172", "link": "https://www.zeptonow.com/search?query=Saffola+Gold+Oil+1L" },
+      { "name": "BigBasket", "price": "₹165", "link": "https://www.bigbasket.com/ps/?q=Saffola+Gold+Oil+1L" }
+    ]
+  },
+  {
+    "id": 14,
+    "title": "Tata Tea Gold",
+    "quantity": "500 g",
+    "category": "Beverages",
+    "image": "https://images.unsplash.com/photo-1556679343-c7306c1976bc?w=300&h=200&fit=crop",
+    "platforms": [
+      { "name": "Blinkit", "price": "₹260", "link": "https://blinkit.com/s/?q=Tata+Tea+Gold+500g" },
+      { "name": "Swiggy Instamart", "price": "₹250", "link": "https://www.swiggy.com/instamart/search?q=Tata+Tea+Gold+500g" },
+      { "name": "Zepto", "price": "₹255", "link": "https://www.zeptonow.com/search?query=Tata+Tea+Gold+500g" },
+      { "name": "BigBasket", "price": "₹248", "link": "https://www.bigbasket.com/ps/?q=Tata+Tea+Gold+500g" }
+    ]
+  },
+  {
+    "id": 15,
+    "title": "Red Label Tea",
+    "quantity": "500 g",
+    "category": "Beverages",
+    "image": "https://images.unsplash.com/photo-1544787219-7f47ccb76574?w=300&h=200&fit=crop",
+    "platforms": [
+      { "name": "Blinkit", "price": "₹240", "link": "https://blinkit.com/s/?q=Red+Label+Tea+500g" },
+      { "name": "Swiggy Instamart", "price": "₹230", "link": "https://www.swiggy.com/instamart/search?q=Red+Label+Tea+500g" },
+      { "name": "Zepto", "price": "₹235", "link": "https://www.zeptonow.com/search?query=Red+Label+Tea+500g" },
+      { "name": "BigBasket", "price": "₹228", "link": "https://www.bigbasket.com/ps/?q=Red+Label+Tea+500g" }
+    ]
+  },
+  {
+    "id": 16,
+    "title": "Nescafe Classic Instant Coffee",
+    "quantity": "200 g",
+    "category": "Beverages",
+    "image": "https://images.unsplash.com/photo-1509042239860-f550ce710b93?w=300&h=200&fit=crop",
+    "platforms": [
+      { "name": "Blinkit", "price": "₹395", "link": "https://blinkit.com/s/?q=Nescafe+Classic+200g" },
+      { "name": "Swiggy Instamart", "price": "₹385", "link": "https://www.swiggy.com/instamart/search?q=Nescafe+Classic+200g" },
+      { "name": "Zepto", "price": "₹390", "link": "https://www.zeptonow.com/search?query=Nescafe+Classic+200g" },
+      { "name": "BigBasket", "price": "₹380", "link": "https://www.bigbasket.com/ps/?q=Nescafe+Classic+200g" }
+    ]
+  },
+  {
+    "id": 17,
+    "title": "Bru Instant Coffee",
+    "quantity": "100 g",
+    "category": "Beverages",
+    "image": "https://images.unsplash.com/photo-1497935586351-b67a49e012bf?w=300&h=200&fit=crop",
+    "platforms": [
+      { "name": "Blinkit", "price": "₹175", "link": "https://blinkit.com/s/?q=Bru+Instant+Coffee+100g" },
+      { "name": "Swiggy Instamart", "price": "₹168", "link": "https://www.swiggy.com/instamart/search?q=Bru+Instant+Coffee+100g" },
+      { "name": "Zepto", "price": "₹172", "link": "https://www.zeptonow.com/search?query=Bru+Instant+Coffee+100g" },
+      { "name": "BigBasket", "price": "₹165", "link": "https://www.bigbasket.com/ps/?q=Bru+Instant+Coffee+100g" }
+    ]
+  },
+  {
+    "id": 18,
+    "title": "Tropicana Orange Juice",
+    "quantity": "1 L",
+    "category": "Beverages",
+    "image": "https://images.unsplash.com/photo-1600271886742-f049cd451bba?w=300&h=200&fit=crop",
+    "platforms": [
+      { "name": "Blinkit", "price": "₹135", "link": "https://blinkit.com/s/?q=Tropicana+Orange+Juice+1L" },
+      { "name": "Swiggy Instamart", "price": "₹128", "link": "https://www.swiggy.com/instamart/search?q=Tropicana+Orange+Juice+1L" },
+      { "name": "Zepto", "price": "₹132", "link": "https://www.zeptonow.com/search?query=Tropicana+Orange+Juice+1L" },
+      { "name": "BigBasket", "price": "₹125", "link": "https://www.bigbasket.com/ps/?q=Tropicana+Orange+Juice+1L" }
+    ]
+  },
+  {
+    "id": 19,
+    "title": "Real Mango Juice",
+    "quantity": "1 L",
+    "category": "Beverages",
+    "image": "https://images.unsplash.com/photo-1622597467836-f3e6707fd88c?w=300&h=200&fit=crop",
+    "platforms": [
+      { "name": "Blinkit", "price": "₹120", "link": "https://blinkit.com/s/?q=Real+Mango+Juice+1L" },
+      { "name": "Swiggy Instamart", "price": "₹115", "link": "https://www.swiggy.com/instamart/search?q=Real+Mango+Juice+1L" },
+      { "name": "Zepto", "price": "₹118", "link": "https://www.zeptonow.com/search?query=Real+Mango+Juice+1L" },
+      { "name": "BigBasket", "price": "₹112", "link": "https://www.bigbasket.com/ps/?q=Real+Mango+Juice+1L" }
+    ]
+  },
+  {
+    "id": 20,
+    "title": "Coca-Cola",
+    "quantity": "2 L",
+    "category": "Beverages",
+    "image": "https://images.unsplash.com/photo-1629203851122-3726ecdf080e?w=300&h=200&fit=crop",
+    "platforms": [
+      { "name": "Blinkit", "price": "₹95", "link": "https://blinkit.com/s/?q=Coca-Cola+2L" },
+      { "name": "Swiggy Instamart", "price": "₹90", "link": "https://www.swiggy.com/instamart/search?q=Coca-Cola+2L" },
+      { "name": "Zepto", "price": "₹92", "link": "https://www.zeptonow.com/search?query=Coca-Cola+2L" },
+      { "name": "BigBasket", "price": "₹88", "link": "https://www.bigbasket.com/ps/?q=Coca-Cola+2L" }
+    ]
+  },
+  {
+    "id": 21,
+    "title": "Sprite",
+    "quantity": "2 L",
+    "category": "Beverages",
+    "image": "https://images.unsplash.com/photo-1625772299848-391b6a87d7b3?w=300&h=200&fit=crop",
+    "platforms": [
+      { "name": "Blinkit", "price": "₹92", "link": "https://blinkit.com/s/?q=Sprite+2L" },
+      { "name": "Swiggy Instamart", "price": "₹88", "link": "https://www.swiggy.com/instamart/search?q=Sprite+2L" },
+      { "name": "Zepto", "price": "₹90", "link": "https://www.zeptonow.com/search?query=Sprite+2L" },
+      { "name": "BigBasket", "price": "₹85", "link": "https://www.bigbasket.com/ps/?q=Sprite+2L" }
+    ]
+  },
+  {
+    "id": 22,
+    "title": "Red Bull Energy Drink",
+    "quantity": "250 ml",
+    "category": "Beverages",
+    "image": "https://images.unsplash.com/photo-1553361371-9b22f78e8b1d?w=300&h=200&fit=crop",
+    "platforms": [
+      { "name": "Blinkit", "price": "₹125", "link": "https://blinkit.com/s/?q=Red+Bull+Energy+Drink+250ml" },
+      { "name": "Swiggy Instamart", "price": "₹120", "link": "https://www.swiggy.com/instamart/search?q=Red+Bull+Energy+Drink+250ml" },
+      { "name": "Zepto", "price": "₹122", "link": "https://www.zeptonow.com/search?query=Red+Bull+Energy+Drink+250ml" },
+      { "name": "BigBasket", "price": "₹118", "link": "https://www.bigbasket.com/ps/?q=Red+Bull+Energy+Drink+250ml" }
+    ]
+  },
+  {
+    "id": 23,
+    "title": "Bournvita Health Drink",
+    "quantity": "500 g",
+    "category": "Beverages",
+    "image": "https://images.unsplash.com/photo-1587049352846-4a222e784d38?w=300&h=200&fit=crop",
+    "platforms": [
+      { "name": "Blinkit", "price": "₹250", "link": "https://blinkit.com/s/?q=Bournvita+500g" },
+      { "name": "Swiggy Instamart", "price": "₹239", "link": "https://www.swiggy.com/instamart/search?q=Bournvita+500g" },
+      { "name": "Zepto", "price": "₹245", "link": "https://www.zeptonow.com/search?query=Bournvita+500g" },
+      { "name": "BigBasket", "price": "₹235", "link": "https://www.bigbasket.com/ps/?q=Bournvita+500g" }
+    ]
+  },
+  {
+    "id": 24,
+    "title": "Horlicks Classic Malt",
+    "quantity": "1 kg",
+    "category": "Beverages",
+    "image": "https://images.unsplash.com/photo-1571091718767-18b5b1457add?w=300&h=200&fit=crop",
+    "platforms": [
+      { "name": "Blinkit", "price": "₹439", "link": "https://blinkit.com/s/?q=Horlicks+Classic+Malt+1kg" },
+      { "name": "Swiggy Instamart", "price": "₹425", "link": "https://www.swiggy.com/instamart/search?q=Horlicks+Classic+Malt+1kg" },
+      { "name": "Zepto", "price": "₹432", "link": "https://www.zeptonow.com/search?query=Horlicks+Classic+Malt+1kg" },
+      { "name": "BigBasket", "price": "₹419", "link": "https://www.bigbasket.com/ps/?q=Horlicks+Classic+Malt+1kg" }
+    ]
+  },
+  {
+    "id": 25,
+    "title": "Paper Boat Aam Panna",
+    "quantity": "250 ml x 4",
+    "category": "Beverages",
+    "image": "https://images.unsplash.com/photo-1585338107593-a7a0ea89ea8f?w=300&h=200&fit=crop",
+    "platforms": [
+      { "name": "Blinkit", "price": "₹89", "link": "https://blinkit.com/s/?q=Paper+Boat+Aam+Panna" },
+      { "name": "Swiggy Instamart", "price": "₹85", "link": "https://www.swiggy.com/instamart/search?q=Paper+Boat+Aam+Panna" },
+      { "name": "Zepto", "price": "₹87", "link": "https://www.zeptonow.com/search?query=Paper+Boat+Aam+Panna" },
+      { "name": "BigBasket", "price": "₹82", "link": "https://www.bigbasket.com/ps/?q=Paper+Boat+Aam+Panna" }
+    ]
+  },
+  {
+    "id": 26,
+    "title": "Maggi 2-Minute Noodles",
+    "quantity": "12 Pack",
+    "category": "Snacks & Instant Food",
+    "image": "https://images.unsplash.com/photo-1612929633738-8fe44f7ec841?w=300&h=200&fit=crop",
+    "platforms": [
+      { "name": "Blinkit", "price": "₹192", "link": "https://blinkit.com/s/?q=Maggi+Noodles+12+pack" },
+      { "name": "Swiggy Instamart", "price": "₹185", "link": "https://www.swiggy.com/instamart/search?q=Maggi+Noodles+12+pack" },
+      { "name": "Zepto", "price": "₹188", "link": "https://www.zeptonow.com/search?query=Maggi+Noodles+12+pack" },
+      { "name": "BigBasket", "price": "₹182", "link": "https://www.bigbasket.com/ps/?q=Maggi+Noodles+12+pack" }
+    ]
+  },
+  {
+    "id": 27,
+    "title": "Lay's Classic Salted Chips",
+    "quantity": "164 g",
+    "category": "Snacks & Instant Food",
+    "image": "https://images.unsplash.com/photo-1566478989037-eec170784d0b?w=300&h=200&fit=crop",
+    "platforms": [
+      { "name": "Blinkit", "price": "₹40", "link": "https://blinkit.com/s/?q=Lays+Classic+Salted" },
+      { "name": "Swiggy Instamart", "price": "₹38", "link": "https://www.swiggy.com/instamart/search?q=Lays+Classic+Salted" },
+      { "name": "Zepto", "price": "₹40", "link": "https://www.zeptonow.com/search?query=Lays+Classic+Salted" },
+      { "name": "BigBasket", "price": "₹37", "link": "https://www.bigbasket.com/ps/?q=Lays+Classic+Salted" }
+    ]
+  },
+  {
+    "id": 28,
+    "title": "Haldiram's Aloo Bhujia",
+    "quantity": "400 g",
+    "category": "Snacks & Instant Food",
+    "image": "https://images.unsplash.com/photo-1599490659213-e2b9527bd087?w=300&h=200&fit=crop",
+    "platforms": [
+      { "name": "Blinkit", "price": "₹130", "link": "https://blinkit.com/s/?q=Haldirams+Aloo+Bhujia+400g" },
+      { "name": "Swiggy Instamart", "price": "₹125", "link": "https://www.swiggy.com/instamart/search?q=Haldirams+Aloo+Bhujia" },
+      { "name": "Zepto", "price": "₹128", "link": "https://www.zeptonow.com/search?query=Haldirams+Aloo+Bhujia" },
+      { "name": "BigBasket", "price": "₹122", "link": "https://www.bigbasket.com/ps/?q=Haldirams+Aloo+Bhujia" }
+    ]
+  },
+  {
+    "id": 29,
+    "title": "Parle-G Original Biscuits",
+    "quantity": "800 g",
+    "category": "Snacks & Instant Food",
+    "image": "https://images.unsplash.com/photo-1558961363-fa8fdf82db35?w=300&h=200&fit=crop",
+    "platforms": [
+      { "name": "Blinkit", "price": "₹60", "link": "https://blinkit.com/s/?q=Parle-G+Original+Biscuits+800g" },
+      { "name": "Swiggy Instamart", "price": "₹57", "link": "https://www.swiggy.com/instamart/search?q=Parle-G+Biscuits+800g" },
+      { "name": "Zepto", "price": "₹58", "link": "https://www.zeptonow.com/search?query=Parle-G+Biscuits+800g" },
+      { "name": "BigBasket", "price": "₹55", "link": "https://www.bigbasket.com/ps/?q=Parle-G+Biscuits+800g" }
+    ]
+  },
+  {
+    "id": 30,
+    "title": "Good Day Butter Cookies",
+    "quantity": "600 g",
+    "category": "Snacks & Instant Food",
+    "image": "https://images.unsplash.com/photo-1499636136210-6f4ee915583e?w=300&h=200&fit=crop",
+    "platforms": [
+      { "name": "Blinkit", "price": "₹85", "link": "https://blinkit.com/s/?q=Good+Day+Butter+Cookies+600g" },
+      { "name": "Swiggy Instamart", "price": "₹80", "link": "https://www.swiggy.com/instamart/search?q=Good+Day+Butter+Cookies+600g" },
+      { "name": "Zepto", "price": "₹82", "link": "https://www.zeptonow.com/search?query=Good+Day+Butter+Cookies+600g" },
+      { "name": "BigBasket", "price": "₹78", "link": "https://www.bigbasket.com/ps/?q=Good+Day+Butter+Cookies+600g" }
+    ]
+  },
+  {
+    "id": 31,
+    "title": "Kurkure Masala Munch",
+    "quantity": "200 g",
+    "category": "Snacks & Instant Food",
+    "image": "https://images.unsplash.com/photo-1603046891744-1f058d837626?w=300&h=200&fit=crop",
+    "platforms": [
+      { "name": "Blinkit", "price": "₹40", "link": "https://blinkit.com/s/?q=Kurkure+Masala+Munch+200g" },
+      { "name": "Swiggy Instamart", "price": "₹38", "link": "https://www.swiggy.com/instamart/search?q=Kurkure+Masala+Munch+200g" },
+      { "name": "Zepto", "price": "₹39", "link": "https://www.zeptonow.com/search?query=Kurkure+Masala+Munch+200g" },
+      { "name": "BigBasket", "price": "₹37", "link": "https://www.bigbasket.com/ps/?q=Kurkure+Masala+Munch+200g" }
+    ]
+  },
+  {
+    "id": 32,
+    "title": "Yippee! Magic Masala Noodles",
+    "quantity": "8 Pack",
+    "category": "Snacks & Instant Food",
+    "image": "https://images.unsplash.com/photo-1569718212165-3a8278d5f624?w=300&h=200&fit=crop",
+    "platforms": [
+      { "name": "Blinkit", "price": "₹118", "link": "https://blinkit.com/s/?q=Yippee+Magic+Masala+Noodles+8+pack" },
+      { "name": "Swiggy Instamart", "price": "₹112", "link": "https://www.swiggy.com/instamart/search?q=Yippee+Magic+Masala+Noodles" },
+      { "name": "Zepto", "price": "₹115", "link": "https://www.zeptonow.com/search?query=Yippee+Magic+Masala+Noodles" },
+      { "name": "BigBasket", "price": "₹109", "link": "https://www.bigbasket.com/ps/?q=Yippee+Magic+Masala+Noodles" }
+    ]
+  },
+  {
+    "id": 33,
+    "title": "Cadbury Dairy Milk",
+    "quantity": "160 g",
+    "category": "Snacks & Instant Food",
+    "image": "https://images.unsplash.com/photo-1511381939415-e44015466834?w=300&h=200&fit=crop",
+    "platforms": [
+      { "name": "Blinkit", "price": "₹95", "link": "https://blinkit.com/s/?q=Cadbury+Dairy+Milk+160g" },
+      { "name": "Swiggy Instamart", "price": "₹90", "link": "https://www.swiggy.com/instamart/search?q=Cadbury+Dairy+Milk+160g" },
+      { "name": "Zepto", "price": "₹92", "link": "https://www.zeptonow.com/search?query=Cadbury+Dairy+Milk+160g" },
+      { "name": "BigBasket", "price": "₹88", "link": "https://www.bigbasket.com/ps/?q=Cadbury+Dairy+Milk+160g" }
+    ]
+  },
+  {
+    "id": 34,
+    "title": "KitKat Chocolate Bar",
+    "quantity": "4 Finger, 41.5 g",
+    "category": "Snacks & Instant Food",
+    "image": "https://images.unsplash.com/photo-1621939514649-280e2ee25f60?w=300&h=200&fit=crop",
+    "platforms": [
+      { "name": "Blinkit", "price": "₹40", "link": "https://blinkit.com/s/?q=KitKat+Chocolate+4+Finger" },
+      { "name": "Swiggy Instamart", "price": "₹38", "link": "https://www.swiggy.com/instamart/search?q=KitKat+Chocolate+4+Finger" },
+      { "name": "Zepto", "price": "₹40", "link": "https://www.zeptonow.com/search?query=KitKat+Chocolate+4+Finger" },
+      { "name": "BigBasket", "price": "₹37", "link": "https://www.bigbasket.com/ps/?q=KitKat+Chocolate+4+Finger" }
+    ]
+  },
+  {
+    "id": 35,
+    "title": "Too Yumm! Multigrain Chips",
+    "quantity": "180 g",
+    "category": "Snacks & Instant Food",
+    "image": "https://images.unsplash.com/photo-1528735602780-2552fd46c7af?w=300&h=200&fit=crop",
+    "platforms": [
+      { "name": "Blinkit", "price": "₹55", "link": "https://blinkit.com/s/?q=Too+Yumm+Multigrain+Chips+180g" },
+      { "name": "Swiggy Instamart", "price": "₹52", "link": "https://www.swiggy.com/instamart/search?q=Too+Yumm+Multigrain+Chips" },
+      { "name": "Zepto", "price": "₹54", "link": "https://www.zeptonow.com/search?query=Too+Yumm+Multigrain+Chips" },
+      { "name": "BigBasket", "price": "₹50", "link": "https://www.bigbasket.com/ps/?q=Too+Yumm+Multigrain+Chips" }
+    ]
+  },
+  {
+    "id": 36,
+    "title": "Kissan Mixed Fruit Jam",
+    "quantity": "500 g",
+    "category": "Snacks & Instant Food",
+    "image": "https://images.unsplash.com/photo-1563805042-7684c019e1cb?w=300&h=200&fit=crop",
+    "platforms": [
+      { "name": "Blinkit", "price": "₹130", "link": "https://blinkit.com/s/?q=Kissan+Mixed+Fruit+Jam+500g" },
+      { "name": "Swiggy Instamart", "price": "₹122", "link": "https://www.swiggy.com/instamart/search?q=Kissan+Jam+500g" },
+      { "name": "Zepto", "price": "₹126", "link": "https://www.zeptonow.com/search?query=Kissan+Jam+500g" },
+      { "name": "BigBasket", "price": "₹119", "link": "https://www.bigbasket.com/ps/?q=Kissan+Jam+500g" }
+    ]
+  },
+  {
+    "id": 37,
+    "title": "Saffola Gold Oats",
+    "quantity": "1 kg",
+    "category": "Breakfast & Cereals",
+    "image": "https://images.unsplash.com/photo-1517673400267-0251440c45dc?w=300&h=200&fit=crop",
+    "platforms": [
+      { "name": "Blinkit", "price": "₹195", "link": "https://blinkit.com/s/?q=Saffola+Gold+Oats+1kg" },
+      { "name": "Swiggy Instamart", "price": "₹185", "link": "https://www.swiggy.com/instamart/search?q=Saffola+Oats+1kg" },
+      { "name": "Zepto", "price": "₹190", "link": "https://www.zeptonow.com/search?query=Saffola+Oats+1kg" },
+      { "name": "BigBasket", "price": "₹179", "link": "https://www.bigbasket.com/ps/?q=Saffola+Oats+1kg" }
+    ]
+  },
+  {
+    "id": 38,
+    "title": "Kellogg's Corn Flakes",
+    "quantity": "875 g",
+    "category": "Breakfast & Cereals",
+    "image": "https://images.unsplash.com/photo-1501959915551-4e8d30928317?w=300&h=200&fit=crop",
+    "platforms": [
+      { "name": "Blinkit", "price": "₹330", "link": "https://blinkit.com/s/?q=Kelloggs+Corn+Flakes+875g" },
+      { "name": "Swiggy Instamart", "price": "₹315", "link": "https://www.swiggy.com/instamart/search?q=Kelloggs+Corn+Flakes+875g" },
+      { "name": "Zepto", "price": "₹322", "link": "https://www.zeptonow.com/search?query=Kelloggs+Corn+Flakes+875g" },
+      { "name": "BigBasket", "price": "₹309", "link": "https://www.bigbasket.com/ps/?q=Kelloggs+Corn+Flakes+875g" }
+    ]
+  },
+  {
+    "id": 39,
+    "title": "Quaker Oats",
+    "quantity": "2 kg",
+    "category": "Breakfast & Cereals",
+    "image": "https://images.unsplash.com/photo-1614961233913-a5113a4a34ed?w=300&h=200&fit=crop",
+    "platforms": [
+      { "name": "Blinkit", "price": "₹340", "link": "https://blinkit.com/s/?q=Quaker+Oats+2kg" },
+      { "name": "Swiggy Instamart", "price": "₹325", "link": "https://www.swiggy.com/instamart/search?q=Quaker+Oats+2kg" },
+      { "name": "Zepto", "price": "₹332", "link": "https://www.zeptonow.com/search?query=Quaker+Oats+2kg" },
+      { "name": "BigBasket", "price": "₹319", "link": "https://www.bigbasket.com/ps/?q=Quaker+Oats+2kg" }
+    ]
+  },
+  {
+    "id": 40,
+    "title": "Muesli Fruit & Nut",
+    "quantity": "500 g",
+    "category": "Breakfast & Cereals",
+    "image": "https://images.unsplash.com/photo-1490645935967-10de6ba17061?w=300&h=200&fit=crop",
+    "platforms": [
+      { "name": "Blinkit", "price": "₹220", "link": "https://blinkit.com/s/?q=Muesli+Fruit+Nut+500g" },
+      { "name": "Swiggy Instamart", "price": "₹210", "link": "https://www.swiggy.com/instamart/search?q=Muesli+Fruit+Nut+500g" },
+      { "name": "Zepto", "price": "₹215", "link": "https://www.zeptonow.com/search?query=Muesli+Fruit+Nut+500g" },
+      { "name": "BigBasket", "price": "₹205", "link": "https://www.bigbasket.com/ps/?q=Muesli+Fruit+Nut+500g" }
+    ]
+  },
+  {
+    "id": 41,
+    "title": "Banana",
+    "quantity": "1 dozen",
+    "category": "Fruits & Vegetables",
+    "image": "https://images.unsplash.com/photo-1571771894821-ce9b6c11b08e?w=300&h=200&fit=crop",
+    "platforms": [
+      { "name": "Blinkit", "price": "₹48", "link": "https://blinkit.com/s/?q=Banana+dozen" },
+      { "name": "Swiggy Instamart", "price": "₹45", "link": "https://www.swiggy.com/instamart/search?q=Banana+dozen" },
+      { "name": "Zepto", "price": "₹46", "link": "https://www.zeptonow.com/search?query=Banana+dozen" },
+      { "name": "BigBasket", "price": "₹42", "link": "https://www.bigbasket.com/ps/?q=Banana" }
+    ]
+  },
+  {
+    "id": 42,
+    "title": "Apple (Shimla)",
+    "quantity": "1 kg",
+    "category": "Fruits & Vegetables",
+    "image": "https://images.unsplash.com/photo-1567306226416-28f0efdc88ce?w=300&h=200&fit=crop",
+    "platforms": [
+      { "name": "Blinkit", "price": "₹180", "link": "https://blinkit.com/s/?q=Shimla+Apple+1kg" },
+      { "name": "Swiggy Instamart", "price": "₹170", "link": "https://www.swiggy.com/instamart/search?q=Shimla+Apple+1kg" },
+      { "name": "Zepto", "price": "₹175", "link": "https://www.zeptonow.com/search?query=Shimla+Apple+1kg" },
+      { "name": "BigBasket", "price": "₹165", "link": "https://www.bigbasket.com/ps/?q=Shimla+Apple" }
+    ]
+  },
+  {
+    "id": 43,
+    "title": "Tomato",
+    "quantity": "500 g",
+    "category": "Fruits & Vegetables",
+    "image": "https://images.unsplash.com/photo-1546094096-0df4bcaaa337?w=300&h=200&fit=crop",
+    "platforms": [
+      { "name": "Blinkit", "price": "₹28", "link": "https://blinkit.com/s/?q=Tomato+500g" },
+      { "name": "Swiggy Instamart", "price": "₹25", "link": "https://www.swiggy.com/instamart/search?q=Tomato+500g" },
+      { "name": "Zepto", "price": "₹27", "link": "https://www.zeptonow.com/search?query=Tomato+500g" },
+      { "name": "BigBasket", "price": "₹24", "link": "https://www.bigbasket.com/ps/?q=Tomato" }
+    ]
+  },
+  {
+    "id": 44,
+    "title": "Onion",
+    "quantity": "1 kg",
+    "category": "Fruits & Vegetables",
+    "image": "https://images.unsplash.com/photo-1618512496248-a07fe83aa8cb?w=300&h=200&fit=crop",
+    "platforms": [
+      { "name": "Blinkit", "price": "₹42", "link": "https://blinkit.com/s/?q=Onion+1kg" },
+      { "name": "Swiggy Instamart", "price": "₹38", "link": "https://www.swiggy.com/instamart/search?q=Onion+1kg" },
+      { "name": "Zepto", "price": "₹40", "link": "https://www.zeptonow.com/search?query=Onion+1kg" },
+      { "name": "BigBasket", "price": "₹35", "link": "https://www.bigbasket.com/ps/?q=Onion" }
+    ]
+  },
+  {
+    "id": 45,
+    "title": "Potato",
+    "quantity": "1 kg",
+    "category": "Fruits & Vegetables",
+    "image": "https://images.unsplash.com/photo-1518977676601-b53f82aba655?w=300&h=200&fit=crop",
+    "platforms": [
+      { "name": "Blinkit", "price": "₹35", "link": "https://blinkit.com/s/?q=Potato+1kg" },
+      { "name": "Swiggy Instamart", "price": "₹30", "link": "https://www.swiggy.com/instamart/search?q=Potato+1kg" },
+      { "name": "Zepto", "price": "₹32", "link": "https://www.zeptonow.com/search?query=Potato+1kg" },
+      { "name": "BigBasket", "price": "₹28", "link": "https://www.bigbasket.com/ps/?q=Potato" }
+    ]
+  },
+  {
+    "id": 46,
+    "title": "Carrot",
+    "quantity": "500 g",
+    "category": "Fruits & Vegetables",
+    "image": "https://images.unsplash.com/photo-1598170845058-32b9d6a5da37?w=300&h=200&fit=crop",
+    "platforms": [
+      { "name": "Blinkit", "price": "₹35", "link": "https://blinkit.com/s/?q=Carrot+500g" },
+      { "name": "Swiggy Instamart", "price": "₹32", "link": "https://www.swiggy.com/instamart/search?q=Carrot+500g" },
+      { "name": "Zepto", "price": "₹33", "link": "https://www.zeptonow.com/search?query=Carrot+500g" },
+      { "name": "BigBasket", "price": "₹30", "link": "https://www.bigbasket.com/ps/?q=Carrot" }
+    ]
+  },
+  {
+    "id": 47,
+    "title": "Spinach (Palak)",
+    "quantity": "250 g",
+    "category": "Fruits & Vegetables",
+    "image": "https://images.unsplash.com/photo-1576045057995-568f588f82fb?w=300&h=200&fit=crop",
+    "platforms": [
+      { "name": "Blinkit", "price": "₹22", "link": "https://blinkit.com/s/?q=Spinach+250g" },
+      { "name": "Swiggy Instamart", "price": "₹20", "link": "https://www.swiggy.com/instamart/search?q=Spinach+250g" },
+      { "name": "Zepto", "price": "₹21", "link": "https://www.zeptonow.com/search?query=Spinach+250g" },
+      { "name": "BigBasket", "price": "₹18", "link": "https://www.bigbasket.com/ps/?q=Spinach" }
+    ]
+  },
+  {
+    "id": 48,
+    "title": "Grapes (Green Seedless)",
+    "quantity": "500 g",
+    "category": "Fruits & Vegetables",
+    "image": "https://images.unsplash.com/photo-1537640538966-79f369143f8f?w=300&h=200&fit=crop",
+    "platforms": [
+      { "name": "Blinkit", "price": "₹95", "link": "https://blinkit.com/s/?q=Green+Seedless+Grapes+500g" },
+      { "name": "Swiggy Instamart", "price": "₹90", "link": "https://www.swiggy.com/instamart/search?q=Green+Seedless+Grapes+500g" },
+      { "name": "Zepto", "price": "₹92", "link": "https://www.zeptonow.com/search?query=Green+Seedless+Grapes+500g" },
+      { "name": "BigBasket", "price": "₹88", "link": "https://www.bigbasket.com/ps/?q=Green+Grapes" }
+    ]
+  },
+  {
+    "id": 49,
+    "title": "Mango (Alphonso)",
+    "quantity": "6 pieces",
+    "category": "Fruits & Vegetables",
+    "image": "https://images.unsplash.com/photo-1553279768-865429fa0078?w=300&h=200&fit=crop",
+    "platforms": [
+      { "name": "Blinkit", "price": "₹220", "link": "https://blinkit.com/s/?q=Alphonso+Mango+6+pieces" },
+      { "name": "Swiggy Instamart", "price": "₹210", "link": "https://www.swiggy.com/instamart/search?q=Alphonso+Mango" },
+      { "name": "Zepto", "price": "₹215", "link": "https://www.zeptonow.com/search?query=Alphonso+Mango" },
+      { "name": "BigBasket", "price": "₹199", "link": "https://www.bigbasket.com/ps/?q=Alphonso+Mango" }
+    ]
+  },
+  {
+    "id": 50,
+    "title": "Capsicum (Mixed)",
+    "quantity": "250 g",
+    "category": "Fruits & Vegetables",
+    "image": "https://images.unsplash.com/photo-1563565375-f3fdfdbefa83?w=300&h=200&fit=crop",
+    "platforms": [
+      { "name": "Blinkit", "price": "₹55", "link": "https://blinkit.com/s/?q=Capsicum+Mixed+250g" },
+      { "name": "Swiggy Instamart", "price": "₹50", "link": "https://www.swiggy.com/instamart/search?q=Capsicum+Mixed+250g" },
+      { "name": "Zepto", "price": "₹52", "link": "https://www.zeptonow.com/search?query=Capsicum+Mixed+250g" },
+      { "name": "BigBasket", "price": "₹48", "link": "https://www.bigbasket.com/ps/?q=Capsicum+Mixed" }
+    ]
+  },
+  {
+    "id": 51,
+    "title": "Broccoli",
+    "quantity": "500 g",
+    "category": "Fruits & Vegetables",
+    "image": "https://images.unsplash.com/photo-1459411621453-7b03977f4bfc?w=300&h=200&fit=crop",
+    "platforms": [
+      { "name": "Blinkit", "price": "₹75", "link": "https://blinkit.com/s/?q=Broccoli+500g" },
+      { "name": "Swiggy Instamart", "price": "₹70", "link": "https://www.swiggy.com/instamart/search?q=Broccoli+500g" },
+      { "name": "Zepto", "price": "₹72", "link": "https://www.zeptonow.com/search?query=Broccoli+500g" },
+      { "name": "BigBasket", "price": "₹68", "link": "https://www.bigbasket.com/ps/?q=Broccoli" }
+    ]
+  },
+  {
+    "id": 52,
+    "title": "Chicken Breast (Boneless)",
+    "quantity": "500 g",
+    "category": "Meat, Fish & Eggs",
+    "image": "https://images.unsplash.com/photo-1604503468506-a8da13d82791?w=300&h=200&fit=crop",
+    "platforms": [
+      { "name": "Blinkit", "price": "₹185", "link": "https://blinkit.com/s/?q=Chicken+Breast+Boneless+500g" },
+      { "name": "Swiggy Instamart", "price": "₹175", "link": "https://www.swiggy.com/instamart/search?q=Chicken+Breast+Boneless" },
+      { "name": "Zepto", "price": "₹180", "link": "https://www.zeptonow.com/search?query=Chicken+Breast+Boneless" },
+      { "name": "BigBasket", "price": "₹169", "link": "https://www.bigbasket.com/ps/?q=Chicken+Breast+Boneless" }
+    ]
+  },
+  {
+    "id": 53,
+    "title": "Farm Fresh Eggs",
+    "quantity": "12 Count",
+    "category": "Meat, Fish & Eggs",
+    "image": "https://images.unsplash.com/photo-1582722872445-44dc5f7e3c8f?w=300&h=200&fit=crop",
+    "platforms": [
+      { "name": "Blinkit", "price": "₹92", "link": "https://blinkit.com/s/?q=Eggs+12+count" },
+      { "name": "Swiggy Instamart", "price": "₹88", "link": "https://www.swiggy.com/instamart/search?q=Eggs+12+count" },
+      { "name": "Zepto", "price": "₹90", "link": "https://www.zeptonow.com/search?query=Eggs+12+count" },
+      { "name": "BigBasket", "price": "₹85", "link": "https://www.bigbasket.com/ps/?q=Eggs+12+count" }
+    ]
+  },
+  {
+    "id": 54,
+    "title": "Rohu Fish (Fresh)",
+    "quantity": "500 g",
+    "category": "Meat, Fish & Eggs",
+    "image": "https://images.unsplash.com/photo-1615141982883-c7ad0e69fd62?w=300&h=200&fit=crop",
+    "platforms": [
+      { "name": "Blinkit", "price": "₹160", "link": "https://blinkit.com/s/?q=Rohu+Fish+500g" },
+      { "name": "Swiggy Instamart", "price": "₹155", "link": "https://www.swiggy.com/instamart/search?q=Rohu+Fish+500g" },
+      { "name": "Zepto", "price": "₹158", "link": "https://www.zeptonow.com/search?query=Rohu+Fish+500g" },
+      { "name": "BigBasket", "price": "₹149", "link": "https://www.bigbasket.com/ps/?q=Rohu+Fish+500g" }
+    ]
+  },
+  {
+    "id": 55,
+    "title": "Mutton (Curry Cut)",
+    "quantity": "500 g",
+    "category": "Meat, Fish & Eggs",
+    "image": "https://images.unsplash.com/photo-1602470520998-f4a52199a3d6?w=300&h=200&fit=crop",
+    "platforms": [
+      { "name": "Blinkit", "price": "₹480", "link": "https://blinkit.com/s/?q=Mutton+Curry+Cut+500g" },
+      { "name": "Swiggy Instamart", "price": "₹465", "link": "https://www.swiggy.com/instamart/search?q=Mutton+Curry+Cut+500g" },
+      { "name": "Zepto", "price": "₹472", "link": "https://www.zeptonow.com/search?query=Mutton+Curry+Cut+500g" },
+      { "name": "BigBasket", "price": "₹455", "link": "https://www.bigbasket.com/ps/?q=Mutton+Curry+Cut+500g" }
+    ]
+  },
+  {
+    "id": 56,
+    "title": "Dove Beauty Soap",
+    "quantity": "4 x 100 g",
+    "category": "Personal Care",
+    "image": "https://images.unsplash.com/photo-1607006344380-b6775a0824a7?w=300&h=200&fit=crop",
+    "platforms": [
+      { "name": "Blinkit", "price": "₹210", "link": "https://blinkit.com/s/?q=Dove+Soap+4+pack" },
+      { "name": "Swiggy Instamart", "price": "₹199", "link": "https://www.swiggy.com/instamart/search?q=Dove+Soap+4+pack" },
+      { "name": "Zepto", "price": "₹205", "link": "https://www.zeptonow.com/search?query=Dove+Soap+4+pack" },
+      { "name": "BigBasket", "price": "₹195", "link": "https://www.bigbasket.com/ps/?q=Dove+Soap+4+pack" }
+    ]
+  },
+  {
+    "id": 57,
+    "title": "Head & Shoulders Shampoo",
+    "quantity": "340 ml",
+    "category": "Personal Care",
+    "image": "https://images.unsplash.com/photo-1526947425960-945c6e72858f?w=300&h=200&fit=crop",
+    "platforms": [
+      { "name": "Blinkit", "price": "₹330", "link": "https://blinkit.com/s/?q=Head+Shoulders+Shampoo+340ml" },
+      { "name": "Swiggy Instamart", "price": "₹320", "link": "https://www.swiggy.com/instamart/search?q=Head+Shoulders+Shampoo+340ml" },
+      { "name": "Zepto", "price": "₹325", "link": "https://www.zeptonow.com/search?query=Head+Shoulders+Shampoo+340ml" },
+      { "name": "BigBasket", "price": "₹315", "link": "https://www.bigbasket.com/ps/?q=Head+Shoulders+Shampoo+340ml" }
+    ]
+  },
+  {
+    "id": 58,
+    "title": "Pantene Smooth & Silky Shampoo",
+    "quantity": "340 ml",
+    "category": "Personal Care",
+    "image": "https://images.unsplash.com/photo-1631887220003-d2e74dce9818?w=300&h=200&fit=crop",
+    "platforms": [
+      { "name": "Blinkit", "price": "₹310", "link": "https://blinkit.com/s/?q=Pantene+Smooth+Silky+Shampoo+340ml" },
+      { "name": "Swiggy Instamart", "price": "₹299", "link": "https://www.swiggy.com/instamart/search?q=Pantene+Smooth+Silky+Shampoo+340ml" },
+      { "name": "Zepto", "price": "₹305", "link": "https://www.zeptonow.com/search?query=Pantene+Smooth+Silky+Shampoo+340ml" },
+      { "name": "BigBasket", "price": "₹295", "link": "https://www.bigbasket.com/ps/?q=Pantene+Smooth+Silky+Shampoo+340ml" }
+    ]
+  },
+  {
+    "id": 59,
+    "title": "Colgate MaxFresh Toothpaste",
+    "quantity": "150 g",
+    "category": "Personal Care",
+    "image": "https://images.unsplash.com/photo-1609840113046-5c7aee7c3a5a?w=300&h=200&fit=crop",
+    "platforms": [
+      { "name": "Blinkit", "price": "₹95", "link": "https://blinkit.com/s/?q=Colgate+MaxFresh+150g" },
+      { "name": "Swiggy Instamart", "price": "₹89", "link": "https://www.swiggy.com/instamart/search?q=Colgate+MaxFresh+150g" },
+      { "name": "Zepto", "price": "₹92", "link": "https://www.zeptonow.com/search?query=Colgate+MaxFresh+150g" },
+      { "name": "BigBasket", "price": "₹87", "link": "https://www.bigbasket.com/ps/?q=Colgate+MaxFresh+150g" }
+    ]
+  },
+  {
+    "id": 60,
+    "title": "Sensodyne Toothpaste",
+    "quantity": "70 g",
+    "category": "Personal Care",
+    "image": "https://images.unsplash.com/photo-1559591937-abc6c1c7efdb?w=300&h=200&fit=crop",
+    "platforms": [
+      { "name": "Blinkit", "price": "₹155", "link": "https://blinkit.com/s/?q=Sensodyne+Toothpaste+70g" },
+      { "name": "Swiggy Instamart", "price": "₹148", "link": "https://www.swiggy.com/instamart/search?q=Sensodyne+Toothpaste+70g" },
+      { "name": "Zepto", "price": "₹150", "link": "https://www.zeptonow.com/search?query=Sensodyne+Toothpaste+70g" },
+      { "name": "BigBasket", "price": "₹145", "link": "https://www.bigbasket.com/ps/?q=Sensodyne+Toothpaste+70g" }
+    ]
+  },
+  {
+    "id": 61,
+    "title": "Oral-B Toothbrush (Medium)",
+    "quantity": "Pack of 2",
+    "category": "Personal Care",
+    "image": "https://images.unsplash.com/photo-1559591937-abc6c1c7efdb?w=300&h=200&fit=crop",
+    "platforms": [
+      { "name": "Blinkit", "price": "₹110", "link": "https://blinkit.com/s/?q=Oral-B+Toothbrush+Medium+2+pack" },
+      { "name": "Swiggy Instamart", "price": "₹105", "link": "https://www.swiggy.com/instamart/search?q=Oral-B+Toothbrush+Medium" },
+      { "name": "Zepto", "price": "₹108", "link": "https://www.zeptonow.com/search?query=Oral-B+Toothbrush+Medium" },
+      { "name": "BigBasket", "price": "₹99", "link": "https://www.bigbasket.com/ps/?q=Oral-B+Toothbrush+Medium" }
+    ]
+  },
+  {
+    "id": 62,
+    "title": "Himalaya Neem Face Wash",
+    "quantity": "200 ml",
+    "category": "Personal Care",
+    "image": "https://images.unsplash.com/photo-1556228841-a3c527ebefe5?w=300&h=200&fit=crop",
+    "platforms": [
+      { "name": "Blinkit", "price": "₹155", "link": "https://blinkit.com/s/?q=Himalaya+Neem+Face+Wash+200ml" },
+      { "name": "Swiggy Instamart", "price": "₹148", "link": "https://www.swiggy.com/instamart/search?q=Himalaya+Neem+Face+Wash+200ml" },
+      { "name": "Zepto", "price": "₹150", "link": "https://www.zeptonow.com/search?query=Himalaya+Neem+Face+Wash+200ml" },
+      { "name": "BigBasket", "price": "₹145", "link": "https://www.bigbasket.com/ps/?q=Himalaya+Neem+Face+Wash+200ml" }
+    ]
+  },
+  {
+    "id": 63,
+    "title": "Nivea Men Face Wash",
+    "quantity": "100 ml",
+    "category": "Personal Care",
+    "image": "https://images.unsplash.com/photo-1556228578-8c89e6adf883?w=300&h=200&fit=crop",
+    "platforms": [
+      { "name": "Blinkit", "price": "₹165", "link": "https://blinkit.com/s/?q=Nivea+Men+Face+Wash+100ml" },
+      { "name": "Swiggy Instamart", "price": "₹158", "link": "https://www.swiggy.com/instamart/search?q=Nivea+Men+Face+Wash+100ml" },
+      { "name": "Zepto", "price": "₹162", "link": "https://www.zeptonow.com/search?query=Nivea+Men+Face+Wash+100ml" },
+      { "name": "BigBasket", "price": "₹155", "link": "https://www.bigbasket.com/ps/?q=Nivea+Men+Face+Wash+100ml" }
+    ]
+  },
+  {
+    "id": 64,
+    "title": "Vaseline Body Lotion",
+    "quantity": "400 ml",
+    "category": "Personal Care",
+    "image": "https://images.unsplash.com/photo-1571781926291-c477ebfd024b?w=300&h=200&fit=crop",
+    "platforms": [
+      { "name": "Blinkit", "price": "₹220", "link": "https://blinkit.com/s/?q=Vaseline+Body+Lotion+400ml" },
+      { "name": "Swiggy Instamart", "price": "₹210", "link": "https://www.swiggy.com/instamart/search?q=Vaseline+Body+Lotion+400ml" },
+      { "name": "Zepto", "price": "₹215", "link": "https://www.zeptonow.com/search?query=Vaseline+Body+Lotion+400ml" },
+      { "name": "BigBasket", "price": "₹205", "link": "https://www.bigbasket.com/ps/?q=Vaseline+Body+Lotion+400ml" }
+    ]
+  },
+  {
+    "id": 65,
+    "title": "Lakme Sunscreen SPF 50",
+    "quantity": "50 ml",
+    "category": "Personal Care",
+    "image": "https://images.unsplash.com/photo-1556228841-a3c527ebefe5?w=300&h=200&fit=crop",
+    "platforms": [
+      { "name": "Blinkit", "price": "₹265", "link": "https://blinkit.com/s/?q=Lakme+Sunscreen+SPF50" },
+      { "name": "Swiggy Instamart", "price": "₹255", "link": "https://www.swiggy.com/instamart/search?q=Lakme+Sunscreen+SPF50" },
+      { "name": "Zepto", "price": "₹259", "link": "https://www.zeptonow.com/search?query=Lakme+Sunscreen+SPF50" },
+      { "name": "BigBasket", "price": "₹249", "link": "https://www.bigbasket.com/ps/?q=Lakme+Sunscreen+SPF50" }
+    ]
+  },
+  {
+    "id": 66,
+    "title": "Gillette Mach3 Razor",
+    "quantity": "1 Razor + 2 Blades",
+    "category": "Personal Care",
+    "image": "https://images.unsplash.com/photo-1621607512214-68297480165e?w=300&h=200&fit=crop",
+    "platforms": [
+      { "name": "Blinkit", "price": "₹320", "link": "https://blinkit.com/s/?q=Gillette+Mach3+Razor" },
+      { "name": "Swiggy Instamart", "price": "₹309", "link": "https://www.swiggy.com/instamart/search?q=Gillette+Mach3+Razor" },
+      { "name": "Zepto", "price": "₹315", "link": "https://www.zeptonow.com/search?query=Gillette+Mach3+Razor" },
+      { "name": "BigBasket", "price": "₹299", "link": "https://www.bigbasket.com/ps/?q=Gillette+Mach3+Razor" }
+    ]
+  },
+  {
+    "id": 67,
+    "title": "Whisper Ultra Sanitary Pads",
+    "quantity": "30 Count XL",
+    "category": "Personal Care",
+    "image": "https://images.unsplash.com/photo-1631729371254-42c2892f0e6e?w=300&h=200&fit=crop",
+    "platforms": [
+      { "name": "Blinkit", "price": "₹220", "link": "https://blinkit.com/s/?q=Whisper+Ultra+30+count" },
+      { "name": "Swiggy Instamart", "price": "₹210", "link": "https://www.swiggy.com/instamart/search?q=Whisper+Ultra+30+count" },
+      { "name": "Zepto", "price": "₹215", "link": "https://www.zeptonow.com/search?query=Whisper+Ultra+30+count" },
+      { "name": "BigBasket", "price": "₹205", "link": "https://www.bigbasket.com/ps/?q=Whisper+Ultra+30+count" }
+    ]
+  },
+  {
+    "id": 68,
+    "title": "Dettol Antiseptic Liquid",
+    "quantity": "500 ml",
+    "category": "Personal Care",
+    "image": "https://images.unsplash.com/photo-1584308666744-24d5c474f2ae?w=300&h=200&fit=crop",
+    "platforms": [
+      { "name": "Blinkit", "price": "₹205", "link": "https://blinkit.com/s/?q=Dettol+Antiseptic+500ml" },
+      { "name": "Swiggy Instamart", "price": "₹195", "link": "https://www.swiggy.com/instamart/search?q=Dettol+Antiseptic+500ml" },
+      { "name": "Zepto", "price": "₹199", "link": "https://www.zeptonow.com/search?query=Dettol+Antiseptic+500ml" },
+      { "name": "BigBasket", "price": "₹190", "link": "https://www.bigbasket.com/ps/?q=Dettol+Antiseptic+500ml" }
+    ]
+  },
+  {
+    "id": 69,
+    "title": "Lifebuoy Total Hand Wash",
+    "quantity": "500 ml",
+    "category": "Personal Care",
+    "image": "https://images.unsplash.com/photo-1585232351009-aa84daea58b5?w=300&h=200&fit=crop",
+    "platforms": [
+      { "name": "Blinkit", "price": "₹135", "link": "https://blinkit.com/s/?q=Lifebuoy+Total+Hand+Wash+500ml" },
+      { "name": "Swiggy Instamart", "price": "₹128", "link": "https://www.swiggy.com/instamart/search?q=Lifebuoy+Hand+Wash+500ml" },
+      { "name": "Zepto", "price": "₹130", "link": "https://www.zeptonow.com/search?query=Lifebuoy+Hand+Wash+500ml" },
+      { "name": "BigBasket", "price": "₹124", "link": "https://www.bigbasket.com/ps/?q=Lifebuoy+Hand+Wash+500ml" }
+    ]
+  },
+  {
+    "id": 70,
+    "title": "Ponds Cold Cream",
+    "quantity": "200 ml",
+    "category": "Personal Care",
+    "image": "https://images.unsplash.com/photo-1556228578-8c89e6adf883?w=300&h=200&fit=crop",
+    "platforms": [
+      { "name": "Blinkit", "price": "₹145", "link": "https://blinkit.com/s/?q=Ponds+Cold+Cream+200ml" },
+      { "name": "Swiggy Instamart", "price": "₹138", "link": "https://www.swiggy.com/instamart/search?q=Ponds+Cold+Cream+200ml" },
+      { "name": "Zepto", "price": "₹140", "link": "https://www.zeptonow.com/search?query=Ponds+Cold+Cream+200ml" },
+      { "name": "BigBasket", "price": "₹135", "link": "https://www.bigbasket.com/ps/?q=Ponds+Cold+Cream+200ml" }
+    ]
+  },
+  {
+    "id": 71,
+    "title": "Vim Dishwash Gel",
+    "quantity": "500 ml",
+    "category": "Household",
+    "image": "https://images.unsplash.com/photo-1563453392212-326f5e854473?w=300&h=200&fit=crop",
+    "platforms": [
+      { "name": "Blinkit", "price": "₹88", "link": "https://blinkit.com/s/?q=Vim+Dishwash+Gel+500ml" },
+      { "name": "Swiggy Instamart", "price": "₹82", "link": "https://www.swiggy.com/instamart/search?q=Vim+Dishwash+Gel+500ml" },
+      { "name": "Zepto", "price": "₹85", "link": "https://www.zeptonow.com/search?query=Vim+Dishwash+Gel+500ml" },
+      { "name": "BigBasket", "price": "₹80", "link": "https://www.bigbasket.com/ps/?q=Vim+Dishwash+Gel+500ml" }
+    ]
+  },
+  {
+    "id": 72,
+    "title": "Ariel Matic Detergent Powder",
+    "quantity": "2 kg",
+    "category": "Household",
+    "image": "https://images.unsplash.com/photo-1558618666-fcd25c85cd64?w=300&h=200&fit=crop",
+    "platforms": [
+      { "name": "Blinkit", "price": "₹420", "link": "https://blinkit.com/s/?q=Ariel+Matic+Detergent+2kg" },
+      { "name": "Swiggy Instamart", "price": "₹408", "link": "https://www.swiggy.com/instamart/search?q=Ariel+Matic+Detergent+2kg" },
+      { "name": "Zepto", "price": "₹415", "link": "https://www.zeptonow.com/search?query=Ariel+Matic+Detergent+2kg" },
+      { "name": "BigBasket", "price": "₹399", "link": "https://www.bigbasket.com/ps/?q=Ariel+Matic+Detergent+2kg" }
+    ]
+  },
+  {
+    "id": 73,
+    "title": "Surf Excel Easy Wash",
+    "quantity": "1 kg",
+    "category": "Household",
+    "image": "https://images.unsplash.com/photo-1604335399105-a0c585fd81a1?w=300&h=200&fit=crop",
+    "platforms": [
+      { "name": "Blinkit", "price": "₹158", "link": "https://blinkit.com/s/?q=Surf+Excel+Easy+Wash+1kg" },
+      { "name": "Swiggy Instamart", "price": "₹149", "link": "https://www.swiggy.com/instamart/search?q=Surf+Excel+Easy+Wash+1kg" },
+      { "name": "Zepto", "price": "₹153", "link": "https://www.zeptonow.com/search?query=Surf+Excel+Easy+Wash+1kg" },
+      { "name": "BigBasket", "price": "₹145", "link": "https://www.bigbasket.com/ps/?q=Surf+Excel+Easy+Wash+1kg" }
+    ]
+  },
+  {
+    "id": 74,
+    "title": "Harpic Toilet Cleaner",
+    "quantity": "1 L",
+    "category": "Household",
+    "image": "https://images.unsplash.com/photo-1585421514284-efb74c2b69ba?w=300&h=200&fit=crop",
+    "platforms": [
+      { "name": "Blinkit", "price": "₹99", "link": "https://blinkit.com/s/?q=Harpic+Toilet+Cleaner+1L" },
+      { "name": "Swiggy Instamart", "price": "₹94", "link": "https://www.swiggy.com/instamart/search?q=Harpic+Toilet+Cleaner+1L" },
+      { "name": "Zepto", "price": "₹96", "link": "https://www.zeptonow.com/search?query=Harpic+Toilet+Cleaner+1L" },
+      { "name": "BigBasket", "price": "₹92", "link": "https://www.bigbasket.com/ps/?q=Harpic+Toilet+Cleaner+1L" }
+    ]
+  },
+  {
+    "id": 75,
+    "title": "Colin Glass Cleaner",
+    "quantity": "500 ml",
+    "category": "Household",
+    "image": "https://images.unsplash.com/photo-1563453392212-326f5e854473?w=300&h=200&fit=crop",
+    "platforms": [
+      { "name": "Blinkit", "price": "₹115", "link": "https://blinkit.com/s/?q=Colin+Glass+Cleaner+500ml" },
+      { "name": "Swiggy Instamart", "price": "₹109", "link": "https://www.swiggy.com/instamart/search?q=Colin+Glass+Cleaner+500ml" },
+      { "name": "Zepto", "price": "₹112", "link": "https://www.zeptonow.com/search?query=Colin+Glass+Cleaner+500ml" },
+      { "name": "BigBasket", "price": "₹105", "link": "https://www.bigbasket.com/ps/?q=Colin+Glass+Cleaner+500ml" }
+    ]
+  },
+  {
+    "id": 76,
+    "title": "Good Knight Mosquito Coils",
+    "quantity": "10 Coils",
+    "category": "Household",
+    "image": "https://images.unsplash.com/photo-1558618666-fcd25c85cd64?w=300&h=200&fit=crop",
+    "platforms": [
+      { "name": "Blinkit", "price": "₹45", "link": "https://blinkit.com/s/?q=Good+Knight+Mosquito+Coil+10" },
+      { "name": "Swiggy Instamart", "price": "₹42", "link": "https://www.swiggy.com/instamart/search?q=Good+Knight+Mosquito+Coil" },
+      { "name": "Zepto", "price": "₹43", "link": "https://www.zeptonow.com/search?query=Good+Knight+Mosquito+Coil" },
+      { "name": "BigBasket", "price": "₹40", "link": "https://www.bigbasket.com/ps/?q=Good+Knight+Mosquito+Coil" }
+    ]
+  },
+  {
+    "id": 77,
+    "title": "Scotch-Brite Scrub Pad",
+    "quantity": "Pack of 3",
+    "category": "Household",
+    "image": "https://images.unsplash.com/photo-1585421514284-efb74c2b69ba?w=300&h=200&fit=crop",
+    "platforms": [
+      { "name": "Blinkit", "price": "₹65", "link": "https://blinkit.com/s/?q=Scotch-Brite+Scrub+Pad+3+pack" },
+      { "name": "Swiggy Instamart", "price": "₹62", "link": "https://www.swiggy.com/instamart/search?q=Scotch-Brite+Scrub+Pad" },
+      { "name": "Zepto", "price": "₹63", "link": "https://www.zeptonow.com/search?query=Scotch-Brite+Scrub+Pad" },
+      { "name": "BigBasket", "price": "₹60", "link": "https://www.bigbasket.com/ps/?q=Scotch-Brite+Scrub+Pad" }
+    ]
+  },
+  {
+    "id": 78,
+    "title": "Lizol Floor Cleaner (Citrus)",
+    "quantity": "1 L",
+    "category": "Household",
+    "image": "https://images.unsplash.com/photo-1563453392212-326f5e854473?w=300&h=200&fit=crop",
+    "platforms": [
+      { "name": "Blinkit", "price": "₹195", "link": "https://blinkit.com/s/?q=Lizol+Floor+Cleaner+Citrus+1L" },
+      { "name": "Swiggy Instamart", "price": "₹185", "link": "https://www.swiggy.com/instamart/search?q=Lizol+Floor+Cleaner+Citrus+1L" },
+      { "name": "Zepto", "price": "₹190", "link": "https://www.zeptonow.com/search?query=Lizol+Floor+Cleaner+Citrus+1L" },
+      { "name": "BigBasket", "price": "₹179", "link": "https://www.bigbasket.com/ps/?q=Lizol+Floor+Cleaner+Citrus+1L" }
+    ]
+  },
+  {
+    "id": 79,
+    "title": "Pampers Baby Dry Diapers",
+    "quantity": "Size M, 64 Count",
+    "category": "Baby Care",
+    "image": "https://images.unsplash.com/photo-1584515933487-779824d29309?w=300&h=200&fit=crop",
+    "platforms": [
+      { "name": "Blinkit", "price": "₹1099", "link": "https://blinkit.com/s/?q=Pampers+Baby+Dry+M" },
+      { "name": "Swiggy Instamart", "price": "₹1049", "link": "https://www.swiggy.com/instamart/search?q=Pampers+Baby+Dry+M" },
+      { "name": "Zepto", "price": "₹1075", "link": "https://www.zeptonow.com/search?query=Pampers+Baby+Dry+M" },
+      { "name": "BigBasket", "price": "₹1029", "link": "https://www.bigbasket.com/ps/?q=Pampers+Baby+Dry+M" }
+    ]
+  },
+  {
+    "id": 80,
+    "title": "Himalaya Baby Lotion",
+    "quantity": "400 ml",
+    "category": "Baby Care",
+    "image": "https://images.unsplash.com/photo-1556228578-8c89e6adf883?w=300&h=200&fit=crop",
+    "platforms": [
+      { "name": "Blinkit", "price": "₹175", "link": "https://blinkit.com/s/?q=Himalaya+Baby+Lotion+400ml" },
+      { "name": "Swiggy Instamart", "price": "₹168", "link": "https://www.swiggy.com/instamart/search?q=Himalaya+Baby+Lotion+400ml" },
+      { "name": "Zepto", "price": "₹172", "link": "https://www.zeptonow.com/search?query=Himalaya+Baby+Lotion+400ml" },
+      { "name": "BigBasket", "price": "₹165", "link": "https://www.bigbasket.com/ps/?q=Himalaya+Baby+Lotion+400ml" }
+    ]
+  },
+  {
+    "id": 81,
+    "title": "Johnson's Baby Powder",
+    "quantity": "200 g",
+    "category": "Baby Care",
+    "image": "https://images.unsplash.com/photo-1584515933487-779824d29309?w=300&h=200&fit=crop",
+    "platforms": [
+      { "name": "Blinkit", "price": "₹145", "link": "https://blinkit.com/s/?q=Johnsons+Baby+Powder+200g" },
+      { "name": "Swiggy Instamart", "price": "₹138", "link": "https://www.swiggy.com/instamart/search?q=Johnsons+Baby+Powder+200g" },
+      { "name": "Zepto", "price": "₹142", "link": "https://www.zeptonow.com/search?query=Johnsons+Baby+Powder+200g" },
+      { "name": "BigBasket", "price": "₹135", "link": "https://www.bigbasket.com/ps/?q=Johnsons+Baby+Powder+200g" }
+    ]
+  },
+  {
+    "id": 82,
+    "title": "Cerelac Rice (Stage 1)",
+    "quantity": "300 g",
+    "category": "Baby Care",
+    "image": "https://images.unsplash.com/photo-1490645935967-10de6ba17061?w=300&h=200&fit=crop",
+    "platforms": [
+      { "name": "Blinkit", "price": "₹220", "link": "https://blinkit.com/s/?q=Cerelac+Rice+Stage+1+300g" },
+      { "name": "Swiggy Instamart", "price": "₹210", "link": "https://www.swiggy.com/instamart/search?q=Cerelac+Rice+Stage+1+300g" },
+      { "name": "Zepto", "price": "₹215", "link": "https://www.zeptonow.com/search?query=Cerelac+Rice+Stage+1+300g" },
+      { "name": "BigBasket", "price": "₹205", "link": "https://www.bigbasket.com/ps/?q=Cerelac+Rice+Stage+1+300g" }
+    ]
+  },
+  {
+    "id": 83,
+    "title": "Protinex Original",
+    "quantity": "400 g",
+    "category": "Health & Nutrition",
+    "image": "https://images.unsplash.com/photo-1593095948071-474c5cc2989d?w=300&h=200&fit=crop",
+    "platforms": [
+      { "name": "Blinkit", "price": "₹545", "link": "https://blinkit.com/s/?q=Protinex+Original+400g" },
+      { "name": "Swiggy Instamart", "price": "₹529", "link": "https://www.swiggy.com/instamart/search?q=Protinex+Original+400g" },
+      { "name": "Zepto", "price": "₹535", "link": "https://www.zeptonow.com/search?query=Protinex+Original+400g" },
+      { "name": "BigBasket", "price": "₹519", "link": "https://www.bigbasket.com/ps/?q=Protinex+Original+400g" }
+    ]
+  },
+  {
+    "id": 84,
+    "title": "Ensure Nutrition Drink",
+    "quantity": "400 g",
+    "category": "Health & Nutrition",
+    "image": "https://images.unsplash.com/photo-1571091718767-18b5b1457add?w=300&h=200&fit=crop",
+    "platforms": [
+      { "name": "Blinkit", "price": "₹780", "link": "https://blinkit.com/s/?q=Ensure+Nutrition+Drink+400g" },
+      { "name": "Swiggy Instamart", "price": "₹760", "link": "https://www.swiggy.com/instamart/search?q=Ensure+Nutrition+Drink+400g" },
+      { "name": "Zepto", "price": "₹770", "link": "https://www.zeptonow.com/search?query=Ensure+Nutrition+Drink+400g" },
+      { "name": "BigBasket", "price": "₹749", "link": "https://www.bigbasket.com/ps/?q=Ensure+Nutrition+Drink+400g" }
+    ]
+  },
+  {
+    "id": 85,
+    "title": "Muscle Blaze Whey Protein",
+    "quantity": "1 kg",
+    "category": "Health & Nutrition",
+    "image": "https://images.unsplash.com/photo-1593095948071-474c5cc2989d?w=300&h=200&fit=crop",
+    "platforms": [
+      { "name": "Blinkit", "price": "₹1599", "link": "https://blinkit.com/s/?q=Muscle+Blaze+Whey+Protein+1kg" },
+      { "name": "Swiggy Instamart", "price": "₹1549", "link": "https://www.swiggy.com/instamart/search?q=Muscle+Blaze+Whey+Protein+1kg" },
+      { "name": "Zepto", "price": "₹1575", "link": "https://www.zeptonow.com/search?query=Muscle+Blaze+Whey+Protein+1kg" },
+      { "name": "BigBasket", "price": "₹1499", "link": "https://www.bigbasket.com/ps/?q=Muscle+Blaze+Whey+Protein+1kg" }
+    ]
+  },
+  {
+    "id": 86,
+    "title": "Revital H Multivitamin",
+    "quantity": "30 Capsules",
+    "category": "Health & Nutrition",
+    "image": "https://images.unsplash.com/photo-1584308666744-24d5c474f2ae?w=300&h=200&fit=crop",
+    "platforms": [
+      { "name": "Blinkit", "price": "₹375", "link": "https://blinkit.com/s/?q=Revital+H+Multivitamin+30+Capsules" },
+      { "name": "Swiggy Instamart", "price": "₹360", "link": "https://www.swiggy.com/instamart/search?q=Revital+H+Multivitamin+30+Capsules" },
+      { "name": "Zepto", "price": "₹368", "link": "https://www.zeptonow.com/search?query=Revital+H+Multivitamin+30+Capsules" },
+      { "name": "BigBasket", "price": "₹349", "link": "https://www.bigbasket.com/ps/?q=Revital+H+Multivitamin+30+Capsules" }
+    ]
+  },
+  {
+    "id": 87,
+    "title": "Dabur Chyawanprash",
+    "quantity": "1 kg",
+    "category": "Health & Nutrition",
+    "image": "https://images.unsplash.com/photo-1550583724-b2692b85b150?w=300&h=200&fit=crop",
+    "platforms": [
+      { "name": "Blinkit", "price": "₹320", "link": "https://blinkit.com/s/?q=Dabur+Chyawanprash+1kg" },
+      { "name": "Swiggy Instamart", "price": "₹309", "link": "https://www.swiggy.com/instamart/search?q=Dabur+Chyawanprash+1kg" },
+      { "name": "Zepto", "price": "₹315", "link": "https://www.zeptonow.com/search?query=Dabur+Chyawanprash+1kg" },
+      { "name": "BigBasket", "price": "₹299", "link": "https://www.bigbasket.com/ps/?q=Dabur+Chyawanprash+1kg" }
+    ]
+  },
+  {
+    "id": 88,
+    "title": "Hajmola Tablets",
+    "quantity": "120 Tablets",
+    "category": "Health & Nutrition",
+    "image": "https://images.unsplash.com/photo-1550572017-edd951b55104?w=300&h=200&fit=crop",
+    "platforms": [
+      { "name": "Blinkit", "price": "₹60", "link": "https://blinkit.com/s/?q=Hajmola+Tablets+120" },
+      { "name": "Swiggy Instamart", "price": "₹57", "link": "https://www.swiggy.com/instamart/search?q=Hajmola+Tablets+120" },
+      { "name": "Zepto", "price": "₹58", "link": "https://www.zeptonow.com/search?query=Hajmola+Tablets+120" },
+      { "name": "BigBasket", "price": "₹55", "link": "https://www.bigbasket.com/ps/?q=Hajmola+Tablets+120" }
+    ]
+  },
+  {
+    "id": 89,
+    "title": "Savlon Antiseptic Cream",
+    "quantity": "60 g",
+    "category": "Health & Nutrition",
+    "image": "https://images.unsplash.com/photo-1584308666744-24d5c474f2ae?w=300&h=200&fit=crop",
+    "platforms": [
+      { "name": "Blinkit", "price": "₹95", "link": "https://blinkit.com/s/?q=Savlon+Antiseptic+Cream+60g" },
+      { "name": "Swiggy Instamart", "price": "₹90", "link": "https://www.swiggy.com/instamart/search?q=Savlon+Antiseptic+Cream+60g" },
+      { "name": "Zepto", "price": "₹92", "link": "https://www.zeptonow.com/search?query=Savlon+Antiseptic+Cream+60g" },
+      { "name": "BigBasket", "price": "₹88", "link": "https://www.bigbasket.com/ps/?q=Savlon+Antiseptic+Cream+60g" }
+    ]
+  },
+  {
+    "id": 90,
+    "title": "MDH Garam Masala",
+    "quantity": "100 g",
+    "category": "Spices & Condiments",
+    "image": "https://images.unsplash.com/photo-1596040033229-a9821ebd058d?w=300&h=200&fit=crop",
+    "platforms": [
+      { "name": "Blinkit", "price": "₹75", "link": "https://blinkit.com/s/?q=MDH+Garam+Masala+100g" },
+      { "name": "Swiggy Instamart", "price": "₹72", "link": "https://www.swiggy.com/instamart/search?q=MDH+Garam+Masala+100g" },
+      { "name": "Zepto", "price": "₹73", "link": "https://www.zeptonow.com/search?query=MDH+Garam+Masala+100g" },
+      { "name": "BigBasket", "price": "₹70", "link": "https://www.bigbasket.com/ps/?q=MDH+Garam+Masala+100g" }
+    ]
+  },
+  {
+    "id": 91,
+    "title": "Everest Chicken Masala",
+    "quantity": "50 g",
+    "category": "Spices & Condiments",
+    "image": "https://images.unsplash.com/photo-1547592180-85f173990554?w=300&h=200&fit=crop",
+    "platforms": [
+      { "name": "Blinkit", "price": "₹40", "link": "https://blinkit.com/s/?q=Everest+Chicken+Masala+50g" },
+      { "name": "Swiggy Instamart", "price": "₹38", "link": "https://www.swiggy.com/instamart/search?q=Everest+Chicken+Masala+50g" },
+      { "name": "Zepto", "price": "₹39", "link": "https://www.zeptonow.com/search?query=Everest+Chicken+Masala+50g" },
+      { "name": "BigBasket", "price": "₹37", "link": "https://www.bigbasket.com/ps/?q=Everest+Chicken+Masala+50g" }
+    ]
+  },
+  {
+    "id": 92,
+    "title": "Heinz Tomato Ketchup",
+    "quantity": "500 g",
+    "category": "Spices & Condiments",
+    "image": "https://images.unsplash.com/photo-1558818498-28c1e002b655?w=300&h=200&fit=crop",
+    "platforms": [
+      { "name": "Blinkit", "price": "₹165", "link": "https://blinkit.com/s/?q=Heinz+Tomato+Ketchup+500g" },
+      { "name": "Swiggy Instamart", "price": "₹158", "link": "https://www.swiggy.com/instamart/search?q=Heinz+Tomato+Ketchup+500g" },
+      { "name": "Zepto", "price": "₹160", "link": "https://www.zeptonow.com/search?query=Heinz+Tomato+Ketchup+500g" },
+      { "name": "BigBasket", "price": "₹155", "link": "https://www.bigbasket.com/ps/?q=Heinz+Tomato+Ketchup+500g" }
+    ]
+  },
+  {
+    "id": 93,
+    "title": "Tata Sampann Turmeric Powder",
+    "quantity": "200 g",
+    "category": "Spices & Condiments",
+    "image": "https://images.unsplash.com/photo-1615485500704-8e990f9900f7?w=300&h=200&fit=crop",
+    "platforms": [
+      { "name": "Blinkit", "price": "₹62", "link": "https://blinkit.com/s/?q=Tata+Sampann+Turmeric+Powder+200g" },
+      { "name": "Swiggy Instamart", "price": "₹59", "link": "https://www.swiggy.com/instamart/search?q=Tata+Sampann+Turmeric+Powder+200g" },
+      { "name": "Zepto", "price": "₹60", "link": "https://www.zeptonow.com/search?query=Tata+Sampann+Turmeric+Powder+200g" },
+      { "name": "BigBasket", "price": "₹57", "link": "https://www.bigbasket.com/ps/?q=Tata+Sampann+Turmeric+Powder+200g" }
+    ]
+  },
+  {
+    "id": 94,
+    "title": "Keya Italian Seasoning",
+    "quantity": "60 g",
+    "category": "Spices & Condiments",
+    "image": "https://images.unsplash.com/photo-1572453800999-e8d2d1589b7c?w=300&h=200&fit=crop",
+    "platforms": [
+      { "name": "Blinkit", "price": "₹95", "link": "https://blinkit.com/s/?q=Keya+Italian+Seasoning+60g" },
+      { "name": "Swiggy Instamart", "price": "₹90", "link": "https://www.swiggy.com/instamart/search?q=Keya+Italian+Seasoning+60g" },
+      { "name": "Zepto", "price": "₹92", "link": "https://www.zeptonow.com/search?query=Keya+Italian+Seasoning+60g" },
+      { "name": "BigBasket", "price": "₹88", "link": "https://www.bigbasket.com/ps/?q=Keya+Italian+Seasoning+60g" }
+    ]
+  },
+  {
+    "id": 95,
+    "title": "Dr. Oetker Mayonnaise",
+    "quantity": "300 g",
+    "category": "Spices & Condiments",
+    "image": "https://images.unsplash.com/photo-1635699786965-bbb12c5c3a60?w=300&h=200&fit=crop",
+    "platforms": [
+      { "name": "Blinkit", "price": "₹115", "link": "https://blinkit.com/s/?q=Dr+Oetker+Mayonnaise+300g" },
+      { "name": "Swiggy Instamart", "price": "₹109", "link": "https://www.swiggy.com/instamart/search?q=Dr+Oetker+Mayonnaise+300g" },
+      { "name": "Zepto", "price": "₹112", "link": "https://www.zeptonow.com/search?query=Dr+Oetker+Mayonnaise+300g" },
+      { "name": "BigBasket", "price": "₹105", "link": "https://www.bigbasket.com/ps/?q=Dr+Oetker+Mayonnaise+300g" }
+    ]
+  },
+  {
+    "id": 96,
+    "title": "Catch Pepper Powder",
+    "quantity": "100 g",
+    "category": "Spices & Condiments",
+    "image": "https://images.unsplash.com/photo-1506806732259-39c2d0268443?w=300&h=200&fit=crop",
+    "platforms": [
+      { "name": "Blinkit", "price": "₹85", "link": "https://blinkit.com/s/?q=Catch+Pepper+Powder+100g" },
+      { "name": "Swiggy Instamart", "price": "₹82", "link": "https://www.swiggy.com/instamart/search?q=Catch+Pepper+Powder+100g" },
+      { "name": "Zepto", "price": "₹83", "link": "https://www.zeptonow.com/search?query=Catch+Pepper+Powder+100g" },
+      { "name": "BigBasket", "price": "₹79", "link": "https://www.bigbasket.com/ps/?q=Catch+Pepper+Powder+100g" }
+    ]
+  },
+  {
+    "id": 97,
+    "title": "Moong Dal (Yellow Split)",
+    "quantity": "1 kg",
+    "category": "Pulses & Lentils",
+    "image": "https://images.unsplash.com/photo-1585575321426-e4b8a0d4879d?w=300&h=200&fit=crop",
+    "platforms": [
+      { "name": "Blinkit", "price": "₹130", "link": "https://blinkit.com/s/?q=Moong+Dal+Yellow+Split+1kg" },
+      { "name": "Swiggy Instamart", "price": "₹125", "link": "https://www.swiggy.com/instamart/search?q=Moong+Dal+Yellow+Split+1kg" },
+      { "name": "Zepto", "price": "₹128", "link": "https://www.zeptonow.com/search?query=Moong+Dal+Yellow+Split+1kg" },
+      { "name": "BigBasket", "price": "₹122", "link": "https://www.bigbasket.com/ps/?q=Moong+Dal+Yellow+Split+1kg" }
+    ]
+  },
+  {
+    "id": 98,
+    "title": "Toor Dal",
+    "quantity": "1 kg",
+    "category": "Pulses & Lentils",
+    "image": "https://images.unsplash.com/photo-1601050690597-df0568f70950?w=300&h=200&fit=crop",
+    "platforms": [
+      { "name": "Blinkit", "price": "₹145", "link": "https://blinkit.com/s/?q=Toor+Dal+1kg" },
+      { "name": "Swiggy Instamart", "price": "₹140", "link": "https://www.swiggy.com/instamart/search?q=Toor+Dal+1kg" },
+      { "name": "Zepto", "price": "₹142", "link": "https://www.zeptonow.com/search?query=Toor+Dal+1kg" },
+      { "name": "BigBasket", "price": "₹138", "link": "https://www.bigbasket.com/ps/?q=Toor+Dal+1kg" }
+    ]
+  },
+  {
+    "id": 99,
+    "title": "Kabuli Chana (White Chickpeas)",
+    "quantity": "1 kg",
+    "category": "Pulses & Lentils",
+    "image": "https://images.unsplash.com/photo-1546069901-ba9599a7e63c?w=300&h=200&fit=crop",
+    "platforms": [
+      { "name": "Blinkit", "price": "₹120", "link": "https://blinkit.com/s/?q=Kabuli+Chana+1kg" },
+      { "name": "Swiggy Instamart", "price": "₹115", "link": "https://www.swiggy.com/instamart/search?q=Kabuli+Chana+1kg" },
+      { "name": "Zepto", "price": "₹118", "link": "https://www.zeptonow.com/search?query=Kabuli+Chana+1kg" },
+      { "name": "BigBasket", "price": "₹112", "link": "https://www.bigbasket.com/ps/?q=Kabuli+Chana+1kg" }
+    ]
+  },
+  {
+    "id": 100,
+    "title": "Rajma (Red Kidney Beans)",
+    "quantity": "1 kg",
+    "category": "Pulses & Lentils",
+    "image": "https://images.unsplash.com/photo-1574398950950-6abb7a7e6b58?w=300&h=200&fit=crop",
+    "platforms": [
+      { "name": "Blinkit", "price": "₹140", "link": "https://blinkit.com/s/?q=Rajma+Red+Kidney+Beans+1kg" },
+      { "name": "Swiggy Instamart", "price": "₹135", "link": "https://www.swiggy.com/instamart/search?q=Rajma+Red+Kidney+Beans+1kg" },
+      { "name": "Zepto", "price": "₹138", "link": "https://www.zeptonow.com/search?query=Rajma+Red+Kidney+Beans+1kg" },
+      { "name": "BigBasket", "price": "₹130", "link": "https://www.bigbasket.com/ps/?q=Rajma+Red+Kidney+Beans+1kg" }
+    ]
+  },
+  {
+    "id": 101,
+    "title": "Masoor Dal (Red Lentils)",
+    "quantity": "1 kg",
+    "category": "Pulses & Lentils",
+    "image": "https://images.unsplash.com/photo-1546069901-ba9599a7e63c?w=300&h=200&fit=crop",
+    "platforms": [
+      { "name": "Blinkit", "price": "₹110", "link": "https://blinkit.com/s/?q=Masoor+Dal+Red+Lentils+1kg" },
+      { "name": "Swiggy Instamart", "price": "₹105", "link": "https://www.swiggy.com/instamart/search?q=Masoor+Dal+Red+Lentils+1kg" },
+      { "name": "Zepto", "price": "₹108", "link": "https://www.zeptonow.com/search?query=Masoor+Dal+Red+Lentils+1kg" },
+      { "name": "BigBasket", "price": "₹102", "link": "https://www.bigbasket.com/ps/?q=Masoor+Dal+Red+Lentils+1kg" }
+    ]
+  },
+  {
+    "id": 102,
+    "title": "Amul Frozen Peas",
+    "quantity": "500 g",
+    "category": "Frozen Foods",
+    "image": "https://images.unsplash.com/photo-1562535329-5ea3313a7a8e?w=300&h=200&fit=crop",
+    "platforms": [
+      { "name": "Blinkit", "price": "₹72", "link": "https://blinkit.com/s/?q=Amul+Frozen+Peas+500g" },
+      { "name": "Swiggy Instamart", "price": "₹68", "link": "https://www.swiggy.com/instamart/search?q=Amul+Frozen+Peas+500g" },
+      { "name": "Zepto", "price": "₹70", "link": "https://www.zeptonow.com/search?query=Amul+Frozen+Peas+500g" },
+      { "name": "BigBasket", "price": "₹65", "link": "https://www.bigbasket.com/ps/?q=Amul+Frozen+Peas+500g" }
+    ]
+  },
+  {
+    "id": 103,
+    "title": "McCain French Fries",
+    "quantity": "420 g",
+    "category": "Frozen Foods",
+    "image": "https://images.unsplash.com/photo-1576107232684-1279f390859f?w=300&h=200&fit=crop",
+    "platforms": [
+      { "name": "Blinkit", "price": "₹165", "link": "https://blinkit.com/s/?q=McCain+French+Fries+420g" },
+      { "name": "Swiggy Instamart", "price": "₹158", "link": "https://www.swiggy.com/instamart/search?q=McCain+French+Fries+420g" },
+      { "name": "Zepto", "price": "₹160", "link": "https://www.zeptonow.com/search?query=McCain+French+Fries+420g" },
+      { "name": "BigBasket", "price": "₹155", "link": "https://www.bigbasket.com/ps/?q=McCain+French+Fries+420g" }
+    ]
+  },
+  {
+    "id": 104,
+    "title": "ITC Master Chef Frozen Paratha",
+    "quantity": "Pack of 5",
+    "category": "Frozen Foods",
+    "image": "https://images.unsplash.com/photo-1574071318508-1cdbab80d002?w=300&h=200&fit=crop",
+    "platforms": [
+      { "name": "Blinkit", "price": "₹95", "link": "https://blinkit.com/s/?q=ITC+Master+Chef+Frozen+Paratha+5+pack" },
+      { "name": "Swiggy Instamart", "price": "₹90", "link": "https://www.swiggy.com/instamart/search?q=ITC+Frozen+Paratha+5+pack" },
+      { "name": "Zepto", "price": "₹92", "link": "https://www.zeptonow.com/search?query=ITC+Frozen+Paratha+5+pack" },
+      { "name": "BigBasket", "price": "₹88", "link": "https://www.bigbasket.com/ps/?q=ITC+Frozen+Paratha+5+pack" }
+    ]
+  },
+  {
+    "id": 105,
+    "title": "Venky's Chicken Nuggets",
+    "quantity": "600 g",
+    "category": "Frozen Foods",
+    "image": "https://images.unsplash.com/photo-1562967914-608f82629710?w=300&h=200&fit=crop",
+    "platforms": [
+      { "name": "Blinkit", "price": "₹320", "link": "https://blinkit.com/s/?q=Venkys+Chicken+Nuggets+600g" },
+      { "name": "Swiggy Instamart", "price": "₹309", "link": "https://www.swiggy.com/instamart/search?q=Venkys+Chicken+Nuggets+600g" },
+      { "name": "Zepto", "price": "₹315", "link": "https://www.zeptonow.com/search?query=Venkys+Chicken+Nuggets+600g" },
+      { "name": "BigBasket", "price": "₹299", "link": "https://www.bigbasket.com/ps/?q=Venkys+Chicken+Nuggets+600g" }
+    ]
+  },
+  {
+    "id": 106,
+    "title": "Happydent White Chewing Gum",
+    "quantity": "Pack of 18 Strips",
+    "category": "Candy & Gum",
+    "image": "https://images.unsplash.com/photo-1600861195091-690c92f1d2cc?w=300&h=200&fit=crop",
+    "platforms": [
+      { "name": "Blinkit", "price": "₹50", "link": "https://blinkit.com/s/?q=Happydent+White+Chewing+Gum" },
+      { "name": "Swiggy Instamart", "price": "₹48", "link": "https://www.swiggy.com/instamart/search?q=Happydent+White+Chewing+Gum" },
+      { "name": "Zepto", "price": "₹49", "link": "https://www.zeptonow.com/search?query=Happydent+White+Chewing+Gum" },
+      { "name": "BigBasket", "price": "₹45", "link": "https://www.bigbasket.com/ps/?q=Happydent+White+Chewing+Gum" }
+    ]
+  },
+  {
+    "id": 107,
+    "title": "Pulse Candy (Kachha Aam)",
+    "quantity": "Pack of 20",
+    "category": "Candy & Gum",
+    "image": "https://images.unsplash.com/photo-1600861195091-690c92f1d2cc?w=300&h=200&fit=crop",
+    "platforms": [
+      { "name": "Blinkit", "price": "₹20", "link": "https://blinkit.com/s/?q=Pulse+Candy+Kachha+Aam+20+pack" },
+      { "name": "Swiggy Instamart", "price": "₹18", "link": "https://www.swiggy.com/instamart/search?q=Pulse+Candy+Kachha+Aam" },
+      { "name": "Zepto", "price": "₹19", "link": "https://www.zeptonow.com/search?query=Pulse+Candy+Kachha+Aam" },
+      { "name": "BigBasket", "price": "₹18", "link": "https://www.bigbasket.com/ps/?q=Pulse+Candy+Kachha+Aam" }
+    ]
+  },
+  {
+    "id": 108,
+    "title": "Mentos Mint Candy",
+    "quantity": "Pack of 10 Rolls",
+    "category": "Candy & Gum",
+    "image": "https://images.unsplash.com/photo-1582058091505-f87a2e55a40f?w=300&h=200&fit=crop",
+    "platforms": [
+      { "name": "Blinkit", "price": "₹60", "link": "https://blinkit.com/s/?q=Mentos+Mint+Candy+10+Rolls" },
+      { "name": "Swiggy Instamart", "price": "₹57", "link": "https://www.swiggy.com/instamart/search?q=Mentos+Mint+Candy+10+Rolls" },
+      { "name": "Zepto", "price": "₹58", "link": "https://www.zeptonow.com/search?query=Mentos+Mint+Candy+10+Rolls" },
+      { "name": "BigBasket", "price": "₹55", "link": "https://www.bigbasket.com/ps/?q=Mentos+Mint+Candy+10+Rolls" }
+    ]
+  },
+  {
+    "id": 109,
+    "title": "Borges Olive Oil (Extra Virgin)",
+    "quantity": "500 ml",
+    "category": "Gourmet & Organic",
+    "image": "https://images.unsplash.com/photo-1474979266404-7eaacbcd87c5?w=300&h=200&fit=crop",
+    "platforms": [
+      { "name": "Blinkit", "price": "₹699", "link": "https://blinkit.com/s/?q=Borges+Olive+Oil+Extra+Virgin+500ml" },
+      { "name": "Swiggy Instamart", "price": "₹679", "link": "https://www.swiggy.com/instamart/search?q=Borges+Olive+Oil+Extra+Virgin+500ml" },
+      { "name": "Zepto", "price": "₹689", "link": "https://www.zeptonow.com/search?query=Borges+Olive+Oil+Extra+Virgin+500ml" },
+      { "name": "BigBasket", "price": "₹665", "link": "https://www.bigbasket.com/ps/?q=Borges+Olive+Oil+Extra+Virgin+500ml" }
+    ]
+  },
+  {
+    "id": 110,
+    "title": "Organic Tattva Brown Rice",
+    "quantity": "1 kg",
+    "category": "Gourmet & Organic",
+    "image": "https://images.unsplash.com/photo-1586201375761-83865001e31c?w=300&h=200&fit=crop",
+    "platforms": [
+      { "name": "Blinkit", "price": "₹165", "link": "https://blinkit.com/s/?q=Organic+Tattva+Brown+Rice+1kg" },
+      { "name": "Swiggy Instamart", "price": "₹158", "link": "https://www.swiggy.com/instamart/search?q=Organic+Tattva+Brown+Rice+1kg" },
+      { "name": "Zepto", "price": "₹162", "link": "https://www.zeptonow.com/search?query=Organic+Tattva+Brown+Rice+1kg" },
+      { "name": "BigBasket", "price": "₹155", "link": "https://www.bigbasket.com/ps/?q=Organic+Tattva+Brown+Rice+1kg" }
+    ]
+  },
+  {
+    "id": 111,
+    "title": "Nutella Hazelnut Spread",
+    "quantity": "350 g",
+    "category": "Gourmet & Organic",
+    "image": "https://images.unsplash.com/photo-1571185280820-a71db33a5b22?w=300&h=200&fit=crop",
+    "platforms": [
+      { "name": "Blinkit", "price": "₹395", "link": "https://blinkit.com/s/?q=Nutella+Hazelnut+Spread+350g" },
+      { "name": "Swiggy Instamart", "price": "₹380", "link": "https://www.swiggy.com/instamart/search?q=Nutella+Hazelnut+Spread+350g" },
+      { "name": "Zepto", "price": "₹385", "link": "https://www.zeptonow.com/search?query=Nutella+Hazelnut+Spread+350g" },
+      { "name": "BigBasket", "price": "₹370", "link": "https://www.bigbasket.com/ps/?q=Nutella+Hazelnut+Spread+350g" }
+    ]
+  },
+  {
+    "id": 112,
+    "title": "Yoga Bar Oats & Berries Bar",
+    "quantity": "Pack of 6",
+    "category": "Gourmet & Organic",
+    "image": "https://images.unsplash.com/photo-1505252585461-04db1eb84625?w=300&h=200&fit=crop",
+    "platforms": [
+      { "name": "Blinkit", "price": "₹240", "link": "https://blinkit.com/s/?q=Yoga+Bar+Oats+Berries+Bar+6+pack" },
+      { "name": "Swiggy Instamart", "price": "₹229", "link": "https://www.swiggy.com/instamart/search?q=Yoga+Bar+Oats+Berries+Bar+6+pack" },
+      { "name": "Zepto", "price": "₹235", "link": "https://www.zeptonow.com/search?query=Yoga+Bar+Oats+Berries+Bar+6+pack" },
+      { "name": "BigBasket", "price": "₹225", "link": "https://www.bigbasket.com/ps/?q=Yoga+Bar+Oats+Berries+Bar+6+pack" }
+    ]
+  },
+  {
+    "id": 113,
+    "title": "Almond (Badam) Whole",
+    "quantity": "250 g",
+    "category": "Dry Fruits & Nuts",
+    "image": "https://images.unsplash.com/photo-1508061253366-f7da158b6d46?w=300&h=200&fit=crop",
+    "platforms": [
+      { "name": "Blinkit", "price": "₹280", "link": "https://blinkit.com/s/?q=Almond+Badam+Whole+250g" },
+      { "name": "Swiggy Instamart", "price": "₹269", "link": "https://www.swiggy.com/instamart/search?q=Almond+Badam+Whole+250g" },
+      { "name": "Zepto", "price": "₹275", "link": "https://www.zeptonow.com/search?query=Almond+Badam+Whole+250g" },
+      { "name": "BigBasket", "price": "₹260", "link": "https://www.bigbasket.com/ps/?q=Almond+Badam+Whole+250g" }
+    ]
+  },
+  {
+    "id": 114,
+    "title": "Cashew (Kaju) W320",
+    "quantity": "250 g",
+    "category": "Dry Fruits & Nuts",
+    "image": "https://images.unsplash.com/photo-1525706558573-0ad9a0f4f7c9?w=300&h=200&fit=crop",
+    "platforms": [
+      { "name": "Blinkit", "price": "₹340", "link": "https://blinkit.com/s/?q=Cashew+Kaju+W320+250g" },
+      { "name": "Swiggy Instamart", "price": "₹325", "link": "https://www.swiggy.com/instamart/search?q=Cashew+Kaju+W320+250g" },
+      { "name": "Zepto", "price": "₹332", "link": "https://www.zeptonow.com/search?query=Cashew+Kaju+W320+250g" },
+      { "name": "BigBasket", "price": "₹319", "link": "https://www.bigbasket.com/ps/?q=Cashew+Kaju+W320+250g" }
+    ]
+  },
+  {
+    "id": 115,
+    "title": "Raisins (Kishmish)",
+    "quantity": "250 g",
+    "category": "Dry Fruits & Nuts",
+    "image": "https://images.unsplash.com/photo-1611575980748-49bf59fcef3d?w=300&h=200&fit=crop",
+    "platforms": [
+      { "name": "Blinkit", "price": "₹110", "link": "https://blinkit.com/s/?q=Raisins+Kishmish+250g" },
+      { "name": "Swiggy Instamart", "price": "₹105", "link": "https://www.swiggy.com/instamart/search?q=Raisins+Kishmish+250g" },
+      { "name": "Zepto", "price": "₹108", "link": "https://www.zeptonow.com/search?query=Raisins+Kishmish+250g" },
+      { "name": "BigBasket", "price": "₹102", "link": "https://www.bigbasket.com/ps/?q=Raisins+Kishmish+250g" }
+    ]
+  },
+  {
+    "id": 116,
+    "title": "Walnuts (Akhrot) Kernels",
+    "quantity": "200 g",
+    "category": "Dry Fruits & Nuts",
+    "image": "https://images.unsplash.com/photo-1509912150946-e22b7879da2a?w=300&h=200&fit=crop",
+    "platforms": [
+      { "name": "Blinkit", "price": "₹320", "link": "https://blinkit.com/s/?q=Walnuts+Akhrot+Kernels+200g" },
+      { "name": "Swiggy Instamart", "price": "₹308", "link": "https://www.swiggy.com/instamart/search?q=Walnuts+Akhrot+Kernels+200g" },
+      { "name": "Zepto", "price": "₹315", "link": "https://www.zeptonow.com/search?query=Walnuts+Akhrot+Kernels+200g" },
+      { "name": "BigBasket", "price": "₹299", "link": "https://www.bigbasket.com/ps/?q=Walnuts+Akhrot+Kernels+200g" }
+    ]
+  },
+  {
+    "id": 117,
+    "title": "Dates (Medjool)",
+    "quantity": "500 g",
+    "category": "Dry Fruits & Nuts",
+    "image": "https://images.unsplash.com/photo-1584370848010-d7fe6bc767ec?w=300&h=200&fit=crop",
+    "platforms": [
+      { "name": "Blinkit", "price": "₹390", "link": "https://blinkit.com/s/?q=Medjool+Dates+500g" },
+      { "name": "Swiggy Instamart", "price": "₹375", "link": "https://www.swiggy.com/instamart/search?q=Medjool+Dates+500g" },
+      { "name": "Zepto", "price": "₹382", "link": "https://www.zeptonow.com/search?query=Medjool+Dates+500g" },
+      { "name": "BigBasket", "price": "₹365", "link": "https://www.bigbasket.com/ps/?q=Medjool+Dates+500g" }
+    ]
+  },
+  {
+    "id": 118,
+    "title": "Duracell AA Batteries",
+    "quantity": "Pack of 10",
+    "category": "Electronics & Accessories",
+    "image": "https://images.unsplash.com/photo-1620714223084-8fcacc2dfd4d?w=300&h=200&fit=crop",
+    "platforms": [
+      { "name": "Blinkit", "price": "₹320", "link": "https://blinkit.com/s/?q=Duracell+AA+Batteries+10+pack" },
+      { "name": "Swiggy Instamart", "price": "₹308", "link": "https://www.swiggy.com/instamart/search?q=Duracell+AA+Batteries+10+pack" },
+      { "name": "Zepto", "price": "₹315", "link": "https://www.zeptonow.com/search?query=Duracell+AA+Batteries+10+pack" },
+      { "name": "BigBasket", "price": "₹299", "link": "https://www.bigbasket.com/ps/?q=Duracell+AA+Batteries+10+pack" }
+    ]
+  },
+  {
+    "id": 119,
+    "title": "Syska LED Bulb 9W",
+    "quantity": "Pack of 4",
+    "category": "Electronics & Accessories",
+    "image": "https://images.unsplash.com/photo-1533090161767-e6ffed986c88?w=300&h=200&fit=crop",
+    "platforms": [
+      { "name": "Blinkit", "price": "₹299", "link": "https://blinkit.com/s/?q=Syska+LED+Bulb+9W+4+pack" },
+      { "name": "Swiggy Instamart", "price": "₹289", "link": "https://www.swiggy.com/instamart/search?q=Syska+LED+Bulb+9W+4+pack" },
+      { "name": "Zepto", "price": "₹295", "link": "https://www.zeptonow.com/search?query=Syska+LED+Bulb+9W+4+pack" },
+      { "name": "BigBasket", "price": "₹279", "link": "https://www.bigbasket.com/ps/?q=Syska+LED+Bulb+9W+4+pack" }
+    ]
+  },
+  {
+    "id": 120,
+    "title": "Boat Earwear Bass Heads",
+    "quantity": "1 Unit",
+    "category": "Electronics & Accessories",
+    "image": "https://images.unsplash.com/photo-1505740420928-5e560c06d30e?w=300&h=200&fit=crop",
+    "platforms": [
+      { "name": "Blinkit", "price": "₹399", "link": "https://blinkit.com/s/?q=Boat+Earwear+Bass+Heads" },
+      { "name": "Swiggy Instamart", "price": "₹385", "link": "https://www.swiggy.com/instamart/search?q=Boat+Earwear+Bass+Heads" },
+      { "name": "Zepto", "price": "₹392", "link": "https://www.zeptonow.com/search?query=Boat+Earwear+Bass+Heads" },
+      { "name": "BigBasket", "price": "₹379", "link": "https://www.bigbasket.com/ps/?q=Boat+Earwear+Bass+Heads" }
+    ]
+  },
+  {
+    "id": 121,
+    "title": "Phone Charging Cable (USB-C)",
+    "quantity": "1.5 m",
+    "category": "Electronics & Accessories",
+    "image": "https://images.unsplash.com/photo-1601784551446-20c9e07cdbdb?w=300&h=200&fit=crop",
+    "platforms": [
+      { "name": "Blinkit", "price": "₹249", "link": "https://blinkit.com/s/?q=USB-C+Charging+Cable+1.5m" },
+      { "name": "Swiggy Instamart", "price": "₹239", "link": "https://www.swiggy.com/instamart/search?q=USB-C+Charging+Cable+1.5m" },
+      { "name": "Zepto", "price": "₹245", "link": "https://www.zeptonow.com/search?query=USB-C+Charging+Cable+1.5m" },
+      { "name": "BigBasket", "price": "₹229", "link": "https://www.bigbasket.com/ps/?q=USB-C+Charging+Cable+1.5m" }
+    ]
+  },
+  {
+    "id": 122,
+    "title": "Pedigree Adult Dog Food",
+    "quantity": "3 kg",
+    "category": "Pet Care",
+    "image": "https://images.unsplash.com/photo-1589924691995-400dc9ecc119?w=300&h=200&fit=crop",
+    "platforms": [
+      { "name": "Blinkit", "price": "₹725", "link": "https://blinkit.com/s/?q=Pedigree+Adult+Dog+Food+3kg" },
+      { "name": "Swiggy Instamart", "price": "₹699", "link": "https://www.swiggy.com/instamart/search?q=Pedigree+Adult+Dog+Food+3kg" },
+      { "name": "Zepto", "price": "₹712", "link": "https://www.zeptonow.com/search?query=Pedigree+Adult+Dog+Food+3kg" },
+      { "name": "BigBasket", "price": "₹689", "link": "https://www.bigbasket.com/ps/?q=Pedigree+Adult+Dog+Food+3kg" }
+    ]
+  },
+  {
+    "id": 123,
+    "title": "Whiskas Adult Cat Food",
+    "quantity": "1.2 kg",
+    "category": "Pet Care",
+    "image": "https://images.unsplash.com/photo-1514888286974-6c03e2ca1dba?w=300&h=200&fit=crop",
+    "platforms": [
+      { "name": "Blinkit", "price": "₹620", "link": "https://blinkit.com/s/?q=Whiskas+Adult+Cat+Food+1.2kg" },
+      { "name": "Swiggy Instamart", "price": "₹598", "link": "https://www.swiggy.com/instamart/search?q=Whiskas+Adult+Cat+Food+1.2kg" },
+      { "name": "Zepto", "price": "₹609", "link": "https://www.zeptonow.com/search?query=Whiskas+Adult+Cat+Food+1.2kg" },
+      { "name": "BigBasket", "price": "₹585", "link": "https://www.bigbasket.com/ps/?q=Whiskas+Adult+Cat+Food+1.2kg" }
+    ]
+  },
+  {
+    "id": 124,
+    "title": "Farmina Dog Treats",
+    "quantity": "100 g",
+    "category": "Pet Care",
+    "image": "https://images.unsplash.com/photo-1548199973-03cce0bbc87b?w=300&h=200&fit=crop",
+    "platforms": [
+      { "name": "Blinkit", "price": "₹185", "link": "https://blinkit.com/s/?q=Farmina+Dog+Treats+100g" },
+      { "name": "Swiggy Instamart", "price": "₹178", "link": "https://www.swiggy.com/instamart/search?q=Farmina+Dog+Treats+100g" },
+      { "name": "Zepto", "price": "₹182", "link": "https://www.zeptonow.com/search?query=Farmina+Dog+Treats+100g" },
+      { "name": "BigBasket", "price": "₹172", "link": "https://www.bigbasket.com/ps/?q=Farmina+Dog+Treats+100g" }
+    ]
+  },
+  {
+    "id": 125,
+    "title": "Classmate Notebook (Single Line)",
+    "quantity": "Pack of 6 (172 pages each)",
+    "category": "Stationery",
+    "image": "https://images.unsplash.com/photo-1531346878377-a5be20888e57?w=300&h=200&fit=crop",
+    "platforms": [
+      { "name": "Blinkit", "price": "₹180", "link": "https://blinkit.com/s/?q=Classmate+Notebook+Single+Line+6+pack" },
+      { "name": "Swiggy Instamart", "price": "₹170", "link": "https://www.swiggy.com/instamart/search?q=Classmate+Notebook+Single+Line+6+pack" },
+      { "name": "Zepto", "price": "₹175", "link": "https://www.zeptonow.com/search?query=Classmate+Notebook+Single+Line+6+pack" },
+      { "name": "BigBasket", "price": "₹165", "link": "https://www.bigbasket.com/ps/?q=Classmate+Notebook+Single+Line+6+pack" }
+    ]
+  },
+  {
+    "id": 126,
+    "title": "Reynolds Ballpoint Pen",
+    "quantity": "Pack of 10 (Blue)",
+    "category": "Stationery",
+    "image": "https://images.unsplash.com/photo-1583485088034-697b5bc54ccd?w=300&h=200&fit=crop",
+    "platforms": [
+      { "name": "Blinkit", "price": "₹90", "link": "https://blinkit.com/s/?q=Reynolds+Ballpoint+Pen+Blue+10+pack" },
+      { "name": "Swiggy Instamart", "price": "₹85", "link": "https://www.swiggy.com/instamart/search?q=Reynolds+Ballpoint+Pen+Blue+10+pack" },
+      { "name": "Zepto", "price": "₹88", "link": "https://www.zeptonow.com/search?query=Reynolds+Ballpoint+Pen+Blue+10+pack" },
+      { "name": "BigBasket", "price": "₹82", "link": "https://www.bigbasket.com/ps/?q=Reynolds+Ballpoint+Pen+Blue+10+pack" }
+    ]
+  },
+  {
+    "id": 127,
+    "title": "Fevicol MR Adhesive",
+    "quantity": "500 g",
+    "category": "Stationery",
+    "image": "https://images.unsplash.com/photo-1611532736597-de2d4265fba3?w=300&h=200&fit=crop",
+    "platforms": [
+      { "name": "Blinkit", "price": "₹115", "link": "https://blinkit.com/s/?q=Fevicol+MR+Adhesive+500g" },
+      { "name": "Swiggy Instamart", "price": "₹109", "link": "https://www.swiggy.com/instamart/search?q=Fevicol+MR+Adhesive+500g" },
+      { "name": "Zepto", "price": "₹112", "link": "https://www.zeptonow.com/search?query=Fevicol+MR+Adhesive+500g" },
+      { "name": "BigBasket", "price": "₹105", "link": "https://www.bigbasket.com/ps/?q=Fevicol+MR+Adhesive+500g" }
+    ]
+  },
+  {
+    "id": 128,
+    "title": "Scotch Tape (Clear)",
+    "quantity": "Pack of 3 Rolls",
+    "category": "Stationery",
+    "image": "https://images.unsplash.com/photo-1611532736597-de2d4265fba3?w=300&h=200&fit=crop",
+    "platforms": [
+      { "name": "Blinkit", "price": "₹60", "link": "https://blinkit.com/s/?q=Scotch+Clear+Tape+3+pack" },
+      { "name": "Swiggy Instamart", "price": "₹57", "link": "https://www.swiggy.com/instamart/search?q=Scotch+Clear+Tape+3+pack" },
+      { "name": "Zepto", "price": "₹58", "link": "https://www.zeptonow.com/search?query=Scotch+Clear+Tape+3+pack" },
+      { "name": "BigBasket", "price": "₹55", "link": "https://www.bigbasket.com/ps/?q=Scotch+Clear+Tape+3+pack" }
+    ]
+  },
+  {
+    "id": 129,
+    "title": "Dettol Soap (Original)",
+    "quantity": "3 x 75 g",
+    "category": "Personal Care",
+    "image": "https://images.unsplash.com/photo-1607006344380-b6775a0824a7?w=300&h=200&fit=crop",
+    "platforms": [
+      { "name": "Blinkit", "price": "₹110", "link": "https://blinkit.com/s/?q=Dettol+Soap+Original+3+pack" },
+      { "name": "Swiggy Instamart", "price": "₹105", "link": "https://www.swiggy.com/instamart/search?q=Dettol+Soap+Original+3+pack" },
+      { "name": "Zepto", "price": "₹108", "link": "https://www.zeptonow.com/search?query=Dettol+Soap+Original+3+pack" },
+      { "name": "BigBasket", "price": "₹99", "link": "https://www.bigbasket.com/ps/?q=Dettol+Soap+Original+3+pack" }
+    ]
+  },
+  {
+    "id": 130,
+    "title": "Ambi Pur Car Freshener",
+    "quantity": "1 Unit",
+    "category": "Household",
+    "image": "https://images.unsplash.com/photo-1585421514284-efb74c2b69ba?w=300&h=200&fit=crop",
+    "platforms": [
+      { "name": "Blinkit", "price": "₹185", "link": "https://blinkit.com/s/?q=Ambi+Pur+Car+Freshener" },
+      { "name": "Swiggy Instamart", "price": "₹178", "link": "https://www.swiggy.com/instamart/search?q=Ambi+Pur+Car+Freshener" },
+      { "name": "Zepto", "price": "₹182", "link": "https://www.zeptonow.com/search?query=Ambi+Pur+Car+Freshener" },
+      { "name": "BigBasket", "price": "₹172", "link": "https://www.bigbasket.com/ps/?q=Ambi+Pur+Car+Freshener" }
+    ]
+  },
+  {
+    "id": 131,
+    "title": "Ghadi Detergent Powder",
+    "quantity": "3 kg",
+    "category": "Household",
+    "image": "https://images.unsplash.com/photo-1604335399105-a0c585fd81a1?w=300&h=200&fit=crop",
+    "platforms": [
+      { "name": "Blinkit", "price": "₹220", "link": "https://blinkit.com/s/?q=Ghadi+Detergent+Powder+3kg" },
+      { "name": "Swiggy Instamart", "price": "₹209", "link": "https://www.swiggy.com/instamart/search?q=Ghadi+Detergent+Powder+3kg" },
+      { "name": "Zepto", "price": "₹215", "link": "https://www.zeptonow.com/search?query=Ghadi+Detergent+Powder+3kg" },
+      { "name": "BigBasket", "price": "₹199", "link": "https://www.bigbasket.com/ps/?q=Ghadi+Detergent+Powder+3kg" }
+    ]
+  },
+  {
+    "id": 132,
+    "title": "Mr. Muscle Kitchen Cleaner",
+    "quantity": "500 ml",
+    "category": "Household",
+    "image": "https://images.unsplash.com/photo-1563453392212-326f5e854473?w=300&h=200&fit=crop",
+    "platforms": [
+      { "name": "Blinkit", "price": "₹155", "link": "https://blinkit.com/s/?q=Mr+Muscle+Kitchen+Cleaner+500ml" },
+      { "name": "Swiggy Instamart", "price": "₹148", "link": "https://www.swiggy.com/instamart/search?q=Mr+Muscle+Kitchen+Cleaner+500ml" },
+      { "name": "Zepto", "price": "₹150", "link": "https://www.zeptonow.com/search?query=Mr+Muscle+Kitchen+Cleaner+500ml" },
+      { "name": "BigBasket", "price": "₹145", "link": "https://www.bigbasket.com/ps/?q=Mr+Muscle+Kitchen+Cleaner+500ml" }
+    ]
+  },
+  {
+    "id": 133,
+    "title": "Garbage Bags (Large)",
+    "quantity": "Pack of 30",
+    "category": "Household",
+    "image": "https://images.unsplash.com/photo-1558618666-fcd25c85cd64?w=300&h=200&fit=crop",
+    "platforms": [
+      { "name": "Blinkit", "price": "₹135", "link": "https://blinkit.com/s/?q=Garbage+Bags+Large+30+pack" },
+      { "name": "Swiggy Instamart", "price": "₹129", "link": "https://www.swiggy.com/instamart/search?q=Garbage+Bags+Large+30+pack" },
+      { "name": "Zepto", "price": "₹132", "link": "https://www.zeptonow.com/search?query=Garbage+Bags+Large+30+pack" },
+      { "name": "BigBasket", "price": "₹125", "link": "https://www.bigbasket.com/ps/?q=Garbage+Bags+Large+30+pack" }
+    ]
+  },
+  {
+    "id": 134,
+    "title": "Aluminium Foil Roll",
+    "quantity": "9 m",
+    "category": "Household",
+    "image": "https://images.unsplash.com/photo-1585421514284-efb74c2b69ba?w=300&h=200&fit=crop",
+    "platforms": [
+      { "name": "Blinkit", "price": "₹65", "link": "https://blinkit.com/s/?q=Aluminium+Foil+Roll+9m" },
+      { "name": "Swiggy Instamart", "price": "₹62", "link": "https://www.swiggy.com/instamart/search?q=Aluminium+Foil+Roll+9m" },
+      { "name": "Zepto", "price": "₹63", "link": "https://www.zeptonow.com/search?query=Aluminium+Foil+Roll+9m" },
+      { "name": "BigBasket", "price": "₹60", "link": "https://www.bigbasket.com/ps/?q=Aluminium+Foil+Roll+9m" }
+    ]
+  },
+  {
+    "id": 135,
+    "title": "Tissue Paper Box",
+    "quantity": "200 Pulls",
+    "category": "Household",
+    "image": "https://images.unsplash.com/photo-1605600659908-0ef719419d41?w=300&h=200&fit=crop",
+    "platforms": [
+      { "name": "Blinkit", "price": "₹95", "link": "https://blinkit.com/s/?q=Tissue+Paper+Box+200+Pulls" },
+      { "name": "Swiggy Instamart", "price": "₹90", "link": "https://www.swiggy.com/instamart/search?q=Tissue+Paper+Box+200+Pulls" },
+      { "name": "Zepto", "price": "₹92", "link": "https://www.zeptonow.com/search?query=Tissue+Paper+Box+200+Pulls" },
+      { "name": "BigBasket", "price": "₹88", "link": "https://www.bigbasket.com/ps/?q=Tissue+Paper+Box+200+Pulls" }
+    ]
+  },
+  {
+    "id": 136,
+    "title": "Lux Soft Touch Soap",
+    "quantity": "4 x 100 g",
+    "category": "Personal Care",
+    "image": "https://images.unsplash.com/photo-1607006344380-b6775a0824a7?w=300&h=200&fit=crop",
+    "platforms": [
+      { "name": "Blinkit", "price": "₹160", "link": "https://blinkit.com/s/?q=Lux+Soft+Touch+Soap+4+pack" },
+      { "name": "Swiggy Instamart", "price": "₹152", "link": "https://www.swiggy.com/instamart/search?q=Lux+Soft+Touch+Soap+4+pack" },
+      { "name": "Zepto", "price": "₹155", "link": "https://www.zeptonow.com/search?query=Lux+Soft+Touch+Soap+4+pack" },
+      { "name": "BigBasket", "price": "₹149", "link": "https://www.bigbasket.com/ps/?q=Lux+Soft+Touch+Soap+4+pack" }
+    ]
+  },
+  {
+    "id": 137,
+    "title": "Biotique Bio Honey Lotion",
+    "quantity": "200 ml",
+    "category": "Personal Care",
+    "image": "https://images.unsplash.com/photo-1571781926291-c477ebfd024b?w=300&h=200&fit=crop",
+    "platforms": [
+      { "name": "Blinkit", "price": "₹229", "link": "https://blinkit.com/s/?q=Biotique+Bio+Honey+Lotion+200ml" },
+      { "name": "Swiggy Instamart", "price": "₹219", "link": "https://www.swiggy.com/instamart/search?q=Biotique+Bio+Honey+Lotion+200ml" },
+      { "name": "Zepto", "price": "₹225", "link": "https://www.zeptonow.com/search?query=Biotique+Bio+Honey+Lotion+200ml" },
+      { "name": "BigBasket", "price": "₹210", "link": "https://www.bigbasket.com/ps/?q=Biotique+Bio+Honey+Lotion+200ml" }
+    ]
+  },
+  {
+    "id": 138,
+    "title": "Garnier Micellar Water",
+    "quantity": "400 ml",
+    "category": "Personal Care",
+    "image": "https://images.unsplash.com/photo-1556228841-a3c527ebefe5?w=300&h=200&fit=crop",
+    "platforms": [
+      { "name": "Blinkit", "price": "₹299", "link": "https://blinkit.com/s/?q=Garnier+Micellar+Water+400ml" },
+      { "name": "Swiggy Instamart", "price": "₹285", "link": "https://www.swiggy.com/instamart/search?q=Garnier+Micellar+Water+400ml" },
+      { "name": "Zepto", "price": "₹292", "link": "https://www.zeptonow.com/search?query=Garnier+Micellar+Water+400ml" },
+      { "name": "BigBasket", "price": "₹279", "link": "https://www.bigbasket.com/ps/?q=Garnier+Micellar+Water+400ml" }
+    ]
+  },
+  {
+    "id": 139,
+    "title": "Plum Body Butter",
+    "quantity": "200 g",
+    "category": "Personal Care",
+    "image": "https://images.unsplash.com/photo-1571781926291-c477ebfd024b?w=300&h=200&fit=crop",
+    "platforms": [
+      { "name": "Blinkit", "price": "₹395", "link": "https://blinkit.com/s/?q=Plum+Body+Butter+200g" },
+      { "name": "Swiggy Instamart", "price": "₹380", "link": "https://www.swiggy.com/instamart/search?q=Plum+Body+Butter+200g" },
+      { "name": "Zepto", "price": "₹388", "link": "https://www.zeptonow.com/search?query=Plum+Body+Butter+200g" },
+      { "name": "BigBasket", "price": "₹369", "link": "https://www.bigbasket.com/ps/?q=Plum+Body+Butter+200g" }
+    ]
+  },
+  {
+    "id": 140,
+    "title": "Close Up Toothpaste",
+    "quantity": "150 g",
+    "category": "Personal Care",
+    "image": "https://images.unsplash.com/photo-1609840113046-5c7aee7c3a5a?w=300&h=200&fit=crop",
+    "platforms": [
+      { "name": "Blinkit", "price": "₹82", "link": "https://blinkit.com/s/?q=Close+Up+Toothpaste+150g" },
+      { "name": "Swiggy Instamart", "price": "₹78", "link": "https://www.swiggy.com/instamart/search?q=Close+Up+Toothpaste+150g" },
+      { "name": "Zepto", "price": "₹80", "link": "https://www.zeptonow.com/search?query=Close+Up+Toothpaste+150g" },
+      { "name": "BigBasket", "price": "₹76", "link": "https://www.bigbasket.com/ps/?q=Close+Up+Toothpaste+150g" }
+    ]
+  },
+  {
+    "id": 141,
+    "title": "WOW Skin Science Apple Cider Vinegar Shampoo",
+    "quantity": "300 ml",
+    "category": "Personal Care",
+    "image": "https://images.unsplash.com/photo-1526947425960-945c6e72858f?w=300&h=200&fit=crop",
+    "platforms": [
+      { "name": "Blinkit", "price": "₹425", "link": "https://blinkit.com/s/?q=WOW+Apple+Cider+Vinegar+Shampoo+300ml" },
+      { "name": "Swiggy Instamart", "price": "₹409", "link": "https://www.swiggy.com/instamart/search?q=WOW+Apple+Cider+Vinegar+Shampoo+300ml" },
+      { "name": "Zepto", "price": "₹415", "link": "https://www.zeptonow.com/search?query=WOW+Apple+Cider+Vinegar+Shampoo+300ml" },
+      { "name": "BigBasket", "price": "₹399", "link": "https://www.bigbasket.com/ps/?q=WOW+Apple+Cider+Vinegar+Shampoo+300ml" }
+    ]
+  },
+  {
+    "id": 142,
+    "title": "Amul Mithai Mate (Condensed Milk)",
+    "quantity": "400 g",
+    "category": "Dairy",
+    "image": "https://images.unsplash.com/photo-1550583724-b2692b85b150?w=300&h=200&fit=crop",
+    "platforms": [
+      { "name": "Blinkit", "price": "₹92", "link": "https://blinkit.com/s/?q=Amul+Mithai+Mate+Condensed+Milk+400g" },
+      { "name": "Swiggy Instamart", "price": "₹88", "link": "https://www.swiggy.com/instamart/search?q=Amul+Mithai+Mate+Condensed+Milk+400g" },
+      { "name": "Zepto", "price": "₹90", "link": "https://www.zeptonow.com/search?query=Amul+Mithai+Mate+Condensed+Milk+400g" },
+      { "name": "BigBasket", "price": "₹85", "link": "https://www.bigbasket.com/ps/?q=Amul+Mithai+Mate+Condensed+Milk+400g" }
+    ]
+  },
+  {
+    "id": 143,
+    "title": "Glucon-D Energy Drink",
+    "quantity": "500 g",
+    "category": "Beverages",
+    "image": "https://images.unsplash.com/photo-1622597467836-f3e6707fd88c?w=300&h=200&fit=crop",
+    "platforms": [
+      { "name": "Blinkit", "price": "₹138", "link": "https://blinkit.com/s/?q=Glucon-D+Energy+Drink+500g" },
+      { "name": "Swiggy Instamart", "price": "₹132", "link": "https://www.swiggy.com/instamart/search?q=Glucon-D+Energy+Drink+500g" },
+      { "name": "Zepto", "price": "₹135", "link": "https://www.zeptonow.com/search?query=Glucon-D+Energy+Drink+500g" },
+      { "name": "BigBasket", "price": "₹129", "link": "https://www.bigbasket.com/ps/?q=Glucon-D+Energy+Drink+500g" }
+    ]
+  },
+  {
+    "id": 144,
+    "title": "B Natural Mixed Fruit Juice",
+    "quantity": "1 L",
+    "category": "Beverages",
+    "image": "https://images.unsplash.com/photo-1600271886742-f049cd451bba?w=300&h=200&fit=crop",
+    "platforms": [
+      { "name": "Blinkit", "price": "₹110", "link": "https://blinkit.com/s/?q=B+Natural+Mixed+Fruit+Juice+1L" },
+      { "name": "Swiggy Instamart", "price": "₹105", "link": "https://www.swiggy.com/instamart/search?q=B+Natural+Mixed+Fruit+Juice+1L" },
+      { "name": "Zepto", "price": "₹108", "link": "https://www.zeptonow.com/search?query=B+Natural+Mixed+Fruit+Juice+1L" },
+      { "name": "BigBasket", "price": "₹102", "link": "https://www.bigbasket.com/ps/?q=B+Natural+Mixed+Fruit+Juice+1L" }
+    ]
+  },
+  {
+    "id": 145,
+    "title": "Cucumber",
+    "quantity": "500 g",
+    "category": "Fruits & Vegetables",
+    "image": "https://images.unsplash.com/photo-1449300079323-02e209d9d3a6?w=300&h=200&fit=crop",
+    "platforms": [
+      { "name": "Blinkit", "price": "₹22", "link": "https://blinkit.com/s/?q=Cucumber+500g" },
+      { "name": "Swiggy Instamart", "price": "₹20", "link": "https://www.swiggy.com/instamart/search?q=Cucumber+500g" },
+      { "name": "Zepto", "price": "₹21", "link": "https://www.zeptonow.com/search?query=Cucumber+500g" },
+      { "name": "BigBasket", "price": "₹18", "link": "https://www.bigbasket.com/ps/?q=Cucumber" }
+    ]
+  },
+  {
+    "id": 146,
+    "title": "Sweet Corn",
+    "quantity": "2 pieces",
+    "category": "Fruits & Vegetables",
+    "image": "https://images.unsplash.com/photo-1551754655-cd27e38d2076?w=300&h=200&fit=crop",
+    "platforms": [
+      { "name": "Blinkit", "price": "₹35", "link": "https://blinkit.com/s/?q=Sweet+Corn+2+pieces" },
+      { "name": "Swiggy Instamart", "price": "₹32", "link": "https://www.swiggy.com/instamart/search?q=Sweet+Corn+2+pieces" },
+      { "name": "Zepto", "price": "₹33", "link": "https://www.zeptonow.com/search?query=Sweet+Corn+2+pieces" },
+      { "name": "BigBasket", "price": "₹30", "link": "https://www.bigbasket.com/ps/?q=Sweet+Corn" }
+    ]
+  },
+  {
+    "id": 147,
+    "title": "Prawns (Medium)",
+    "quantity": "500 g",
+    "category": "Meat, Fish & Eggs",
+    "image": "https://images.unsplash.com/photo-1565680018434-b513d5e5fd47?w=300&h=200&fit=crop",
+    "platforms": [
+      { "name": "Blinkit", "price": "₹320", "link": "https://blinkit.com/s/?q=Prawns+Medium+500g" },
+      { "name": "Swiggy Instamart", "price": "₹308", "link": "https://www.swiggy.com/instamart/search?q=Prawns+Medium+500g" },
+      { "name": "Zepto", "price": "₹315", "link": "https://www.zeptonow.com/search?query=Prawns+Medium+500g" },
+      { "name": "BigBasket", "price": "₹299", "link": "https://www.bigbasket.com/ps/?q=Prawns+Medium+500g" }
+    ]
+  },
+  {
+    "id": 148,
+    "title": "Himalaya Ashwagandha Tablets",
+    "quantity": "60 Tablets",
+    "category": "Health & Nutrition",
+    "image": "https://images.unsplash.com/photo-1550572017-edd951b55104?w=300&h=200&fit=crop",
+    "platforms": [
+      { "name": "Blinkit", "price": "₹199", "link": "https://blinkit.com/s/?q=Himalaya+Ashwagandha+Tablets+60" },
+      { "name": "Swiggy Instamart", "price": "₹190", "link": "https://www.swiggy.com/instamart/search?q=Himalaya+Ashwagandha+Tablets+60" },
+      { "name": "Zepto", "price": "₹195", "link": "https://www.zeptonow.com/search?query=Himalaya+Ashwagandha+Tablets+60" },
+      { "name": "BigBasket", "price": "₹185", "link": "https://www.bigbasket.com/ps/?q=Himalaya+Ashwagandha+Tablets+60" }
+    ]
+  },
+  {
+    "id": 149,
+    "title": "Peanut Butter (Crunchy)",
+    "quantity": "500 g",
+    "category": "Gourmet & Organic",
+    "image": "https://images.unsplash.com/photo-1621939514649-280e2ee25f60?w=300&h=200&fit=crop",
+    "platforms": [
+      { "name": "Blinkit", "price": "₹280", "link": "https://blinkit.com/s/?q=Peanut+Butter+Crunchy+500g" },
+      { "name": "Swiggy Instamart", "price": "₹268", "link": "https://www.swiggy.com/instamart/search?q=Peanut+Butter+Crunchy+500g" },
+      { "name": "Zepto", "price": "₹275", "link": "https://www.zeptonow.com/search?query=Peanut+Butter+Crunchy+500g" },
+      { "name": "BigBasket", "price": "₹259", "link": "https://www.bigbasket.com/ps/?q=Peanut+Butter+Crunchy+500g" }
+    ]
+  },
+  {
+    "id": 150,
+    "title": "Drip Drop ORS Hydration Powder",
+    "quantity": "10 Sachets",
+    "category": "Health & Nutrition",
+    "image": "https://images.unsplash.com/photo-1584308666744-24d5c474f2ae?w=300&h=200&fit=crop",
+    "platforms": [
+      { "name": "Blinkit", "price": "₹180", "link": "https://blinkit.com/s/?q=Drip+Drop+ORS+Hydration+Powder+10+Sachets" },
+      { "name": "Swiggy Instamart", "price": "₹172", "link": "https://www.swiggy.com/instamart/search?q=Drip+Drop+ORS+Hydration+Powder+10+Sachets" },
+      { "name": "Zepto", "price": "₹175", "link": "https://www.zeptonow.com/search?query=Drip+Drop+ORS+Hydration+Powder+10+Sachets" },
+      { "name": "BigBasket", "price": "₹165", "link": "https://www.bigbasket.com/ps/?q=Drip+Drop+ORS+Hydration+Powder+10+Sachets" }
+    ]
+  },
+  {
+    "id": 151,
+    "title": "Watermelon",
+    "quantity": "1 piece (~3 kg)",
+    "category": "Fruits & Vegetables",
+    "image": "https://images.unsplash.com/photo-1587049352846-4a222e784d38?w=300&h=200&fit=crop",
+    "platforms": [
+      { "name": "Blinkit", "price": "₹90", "link": "https://blinkit.com/s/?q=Watermelon" },
+      { "name": "Swiggy Instamart", "price": "₹85", "link": "https://www.swiggy.com/instamart/search?q=Watermelon" },
+      { "name": "Zepto", "price": "₹88", "link": "https://www.zeptonow.com/search?query=Watermelon" },
+      { "name": "BigBasket", "price": "₹80", "link": "https://www.bigbasket.com/ps/?q=Watermelon" }
+    ]
+  },
+  {
+    "id": 152,
+    "title": "Pomegranate (Anaar)",
+    "quantity": "2 pieces",
+    "category": "Fruits & Vegetables",
+    "image": "https://images.unsplash.com/photo-1541344999736-83eca272f6fc?w=300&h=200&fit=crop",
+    "platforms": [
+      { "name": "Blinkit", "price": "₹110", "link": "https://blinkit.com/s/?q=Pomegranate+2+pieces" },
+      { "name": "Swiggy Instamart", "price": "₹105", "link": "https://www.swiggy.com/instamart/search?q=Pomegranate" },
+      { "name": "Zepto", "price": "₹108", "link": "https://www.zeptonow.com/search?query=Pomegranate" },
+      { "name": "BigBasket", "price": "₹99", "link": "https://www.bigbasket.com/ps/?q=Pomegranate" }
+    ]
+  },
+  {
+    "id": 153,
+    "title": "Pineapple",
+    "quantity": "1 piece (~1.2 kg)",
+    "category": "Fruits & Vegetables",
+    "image": "https://images.unsplash.com/photo-1550258987-190a2d41a8ba?w=300&h=200&fit=crop",
+    "platforms": [
+      { "name": "Blinkit", "price": "₹75", "link": "https://blinkit.com/s/?q=Pineapple" },
+      { "name": "Swiggy Instamart", "price": "₹70", "link": "https://www.swiggy.com/instamart/search?q=Pineapple" },
+      { "name": "Zepto", "price": "₹72", "link": "https://www.zeptonow.com/search?query=Pineapple" },
+      { "name": "BigBasket", "price": "₹68", "link": "https://www.bigbasket.com/ps/?q=Pineapple" }
+    ]
+  },
+  {
+    "id": 154,
+    "title": "Kiwi",
+    "quantity": "6 pieces",
+    "category": "Fruits & Vegetables",
+    "image": "https://images.unsplash.com/photo-1590502160462-58b41354f588?w=300&h=200&fit=crop",
+    "platforms": [
+      { "name": "Blinkit", "price": "₹155", "link": "https://blinkit.com/s/?q=Kiwi+6+pieces" },
+      { "name": "Swiggy Instamart", "price": "₹148", "link": "https://www.swiggy.com/instamart/search?q=Kiwi+6+pieces" },
+      { "name": "Zepto", "price": "₹150", "link": "https://www.zeptonow.com/search?query=Kiwi+6+pieces" },
+      { "name": "BigBasket", "price": "₹142", "link": "https://www.bigbasket.com/ps/?q=Kiwi" }
+    ]
+  },
+  {
+    "id": 155,
+    "title": "Mushroom (Button)",
+    "quantity": "200 g",
+    "category": "Fruits & Vegetables",
+    "image": "https://images.unsplash.com/photo-1504545102780-26774c1bb073?w=300&h=200&fit=crop",
+    "platforms": [
+      { "name": "Blinkit", "price": "₹62", "link": "https://blinkit.com/s/?q=Button+Mushroom+200g" },
+      { "name": "Swiggy Instamart", "price": "₹58", "link": "https://www.swiggy.com/instamart/search?q=Button+Mushroom+200g" },
+      { "name": "Zepto", "price": "₹60", "link": "https://www.zeptonow.com/search?query=Button+Mushroom+200g" },
+      { "name": "BigBasket", "price": "₹55", "link": "https://www.bigbasket.com/ps/?q=Button+Mushroom" }
+    ]
+  },
+  {
+    "id": 156,
+    "title": "Bitter Gourd (Karela)",
+    "quantity": "500 g",
+    "category": "Fruits & Vegetables",
+    "image": "https://images.unsplash.com/photo-1512621776951-a57141f2eefd?w=300&h=200&fit=crop",
+    "platforms": [
+      { "name": "Blinkit", "price": "₹38", "link": "https://blinkit.com/s/?q=Bitter+Gourd+Karela+500g" },
+      { "name": "Swiggy Instamart", "price": "₹35", "link": "https://www.swiggy.com/instamart/search?q=Karela+500g" },
+      { "name": "Zepto", "price": "₹36", "link": "https://www.zeptonow.com/search?query=Karela+500g" },
+      { "name": "BigBasket", "price": "₹32", "link": "https://www.bigbasket.com/ps/?q=Karela" }
+    ]
+  },
+  {
+    "id": 157,
+    "title": "Bottle Gourd (Lauki)",
+    "quantity": "1 piece (~700 g)",
+    "category": "Fruits & Vegetables",
+    "image": "https://images.unsplash.com/photo-1512621776951-a57141f2eefd?w=300&h=200&fit=crop",
+    "platforms": [
+      { "name": "Blinkit", "price": "₹30", "link": "https://blinkit.com/s/?q=Bottle+Gourd+Lauki" },
+      { "name": "Swiggy Instamart", "price": "₹28", "link": "https://www.swiggy.com/instamart/search?q=Lauki" },
+      { "name": "Zepto", "price": "₹29", "link": "https://www.zeptonow.com/search?query=Lauki" },
+      { "name": "BigBasket", "price": "₹26", "link": "https://www.bigbasket.com/ps/?q=Lauki" }
+    ]
+  },
+  {
+    "id": 158,
+    "title": "Garlic (Lehsun)",
+    "quantity": "250 g",
+    "category": "Fruits & Vegetables",
+    "image": "https://images.unsplash.com/photo-1587049352846-4a222e784d38?w=300&h=200&fit=crop",
+    "platforms": [
+      { "name": "Blinkit", "price": "₹48", "link": "https://blinkit.com/s/?q=Garlic+Lehsun+250g" },
+      { "name": "Swiggy Instamart", "price": "₹45", "link": "https://www.swiggy.com/instamart/search?q=Garlic+250g" },
+      { "name": "Zepto", "price": "₹46", "link": "https://www.zeptonow.com/search?query=Garlic+250g" },
+      { "name": "BigBasket", "price": "₹42", "link": "https://www.bigbasket.com/ps/?q=Garlic" }
+    ]
+  },
+  {
+    "id": 159,
+    "title": "Ginger (Adrak)",
+    "quantity": "250 g",
+    "category": "Fruits & Vegetables",
+    "image": "https://images.unsplash.com/photo-1603431777007-61ae1234194e?w=300&h=200&fit=crop",
+    "platforms": [
+      { "name": "Blinkit", "price": "₹35", "link": "https://blinkit.com/s/?q=Ginger+Adrak+250g" },
+      { "name": "Swiggy Instamart", "price": "₹32", "link": "https://www.swiggy.com/instamart/search?q=Ginger+250g" },
+      { "name": "Zepto", "price": "₹33", "link": "https://www.zeptonow.com/search?query=Ginger+250g" },
+      { "name": "BigBasket", "price": "₹30", "link": "https://www.bigbasket.com/ps/?q=Ginger" }
+    ]
+  },
+  {
+    "id": 160,
+    "title": "Lady Finger (Bhindi)",
+    "quantity": "500 g",
+    "category": "Fruits & Vegetables",
+    "image": "https://images.unsplash.com/photo-1563636619-e9143da7973b?w=300&h=200&fit=crop",
+    "platforms": [
+      { "name": "Blinkit", "price": "₹40", "link": "https://blinkit.com/s/?q=Lady+Finger+Bhindi+500g" },
+      { "name": "Swiggy Instamart", "price": "₹38", "link": "https://www.swiggy.com/instamart/search?q=Bhindi+500g" },
+      { "name": "Zepto", "price": "₹39", "link": "https://www.zeptonow.com/search?query=Bhindi+500g" },
+      { "name": "BigBasket", "price": "₹36", "link": "https://www.bigbasket.com/ps/?q=Bhindi" }
+    ]
+  },
+  {
+    "id": 161,
+    "title": "Salmon Fillet",
+    "quantity": "300 g",
+    "category": "Meat, Fish & Eggs",
+    "image": "https://images.unsplash.com/photo-1519708227418-c8fd9a32b7a2?w=300&h=200&fit=crop",
+    "platforms": [
+      { "name": "Blinkit", "price": "₹580", "link": "https://blinkit.com/s/?q=Salmon+Fillet+300g" },
+      { "name": "Swiggy Instamart", "price": "₹560", "link": "https://www.swiggy.com/instamart/search?q=Salmon+Fillet+300g" },
+      { "name": "Zepto", "price": "₹570", "link": "https://www.zeptonow.com/search?query=Salmon+Fillet+300g" },
+      { "name": "BigBasket", "price": "₹549", "link": "https://www.bigbasket.com/ps/?q=Salmon+Fillet" }
+    ]
+  },
+  {
+    "id": 162,
+    "title": "Tuna Chunks in Brine (Canned)",
+    "quantity": "185 g",
+    "category": "Meat, Fish & Eggs",
+    "image": "https://images.unsplash.com/photo-1615141982883-c7ad0e69fd62?w=300&h=200&fit=crop",
+    "platforms": [
+      { "name": "Blinkit", "price": "₹210", "link": "https://blinkit.com/s/?q=Tuna+Chunks+Brine+Canned+185g" },
+      { "name": "Swiggy Instamart", "price": "₹200", "link": "https://www.swiggy.com/instamart/search?q=Tuna+Chunks+Brine+Canned+185g" },
+      { "name": "Zepto", "price": "₹205", "link": "https://www.zeptonow.com/search?query=Tuna+Chunks+Brine+Canned+185g" },
+      { "name": "BigBasket", "price": "₹195", "link": "https://www.bigbasket.com/ps/?q=Tuna+Chunks+Brine+Canned+185g" }
+    ]
+  },
+  {
+    "id": 163,
+    "title": "Keema (Minced Chicken)",
+    "quantity": "500 g",
+    "category": "Meat, Fish & Eggs",
+    "image": "https://images.unsplash.com/photo-1602470520998-f4a52199a3d6?w=300&h=200&fit=crop",
+    "platforms": [
+      { "name": "Blinkit", "price": "₹199", "link": "https://blinkit.com/s/?q=Minced+Chicken+Keema+500g" },
+      { "name": "Swiggy Instamart", "price": "₹189", "link": "https://www.swiggy.com/instamart/search?q=Minced+Chicken+Keema+500g" },
+      { "name": "Zepto", "price": "₹195", "link": "https://www.zeptonow.com/search?query=Minced+Chicken+Keema+500g" },
+      { "name": "BigBasket", "price": "₹185", "link": "https://www.bigbasket.com/ps/?q=Minced+Chicken+Keema+500g" }
+    ]
+  },
+  {
+    "id": 164,
+    "title": "Duck Eggs",
+    "quantity": "6 Count",
+    "category": "Meat, Fish & Eggs",
+    "image": "https://images.unsplash.com/photo-1582722872445-44dc5f7e3c8f?w=300&h=200&fit=crop",
+    "platforms": [
+      { "name": "Blinkit", "price": "₹80", "link": "https://blinkit.com/s/?q=Duck+Eggs+6+count" },
+      { "name": "Swiggy Instamart", "price": "₹76", "link": "https://www.swiggy.com/instamart/search?q=Duck+Eggs+6+count" },
+      { "name": "Zepto", "price": "₹78", "link": "https://www.zeptonow.com/search?query=Duck+Eggs+6+count" },
+      { "name": "BigBasket", "price": "₹72", "link": "https://www.bigbasket.com/ps/?q=Duck+Eggs" }
+    ]
+  },
+  {
+    "id": 165,
+    "title": "Sona Masoori Raw Rice",
+    "quantity": "5 kg",
+    "category": "Staples",
+    "image": "https://images.unsplash.com/photo-1586201375761-83865001e31c?w=300&h=200&fit=crop",
+    "platforms": [
+      { "name": "Blinkit", "price": "₹340", "link": "https://blinkit.com/s/?q=Sona+Masoori+Raw+Rice+5kg" },
+      { "name": "Swiggy Instamart", "price": "₹328", "link": "https://www.swiggy.com/instamart/search?q=Sona+Masoori+Raw+Rice+5kg" },
+      { "name": "Zepto", "price": "₹335", "link": "https://www.zeptonow.com/search?query=Sona+Masoori+Raw+Rice+5kg" },
+      { "name": "BigBasket", "price": "₹319", "link": "https://www.bigbasket.com/ps/?q=Sona+Masoori+Raw+Rice+5kg" }
+    ]
+  },
+  {
+    "id": 166,
+    "title": "Poha (Flattened Rice)",
+    "quantity": "1 kg",
+    "category": "Staples",
+    "image": "https://images.unsplash.com/photo-1574323347407-f5e1ad6d020b?w=300&h=200&fit=crop",
+    "platforms": [
+      { "name": "Blinkit", "price": "₹68", "link": "https://blinkit.com/s/?q=Poha+Flattened+Rice+1kg" },
+      { "name": "Swiggy Instamart", "price": "₹65", "link": "https://www.swiggy.com/instamart/search?q=Poha+1kg" },
+      { "name": "Zepto", "price": "₹66", "link": "https://www.zeptonow.com/search?query=Poha+1kg" },
+      { "name": "BigBasket", "price": "₹62", "link": "https://www.bigbasket.com/ps/?q=Poha" }
+    ]
+  },
+  {
+    "id": 167,
+    "title": "Suji / Rava (Semolina)",
+    "quantity": "1 kg",
+    "category": "Staples",
+    "image": "https://images.unsplash.com/photo-1574323347407-f5e1ad6d020b?w=300&h=200&fit=crop",
+    "platforms": [
+      { "name": "Blinkit", "price": "₹52", "link": "https://blinkit.com/s/?q=Suji+Rava+Semolina+1kg" },
+      { "name": "Swiggy Instamart", "price": "₹49", "link": "https://www.swiggy.com/instamart/search?q=Suji+Rava+1kg" },
+      { "name": "Zepto", "price": "₹50", "link": "https://www.zeptonow.com/search?query=Suji+Rava+1kg" },
+      { "name": "BigBasket", "price": "₹47", "link": "https://www.bigbasket.com/ps/?q=Suji+Rava" }
+    ]
+  },
+  {
+    "id": 168,
+    "title": "Besan (Gram Flour)",
+    "quantity": "1 kg",
+    "category": "Staples",
+    "image": "https://images.unsplash.com/photo-1574323347407-f5e1ad6d020b?w=300&h=200&fit=crop",
+    "platforms": [
+      { "name": "Blinkit", "price": "₹78", "link": "https://blinkit.com/s/?q=Besan+Gram+Flour+1kg" },
+      { "name": "Swiggy Instamart", "price": "₹74", "link": "https://www.swiggy.com/instamart/search?q=Besan+Gram+Flour+1kg" },
+      { "name": "Zepto", "price": "₹76", "link": "https://www.zeptonow.com/search?query=Besan+Gram+Flour+1kg" },
+      { "name": "BigBasket", "price": "₹72", "link": "https://www.bigbasket.com/ps/?q=Besan+Gram+Flour" }
+    ]
+  },
+  {
+    "id": 169,
+    "title": "Idhayam Sesame Oil",
+    "quantity": "1 L",
+    "category": "Staples",
+    "image": "https://images.unsplash.com/photo-1474979266404-7eaacbcd87c5?w=300&h=200&fit=crop",
+    "platforms": [
+      { "name": "Blinkit", "price": "₹220", "link": "https://blinkit.com/s/?q=Idhayam+Sesame+Oil+1L" },
+      { "name": "Swiggy Instamart", "price": "₹210", "link": "https://www.swiggy.com/instamart/search?q=Idhayam+Sesame+Oil+1L" },
+      { "name": "Zepto", "price": "₹215", "link": "https://www.zeptonow.com/search?query=Idhayam+Sesame+Oil+1L" },
+      { "name": "BigBasket", "price": "₹205", "link": "https://www.bigbasket.com/ps/?q=Idhayam+Sesame+Oil+1L" }
+    ]
+  },
+  {
+    "id": 170,
+    "title": "Coconut Oil (Parachute)",
+    "quantity": "500 ml",
+    "category": "Staples",
+    "image": "https://images.unsplash.com/photo-1474979266404-7eaacbcd87c5?w=300&h=200&fit=crop",
+    "platforms": [
+      { "name": "Blinkit", "price": "₹198", "link": "https://blinkit.com/s/?q=Parachute+Coconut+Oil+500ml" },
+      { "name": "Swiggy Instamart", "price": "₹188", "link": "https://www.swiggy.com/instamart/search?q=Parachute+Coconut+Oil+500ml" },
+      { "name": "Zepto", "price": "₹192", "link": "https://www.zeptonow.com/search?query=Parachute+Coconut+Oil+500ml" },
+      { "name": "BigBasket", "price": "₹185", "link": "https://www.bigbasket.com/ps/?q=Parachute+Coconut+Oil+500ml" }
+    ]
+  },
+  {
+    "id": 171,
+    "title": "Dabur Honey",
+    "quantity": "500 g",
+    "category": "Gourmet & Organic",
+    "image": "https://images.unsplash.com/photo-1558642452-9d2a7deb7f62?w=300&h=200&fit=crop",
+    "platforms": [
+      { "name": "Blinkit", "price": "₹285", "link": "https://blinkit.com/s/?q=Dabur+Honey+500g" },
+      { "name": "Swiggy Instamart", "price": "₹272", "link": "https://www.swiggy.com/instamart/search?q=Dabur+Honey+500g" },
+      { "name": "Zepto", "price": "₹278", "link": "https://www.zeptonow.com/search?query=Dabur+Honey+500g" },
+      { "name": "BigBasket", "price": "₹265", "link": "https://www.bigbasket.com/ps/?q=Dabur+Honey+500g" }
+    ]
+  },
+  {
+    "id": 172,
+    "title": "Saffron (Kesar)",
+    "quantity": "1 g",
+    "category": "Gourmet & Organic",
+    "image": "https://images.unsplash.com/photo-1615485500704-8e990f9900f7?w=300&h=200&fit=crop",
+    "platforms": [
+      { "name": "Blinkit", "price": "₹155", "link": "https://blinkit.com/s/?q=Saffron+Kesar+1g" },
+      { "name": "Swiggy Instamart", "price": "₹148", "link": "https://www.swiggy.com/instamart/search?q=Saffron+Kesar+1g" },
+      { "name": "Zepto", "price": "₹150", "link": "https://www.zeptonow.com/search?query=Saffron+Kesar+1g" },
+      { "name": "BigBasket", "price": "₹142", "link": "https://www.bigbasket.com/ps/?q=Saffron+Kesar" }
+    ]
+  },
+  {
+    "id": 173,
+    "title": "Whole Wheat Pasta (Penne)",
+    "quantity": "500 g",
+    "category": "Gourmet & Organic",
+    "image": "https://images.unsplash.com/photo-1551462147-37885acc36f1?w=300&h=200&fit=crop",
+    "platforms": [
+      { "name": "Blinkit", "price": "₹120", "link": "https://blinkit.com/s/?q=Whole+Wheat+Pasta+Penne+500g" },
+      { "name": "Swiggy Instamart", "price": "₹115", "link": "https://www.swiggy.com/instamart/search?q=Whole+Wheat+Pasta+Penne+500g" },
+      { "name": "Zepto", "price": "₹118", "link": "https://www.zeptonow.com/search?query=Whole+Wheat+Pasta+Penne+500g" },
+      { "name": "BigBasket", "price": "₹110", "link": "https://www.bigbasket.com/ps/?q=Whole+Wheat+Pasta+Penne" }
+    ]
+  },
+  {
+    "id": 174,
+    "title": "Del Monte Baked Beans",
+    "quantity": "420 g",
+    "category": "Gourmet & Organic",
+    "image": "https://images.unsplash.com/photo-1593095948071-474c5cc2989d?w=300&h=200&fit=crop",
+    "platforms": [
+      { "name": "Blinkit", "price": "₹110", "link": "https://blinkit.com/s/?q=Del+Monte+Baked+Beans+420g" },
+      { "name": "Swiggy Instamart", "price": "₹105", "link": "https://www.swiggy.com/instamart/search?q=Del+Monte+Baked+Beans+420g" },
+      { "name": "Zepto", "price": "₹108", "link": "https://www.zeptonow.com/search?query=Del+Monte+Baked+Beans+420g" },
+      { "name": "BigBasket", "price": "₹100", "link": "https://www.bigbasket.com/ps/?q=Del+Monte+Baked+Beans" }
+    ]
+  },
+  {
+    "id": 175,
+    "title": "Coconut Milk (Canned)",
+    "quantity": "400 ml",
+    "category": "Gourmet & Organic",
+    "image": "https://images.unsplash.com/photo-1550583724-b2692b85b150?w=300&h=200&fit=crop",
+    "platforms": [
+      { "name": "Blinkit", "price": "₹145", "link": "https://blinkit.com/s/?q=Coconut+Milk+Canned+400ml" },
+      { "name": "Swiggy Instamart", "price": "₹138", "link": "https://www.swiggy.com/instamart/search?q=Coconut+Milk+Canned+400ml" },
+      { "name": "Zepto", "price": "₹142", "link": "https://www.zeptonow.com/search?query=Coconut+Milk+Canned+400ml" },
+      { "name": "BigBasket", "price": "₹135", "link": "https://www.bigbasket.com/ps/?q=Coconut+Milk+Canned" }
+    ]
+  },
+  {
+    "id": 176,
+    "title": "Badam Milk (Almond Drink)",
+    "quantity": "200 ml x 4",
+    "category": "Beverages",
+    "image": "https://images.unsplash.com/photo-1608686207856-001b95cf60ca?w=300&h=200&fit=crop",
+    "platforms": [
+      { "name": "Blinkit", "price": "₹110", "link": "https://blinkit.com/s/?q=Badam+Milk+Almond+Drink+4+pack" },
+      { "name": "Swiggy Instamart", "price": "₹105", "link": "https://www.swiggy.com/instamart/search?q=Badam+Milk+4+pack" },
+      { "name": "Zepto", "price": "₹108", "link": "https://www.zeptonow.com/search?query=Badam+Milk+4+pack" },
+      { "name": "BigBasket", "price": "₹99", "link": "https://www.bigbasket.com/ps/?q=Badam+Milk" }
+    ]
+  },
+  {
+    "id": 177,
+    "title": "Frooti Mango Drink",
+    "quantity": "200 ml x 6",
+    "category": "Beverages",
+    "image": "https://images.unsplash.com/photo-1622597467836-f3e6707fd88c?w=300&h=200&fit=crop",
+    "platforms": [
+      { "name": "Blinkit", "price": "₹90", "link": "https://blinkit.com/s/?q=Frooti+Mango+Drink+200ml+6+pack" },
+      { "name": "Swiggy Instamart", "price": "₹85", "link": "https://www.swiggy.com/instamart/search?q=Frooti+Mango+Drink+6+pack" },
+      { "name": "Zepto", "price": "₹88", "link": "https://www.zeptonow.com/search?query=Frooti+Mango+Drink+6+pack" },
+      { "name": "BigBasket", "price": "₹82", "link": "https://www.bigbasket.com/ps/?q=Frooti+Mango+Drink+6+pack" }
+    ]
+  },
+  {
+    "id": 178,
+    "title": "Thumbs Up Cola",
+    "quantity": "2 L",
+    "category": "Beverages",
+    "image": "https://images.unsplash.com/photo-1629203851122-3726ecdf080e?w=300&h=200&fit=crop",
+    "platforms": [
+      { "name": "Blinkit", "price": "₹92", "link": "https://blinkit.com/s/?q=Thumbs+Up+Cola+2L" },
+      { "name": "Swiggy Instamart", "price": "₹88", "link": "https://www.swiggy.com/instamart/search?q=Thumbs+Up+Cola+2L" },
+      { "name": "Zepto", "price": "₹90", "link": "https://www.zeptonow.com/search?query=Thumbs+Up+Cola+2L" },
+      { "name": "BigBasket", "price": "₹85", "link": "https://www.bigbasket.com/ps/?q=Thumbs+Up+Cola+2L" }
+    ]
+  },
+  {
+    "id": 179,
+    "title": "Limca Lemon Soda",
+    "quantity": "2 L",
+    "category": "Beverages",
+    "image": "https://images.unsplash.com/photo-1625772299848-391b6a87d7b3?w=300&h=200&fit=crop",
+    "platforms": [
+      { "name": "Blinkit", "price": "₹88", "link": "https://blinkit.com/s/?q=Limca+Lemon+Soda+2L" },
+      { "name": "Swiggy Instamart", "price": "₹84", "link": "https://www.swiggy.com/instamart/search?q=Limca+Lemon+Soda+2L" },
+      { "name": "Zepto", "price": "₹86", "link": "https://www.zeptonow.com/search?query=Limca+Lemon+Soda+2L" },
+      { "name": "BigBasket", "price": "₹82", "link": "https://www.bigbasket.com/ps/?q=Limca+Lemon+Soda+2L" }
+    ]
+  },
+  {
+    "id": 180,
+    "title": "Monster Energy Drink",
+    "quantity": "500 ml",
+    "category": "Beverages",
+    "image": "https://images.unsplash.com/photo-1553361371-9b22f78e8b1d?w=300&h=200&fit=crop",
+    "platforms": [
+      { "name": "Blinkit", "price": "₹135", "link": "https://blinkit.com/s/?q=Monster+Energy+Drink+500ml" },
+      { "name": "Swiggy Instamart", "price": "₹128", "link": "https://www.swiggy.com/instamart/search?q=Monster+Energy+Drink+500ml" },
+      { "name": "Zepto", "price": "₹132", "link": "https://www.zeptonow.com/search?query=Monster+Energy+Drink+500ml" },
+      { "name": "BigBasket", "price": "₹125", "link": "https://www.bigbasket.com/ps/?q=Monster+Energy+Drink+500ml" }
+    ]
+  },
+  {
+    "id": 181,
+    "title": "Oreo Original Cookies",
+    "quantity": "264 g",
+    "category": "Snacks & Instant Food",
+    "image": "https://images.unsplash.com/photo-1499636136210-6f4ee915583e?w=300&h=200&fit=crop",
+    "platforms": [
+      { "name": "Blinkit", "price": "₹92", "link": "https://blinkit.com/s/?q=Oreo+Original+Cookies+264g" },
+      { "name": "Swiggy Instamart", "price": "₹88", "link": "https://www.swiggy.com/instamart/search?q=Oreo+Original+Cookies+264g" },
+      { "name": "Zepto", "price": "₹90", "link": "https://www.zeptonow.com/search?query=Oreo+Original+Cookies+264g" },
+      { "name": "BigBasket", "price": "₹85", "link": "https://www.bigbasket.com/ps/?q=Oreo+Original+Cookies" }
+    ]
+  },
+  {
+    "id": 182,
+    "title": "Jim Jam Biscuits",
+    "quantity": "300 g",
+    "category": "Snacks & Instant Food",
+    "image": "https://images.unsplash.com/photo-1558961363-fa8fdf82db35?w=300&h=200&fit=crop",
+    "platforms": [
+      { "name": "Blinkit", "price": "₹55", "link": "https://blinkit.com/s/?q=Jim+Jam+Biscuits+300g" },
+      { "name": "Swiggy Instamart", "price": "₹52", "link": "https://www.swiggy.com/instamart/search?q=Jim+Jam+Biscuits+300g" },
+      { "name": "Zepto", "price": "₹53", "link": "https://www.zeptonow.com/search?query=Jim+Jam+Biscuits+300g" },
+      { "name": "BigBasket", "price": "₹50", "link": "https://www.bigbasket.com/ps/?q=Jim+Jam+Biscuits" }
+    ]
+  },
+  {
+    "id": 183,
+    "title": "Hide & Seek Bourbon Biscuits",
+    "quantity": "300 g",
+    "category": "Snacks & Instant Food",
+    "image": "https://images.unsplash.com/photo-1558961363-fa8fdf82db35?w=300&h=200&fit=crop",
+    "platforms": [
+      { "name": "Blinkit", "price": "₹60", "link": "https://blinkit.com/s/?q=Hide+Seek+Bourbon+Biscuits+300g" },
+      { "name": "Swiggy Instamart", "price": "₹57", "link": "https://www.swiggy.com/instamart/search?q=Hide+Seek+Bourbon+Biscuits+300g" },
+      { "name": "Zepto", "price": "₹58", "link": "https://www.zeptonow.com/search?query=Hide+Seek+Bourbon+Biscuits+300g" },
+      { "name": "BigBasket", "price": "₹55", "link": "https://www.bigbasket.com/ps/?q=Hide+Seek+Bourbon+Biscuits" }
+    ]
+  },
+  {
+    "id": 184,
+    "title": "Unibic Oatmeal Cookies",
+    "quantity": "300 g",
+    "category": "Snacks & Instant Food",
+    "image": "https://images.unsplash.com/photo-1499636136210-6f4ee915583e?w=300&h=200&fit=crop",
+    "platforms": [
+      { "name": "Blinkit", "price": "₹125", "link": "https://blinkit.com/s/?q=Unibic+Oatmeal+Cookies+300g" },
+      { "name": "Swiggy Instamart", "price": "₹119", "link": "https://www.swiggy.com/instamart/search?q=Unibic+Oatmeal+Cookies+300g" },
+      { "name": "Zepto", "price": "₹122", "link": "https://www.zeptonow.com/search?query=Unibic+Oatmeal+Cookies+300g" },
+      { "name": "BigBasket", "price": "₹115", "link": "https://www.bigbasket.com/ps/?q=Unibic+Oatmeal+Cookies" }
+    ]
+  },
+  {
+    "id": 185,
+    "title": "Bikaji Rajasthani Mixture",
+    "quantity": "350 g",
+    "category": "Snacks & Instant Food",
+    "image": "https://images.unsplash.com/photo-1599490659213-e2b9527bd087?w=300&h=200&fit=crop",
+    "platforms": [
+      { "name": "Blinkit", "price": "₹95", "link": "https://blinkit.com/s/?q=Bikaji+Rajasthani+Mixture+350g" },
+      { "name": "Swiggy Instamart", "price": "₹90", "link": "https://www.swiggy.com/instamart/search?q=Bikaji+Rajasthani+Mixture+350g" },
+      { "name": "Zepto", "price": "₹92", "link": "https://www.zeptonow.com/search?query=Bikaji+Rajasthani+Mixture+350g" },
+      { "name": "BigBasket", "price": "₹88", "link": "https://www.bigbasket.com/ps/?q=Bikaji+Rajasthani+Mixture" }
+    ]
+  },
+  {
+    "id": 186,
+    "title": "Cornitos Nacho Crisps",
+    "quantity": "150 g",
+    "category": "Snacks & Instant Food",
+    "image": "https://images.unsplash.com/photo-1566478989037-eec170784d0b?w=300&h=200&fit=crop",
+    "platforms": [
+      { "name": "Blinkit", "price": "₹99", "link": "https://blinkit.com/s/?q=Cornitos+Nacho+Crisps+150g" },
+      { "name": "Swiggy Instamart", "price": "₹94", "link": "https://www.swiggy.com/instamart/search?q=Cornitos+Nacho+Crisps+150g" },
+      { "name": "Zepto", "price": "₹96", "link": "https://www.zeptonow.com/search?query=Cornitos+Nacho+Crisps+150g" },
+      { "name": "BigBasket", "price": "₹92", "link": "https://www.bigbasket.com/ps/?q=Cornitos+Nacho+Crisps" }
+    ]
+  },
+  {
+    "id": 187,
+    "title": "Ferrero Rocher Chocolates",
+    "quantity": "16 pieces",
+    "category": "Snacks & Instant Food",
+    "image": "https://images.unsplash.com/photo-1511381939415-e44015466834?w=300&h=200&fit=crop",
+    "platforms": [
+      { "name": "Blinkit", "price": "₹395", "link": "https://blinkit.com/s/?q=Ferrero+Rocher+Chocolates+16+pieces" },
+      { "name": "Swiggy Instamart", "price": "₹380", "link": "https://www.swiggy.com/instamart/search?q=Ferrero+Rocher+Chocolates+16+pieces" },
+      { "name": "Zepto", "price": "₹388", "link": "https://www.zeptonow.com/search?query=Ferrero+Rocher+Chocolates+16+pieces" },
+      { "name": "BigBasket", "price": "₹369", "link": "https://www.bigbasket.com/ps/?q=Ferrero+Rocher+Chocolates+16+pieces" }
+    ]
+  },
+  {
+    "id": 188,
+    "title": "5 Star Chocolate Bar",
+    "quantity": "Pack of 8",
+    "category": "Snacks & Instant Food",
+    "image": "https://images.unsplash.com/photo-1621939514649-280e2ee25f60?w=300&h=200&fit=crop",
+    "platforms": [
+      { "name": "Blinkit", "price": "₹80", "link": "https://blinkit.com/s/?q=5+Star+Chocolate+Bar+8+pack" },
+      { "name": "Swiggy Instamart", "price": "₹76", "link": "https://www.swiggy.com/instamart/search?q=5+Star+Chocolate+Bar+8+pack" },
+      { "name": "Zepto", "price": "₹78", "link": "https://www.zeptonow.com/search?query=5+Star+Chocolate+Bar+8+pack" },
+      { "name": "BigBasket", "price": "₹72", "link": "https://www.bigbasket.com/ps/?q=5+Star+Chocolate+Bar+8+pack" }
+    ]
+  },
+  {
+    "id": 189,
+    "title": "MDH Chole Masala",
+    "quantity": "100 g",
+    "category": "Spices & Condiments",
+    "image": "https://images.unsplash.com/photo-1596040033229-a9821ebd058d?w=300&h=200&fit=crop",
+    "platforms": [
+      { "name": "Blinkit", "price": "₹72", "link": "https://blinkit.com/s/?q=MDH+Chole+Masala+100g" },
+      { "name": "Swiggy Instamart", "price": "₹68", "link": "https://www.swiggy.com/instamart/search?q=MDH+Chole+Masala+100g" },
+      { "name": "Zepto", "price": "₹70", "link": "https://www.zeptonow.com/search?query=MDH+Chole+Masala+100g" },
+      { "name": "BigBasket", "price": "₹65", "link": "https://www.bigbasket.com/ps/?q=MDH+Chole+Masala" }
+    ]
+  },
+  {
+    "id": 190,
+    "title": "Everest Kitchen King Masala",
+    "quantity": "100 g",
+    "category": "Spices & Condiments",
+    "image": "https://images.unsplash.com/photo-1547592180-85f173990554?w=300&h=200&fit=crop",
+    "platforms": [
+      { "name": "Blinkit", "price": "₹68", "link": "https://blinkit.com/s/?q=Everest+Kitchen+King+Masala+100g" },
+      { "name": "Swiggy Instamart", "price": "₹65", "link": "https://www.swiggy.com/instamart/search?q=Everest+Kitchen+King+Masala+100g" },
+      { "name": "Zepto", "price": "₹66", "link": "https://www.zeptonow.com/search?query=Everest+Kitchen+King+Masala+100g" },
+      { "name": "BigBasket", "price": "₹62", "link": "https://www.bigbasket.com/ps/?q=Everest+Kitchen+King+Masala" }
+    ]
+  },
+  {
+    "id": 191,
+    "title": "Sil Green Chilli Sauce",
+    "quantity": "380 g",
+    "category": "Spices & Condiments",
+    "image": "https://images.unsplash.com/photo-1558818498-28c1e002b655?w=300&h=200&fit=crop",
+    "platforms": [
+      { "name": "Blinkit", "price": "₹85", "link": "https://blinkit.com/s/?q=Sil+Green+Chilli+Sauce+380g" },
+      { "name": "Swiggy Instamart", "price": "₹80", "link": "https://www.swiggy.com/instamart/search?q=Sil+Green+Chilli+Sauce+380g" },
+      { "name": "Zepto", "price": "₹82", "link": "https://www.zeptonow.com/search?query=Sil+Green+Chilli+Sauce+380g" },
+      { "name": "BigBasket", "price": "₹78", "link": "https://www.bigbasket.com/ps/?q=Sil+Green+Chilli+Sauce" }
+    ]
+  },
+  {
+    "id": 192,
+    "title": "Ching's Secret Schezwan Chutney",
+    "quantity": "250 g",
+    "category": "Spices & Condiments",
+    "image": "https://images.unsplash.com/photo-1572453800999-e8d2d1589b7c?w=300&h=200&fit=crop",
+    "platforms": [
+      { "name": "Blinkit", "price": "₹78", "link": "https://blinkit.com/s/?q=Chings+Secret+Schezwan+Chutney+250g" },
+      { "name": "Swiggy Instamart", "price": "₹74", "link": "https://www.swiggy.com/instamart/search?q=Chings+Schezwan+Chutney+250g" },
+      { "name": "Zepto", "price": "₹76", "link": "https://www.zeptonow.com/search?query=Chings+Schezwan+Chutney+250g" },
+      { "name": "BigBasket", "price": "₹72", "link": "https://www.bigbasket.com/ps/?q=Chings+Schezwan+Chutney" }
+    ]
+  },
+  {
+    "id": 193,
+    "title": "Organic India Tulsi Green Tea",
+    "quantity": "25 Bags",
+    "category": "Beverages",
+    "image": "https://images.unsplash.com/photo-1556679343-c7306c1976bc?w=300&h=200&fit=crop",
+    "platforms": [
+      { "name": "Blinkit", "price": "₹165", "link": "https://blinkit.com/s/?q=Organic+India+Tulsi+Green+Tea+25+bags" },
+      { "name": "Swiggy Instamart", "price": "₹158", "link": "https://www.swiggy.com/instamart/search?q=Organic+India+Tulsi+Green+Tea+25+bags" },
+      { "name": "Zepto", "price": "₹162", "link": "https://www.zeptonow.com/search?query=Organic+India+Tulsi+Green+Tea+25+bags" },
+      { "name": "BigBasket", "price": "₹155", "link": "https://www.bigbasket.com/ps/?q=Organic+India+Tulsi+Green+Tea" }
+    ]
+  },
+  {
+    "id": 194,
+    "title": "Lipton Green Tea Bags",
+    "quantity": "25 Bags",
+    "category": "Beverages",
+    "image": "https://images.unsplash.com/photo-1544787219-7f47ccb76574?w=300&h=200&fit=crop",
+    "platforms": [
+      { "name": "Blinkit", "price": "₹115", "link": "https://blinkit.com/s/?q=Lipton+Green+Tea+Bags+25" },
+      { "name": "Swiggy Instamart", "price": "₹109", "link": "https://www.swiggy.com/instamart/search?q=Lipton+Green+Tea+Bags+25" },
+      { "name": "Zepto", "price": "₹112", "link": "https://www.zeptonow.com/search?query=Lipton+Green+Tea+Bags+25" },
+      { "name": "BigBasket", "price": "₹105", "link": "https://www.bigbasket.com/ps/?q=Lipton+Green+Tea+Bags+25" }
+    ]
+  },
+  {
+    "id": 195,
+    "title": "Boost Chocolate Malt Drink",
+    "quantity": "500 g",
+    "category": "Beverages",
+    "image": "https://images.unsplash.com/photo-1587049352846-4a222e784d38?w=300&h=200&fit=crop",
+    "platforms": [
+      { "name": "Blinkit", "price": "₹265", "link": "https://blinkit.com/s/?q=Boost+Chocolate+Malt+Drink+500g" },
+      { "name": "Swiggy Instamart", "price": "₹255", "link": "https://www.swiggy.com/instamart/search?q=Boost+Chocolate+Malt+Drink+500g" },
+      { "name": "Zepto", "price": "₹260", "link": "https://www.zeptonow.com/search?query=Boost+Chocolate+Malt+Drink+500g" },
+      { "name": "BigBasket", "price": "₹249", "link": "https://www.bigbasket.com/ps/?q=Boost+Chocolate+Malt+Drink+500g" }
+    ]
+  },
+  {
+    "id": 196,
+    "title": "Pistachio (Pista)",
+    "quantity": "250 g",
+    "category": "Dry Fruits & Nuts",
+    "image": "https://images.unsplash.com/photo-1608797178974-15b35a64ede9?w=300&h=200&fit=crop",
+    "platforms": [
+      { "name": "Blinkit", "price": "₹360", "link": "https://blinkit.com/s/?q=Pistachio+Pista+250g" },
+      { "name": "Swiggy Instamart", "price": "₹348", "link": "https://www.swiggy.com/instamart/search?q=Pistachio+Pista+250g" },
+      { "name": "Zepto", "price": "₹355", "link": "https://www.zeptonow.com/search?query=Pistachio+Pista+250g" },
+      { "name": "BigBasket", "price": "₹339", "link": "https://www.bigbasket.com/ps/?q=Pistachio+Pista" }
+    ]
+  },
+  {
+    "id": 197,
+    "title": "Anjeer (Dried Figs)",
+    "quantity": "200 g",
+    "category": "Dry Fruits & Nuts",
+    "image": "https://images.unsplash.com/photo-1584370848010-d7fe6bc767ec?w=300&h=200&fit=crop",
+    "platforms": [
+      { "name": "Blinkit", "price": "₹175", "link": "https://blinkit.com/s/?q=Anjeer+Dried+Figs+200g" },
+      { "name": "Swiggy Instamart", "price": "₹168", "link": "https://www.swiggy.com/instamart/search?q=Anjeer+Dried+Figs+200g" },
+      { "name": "Zepto", "price": "₹172", "link": "https://www.zeptonow.com/search?query=Anjeer+Dried+Figs+200g" },
+      { "name": "BigBasket", "price": "₹162", "link": "https://www.bigbasket.com/ps/?q=Anjeer+Dried+Figs" }
+    ]
+  },
+  {
+    "id": 198,
+    "title": "Peanuts (Roasted & Salted)",
+    "quantity": "500 g",
+    "category": "Dry Fruits & Nuts",
+    "image": "https://images.unsplash.com/photo-1508061253366-f7da158b6d46?w=300&h=200&fit=crop",
+    "platforms": [
+      { "name": "Blinkit", "price": "₹95", "link": "https://blinkit.com/s/?q=Peanuts+Roasted+Salted+500g" },
+      { "name": "Swiggy Instamart", "price": "₹90", "link": "https://www.swiggy.com/instamart/search?q=Peanuts+Roasted+Salted+500g" },
+      { "name": "Zepto", "price": "₹92", "link": "https://www.zeptonow.com/search?query=Peanuts+Roasted+Salted+500g" },
+      { "name": "BigBasket", "price": "₹88", "link": "https://www.bigbasket.com/ps/?q=Peanuts+Roasted+Salted" }
+    ]
+  },
+  {
+    "id": 199,
+    "title": "Sunflower Seeds",
+    "quantity": "250 g",
+    "category": "Dry Fruits & Nuts",
+    "image": "https://images.unsplash.com/photo-1611575980748-49bf59fcef3d?w=300&h=200&fit=crop",
+    "platforms": [
+      { "name": "Blinkit", "price": "₹110", "link": "https://blinkit.com/s/?q=Sunflower+Seeds+250g" },
+      { "name": "Swiggy Instamart", "price": "₹105", "link": "https://www.swiggy.com/instamart/search?q=Sunflower+Seeds+250g" },
+      { "name": "Zepto", "price": "₹108", "link": "https://www.zeptonow.com/search?query=Sunflower+Seeds+250g" },
+      { "name": "BigBasket", "price": "₹100", "link": "https://www.bigbasket.com/ps/?q=Sunflower+Seeds" }
+    ]
+  },
+  {
+    "id": 200,
+    "title": "Chia Seeds",
+    "quantity": "200 g",
+    "category": "Health & Nutrition",
+    "image": "https://images.unsplash.com/photo-1606914501449-5a89a48bc1b2?w=300&h=200&fit=crop",
+    "platforms": [
+      { "name": "Blinkit", "price": "₹145", "link": "https://blinkit.com/s/?q=Chia+Seeds+200g" },
+      { "name": "Swiggy Instamart", "price": "₹138", "link": "https://www.swiggy.com/instamart/search?q=Chia+Seeds+200g" },
+      { "name": "Zepto", "price": "₹142", "link": "https://www.zeptonow.com/search?query=Chia+Seeds+200g" },
+      { "name": "BigBasket", "price": "₹135", "link": "https://www.bigbasket.com/ps/?q=Chia+Seeds" }
+    ]
+  },
+  {
+    "id": 201,
+    "title": "Flax Seeds (Alsi)",
+    "quantity": "200 g",
+    "category": "Health & Nutrition",
+    "image": "https://images.unsplash.com/photo-1606914501449-5a89a48bc1b2?w=300&h=200&fit=crop",
+    "platforms": [
+      { "name": "Blinkit", "price": "₹75", "link": "https://blinkit.com/s/?q=Flax+Seeds+Alsi+200g" },
+      { "name": "Swiggy Instamart", "price": "₹71", "link": "https://www.swiggy.com/instamart/search?q=Flax+Seeds+Alsi+200g" },
+      { "name": "Zepto", "price": "₹73", "link": "https://www.zeptonow.com/search?query=Flax+Seeds+Alsi+200g" },
+      { "name": "BigBasket", "price": "₹68", "link": "https://www.bigbasket.com/ps/?q=Flax+Seeds+Alsi" }
+    ]
+  },
+  {
+    "id": 202,
+    "title": "Centrum Multivitamin",
+    "quantity": "30 Tablets",
+    "category": "Health & Nutrition",
+    "image": "https://images.unsplash.com/photo-1550572017-edd951b55104?w=300&h=200&fit=crop",
+    "platforms": [
+      { "name": "Blinkit", "price": "₹465", "link": "https://blinkit.com/s/?q=Centrum+Multivitamin+30+Tablets" },
+      { "name": "Swiggy Instamart", "price": "₹449", "link": "https://www.swiggy.com/instamart/search?q=Centrum+Multivitamin+30+Tablets" },
+      { "name": "Zepto", "price": "₹455", "link": "https://www.zeptonow.com/search?query=Centrum+Multivitamin+30+Tablets" },
+      { "name": "BigBasket", "price": "₹439", "link": "https://www.bigbasket.com/ps/?q=Centrum+Multivitamin+30+Tablets" }
+    ]
+  },
+  {
+    "id": 203,
+    "title": "Bcaa Amino Acids (Supplement)",
+    "quantity": "300 g",
+    "category": "Health & Nutrition",
+    "image": "https://images.unsplash.com/photo-1593095948071-474c5cc2989d?w=300&h=200&fit=crop",
+    "platforms": [
+      { "name": "Blinkit", "price": "₹799", "link": "https://blinkit.com/s/?q=BCAA+Amino+Acids+Supplement+300g" },
+      { "name": "Swiggy Instamart", "price": "₹769", "link": "https://www.swiggy.com/instamart/search?q=BCAA+Amino+Acids+Supplement+300g" },
+      { "name": "Zepto", "price": "₹785", "link": "https://www.zeptonow.com/search?query=BCAA+Amino+Acids+Supplement+300g" },
+      { "name": "BigBasket", "price": "₹749", "link": "https://www.bigbasket.com/ps/?q=BCAA+Amino+Acids+Supplement" }
+    ]
+  },
+  {
+    "id": 204,
+    "title": "Vicks VapoRub",
+    "quantity": "50 g",
+    "category": "Health & Nutrition",
+    "image": "https://images.unsplash.com/photo-1584308666744-24d5c474f2ae?w=300&h=200&fit=crop",
+    "platforms": [
+      { "name": "Blinkit", "price": "₹112", "link": "https://blinkit.com/s/?q=Vicks+VapoRub+50g" },
+      { "name": "Swiggy Instamart", "price": "₹106", "link": "https://www.swiggy.com/instamart/search?q=Vicks+VapoRub+50g" },
+      { "name": "Zepto", "price": "₹109", "link": "https://www.zeptonow.com/search?query=Vicks+VapoRub+50g" },
+      { "name": "BigBasket", "price": "₹102", "link": "https://www.bigbasket.com/ps/?q=Vicks+VapoRub+50g" }
+    ]
+  },
+  {
+    "id": 205,
+    "title": "Strepsils Throat Lozenges",
+    "quantity": "24 Lozenges",
+    "category": "Health & Nutrition",
+    "image": "https://images.unsplash.com/photo-1550572017-edd951b55104?w=300&h=200&fit=crop",
+    "platforms": [
+      { "name": "Blinkit", "price": "₹105", "link": "https://blinkit.com/s/?q=Strepsils+Throat+Lozenges+24" },
+      { "name": "Swiggy Instamart", "price": "₹99", "link": "https://www.swiggy.com/instamart/search?q=Strepsils+Throat+Lozenges+24" },
+      { "name": "Zepto", "price": "₹102", "link": "https://www.zeptonow.com/search?query=Strepsils+Throat+Lozenges+24" },
+      { "name": "BigBasket", "price": "₹96", "link": "https://www.bigbasket.com/ps/?q=Strepsils+Throat+Lozenges" }
+    ]
+  },
+  {
+    "id": 206,
+    "title": "Amul Shrikhand (Mango)",
+    "quantity": "200 g",
+    "category": "Dairy",
+    "image": "https://images.unsplash.com/photo-1488477181946-6428a0291777?w=300&h=200&fit=crop",
+    "platforms": [
+      { "name": "Blinkit", "price": "₹65", "link": "https://blinkit.com/s/?q=Amul+Shrikhand+Mango+200g" },
+      { "name": "Swiggy Instamart", "price": "₹62", "link": "https://www.swiggy.com/instamart/search?q=Amul+Shrikhand+Mango+200g" },
+      { "name": "Zepto", "price": "₹63", "link": "https://www.zeptonow.com/search?query=Amul+Shrikhand+Mango+200g" },
+      { "name": "BigBasket", "price": "₹59", "link": "https://www.bigbasket.com/ps/?q=Amul+Shrikhand+Mango" }
+    ]
+  },
+  {
+    "id": 207,
+    "title": "Kwality Wall's Vanilla Ice Cream",
+    "quantity": "750 ml",
+    "category": "Dairy",
+    "image": "https://images.unsplash.com/photo-1570197788417-0e82375c9371?w=300&h=200&fit=crop",
+    "platforms": [
+      { "name": "Blinkit", "price": "₹175", "link": "https://blinkit.com/s/?q=Kwality+Walls+Vanilla+Ice+Cream+750ml" },
+      { "name": "Swiggy Instamart", "price": "₹166", "link": "https://www.swiggy.com/instamart/search?q=Kwality+Walls+Vanilla+Ice+Cream+750ml" },
+      { "name": "Zepto", "price": "₹170", "link": "https://www.zeptonow.com/search?query=Kwality+Walls+Vanilla+Ice+Cream+750ml" },
+      { "name": "BigBasket", "price": "₹162", "link": "https://www.bigbasket.com/ps/?q=Kwality+Walls+Vanilla+Ice+Cream+750ml" }
+    ]
+  },
+  {
+    "id": 208,
+    "title": "Amul Lassi (Mango)",
+    "quantity": "200 ml",
+    "category": "Dairy",
+    "image": "https://images.unsplash.com/photo-1563636619-e9143da7973b?w=300&h=200&fit=crop",
+    "platforms": [
+      { "name": "Blinkit", "price": "₹30", "link": "https://blinkit.com/s/?q=Amul+Lassi+Mango+200ml" },
+      { "name": "Swiggy Instamart", "price": "₹28", "link": "https://www.swiggy.com/instamart/search?q=Amul+Lassi+Mango+200ml" },
+      { "name": "Zepto", "price": "₹29", "link": "https://www.zeptonow.com/search?query=Amul+Lassi+Mango+200ml" },
+      { "name": "BigBasket", "price": "₹27", "link": "https://www.bigbasket.com/ps/?q=Amul+Lassi+Mango" }
+    ]
+  },
+  {
+    "id": 209,
+    "title": "Amul Ghee (Pure)",
+    "quantity": "1 L",
+    "category": "Dairy",
+    "image": "https://images.unsplash.com/photo-1589985270826-4b7bb135bc9d?w=300&h=200&fit=crop",
+    "platforms": [
+      { "name": "Blinkit", "price": "₹580", "link": "https://blinkit.com/s/?q=Amul+Ghee+Pure+1L" },
+      { "name": "Swiggy Instamart", "price": "₹559", "link": "https://www.swiggy.com/instamart/search?q=Amul+Ghee+Pure+1L" },
+      { "name": "Zepto", "price": "₹570", "link": "https://www.zeptonow.com/search?query=Amul+Ghee+Pure+1L" },
+      { "name": "BigBasket", "price": "₹549", "link": "https://www.bigbasket.com/ps/?q=Amul+Ghee+Pure+1L" }
+    ]
+  },
+  {
+    "id": 210,
+    "title": "McCain Smiles Potato Snacks",
+    "quantity": "415 g",
+    "category": "Frozen Foods",
+    "image": "https://images.unsplash.com/photo-1576107232684-1279f390859f?w=300&h=200&fit=crop",
+    "platforms": [
+      { "name": "Blinkit", "price": "₹190", "link": "https://blinkit.com/s/?q=McCain+Smiles+Potato+Snacks+415g" },
+      { "name": "Swiggy Instamart", "price": "₹182", "link": "https://www.swiggy.com/instamart/search?q=McCain+Smiles+Potato+Snacks+415g" },
+      { "name": "Zepto", "price": "₹186", "link": "https://www.zeptonow.com/search?query=McCain+Smiles+Potato+Snacks+415g" },
+      { "name": "BigBasket", "price": "₹178", "link": "https://www.bigbasket.com/ps/?q=McCain+Smiles+Potato+Snacks" }
+    ]
+  },
+  {
+    "id": 211,
+    "title": "Frozen Mixed Vegetables",
+    "quantity": "500 g",
+    "category": "Frozen Foods",
+    "image": "https://images.unsplash.com/photo-1512621776951-a57141f2eefd?w=300&h=200&fit=crop",
+    "platforms": [
+      { "name": "Blinkit", "price": "₹95", "link": "https://blinkit.com/s/?q=Frozen+Mixed+Vegetables+500g" },
+      { "name": "Swiggy Instamart", "price": "₹90", "link": "https://www.swiggy.com/instamart/search?q=Frozen+Mixed+Vegetables+500g" },
+      { "name": "Zepto", "price": "₹92", "link": "https://www.zeptonow.com/search?query=Frozen+Mixed+Vegetables+500g" },
+      { "name": "BigBasket", "price": "₹88", "link": "https://www.bigbasket.com/ps/?q=Frozen+Mixed+Vegetables" }
+    ]
+  },
+  {
+    "id": 212,
+    "title": "Frozen Corn Kernels",
+    "quantity": "500 g",
+    "category": "Frozen Foods",
+    "image": "https://images.unsplash.com/photo-1551754655-cd27e38d2076?w=300&h=200&fit=crop",
+    "platforms": [
+      { "name": "Blinkit", "price": "₹85", "link": "https://blinkit.com/s/?q=Frozen+Corn+Kernels+500g" },
+      { "name": "Swiggy Instamart", "price": "₹80", "link": "https://www.swiggy.com/instamart/search?q=Frozen+Corn+Kernels+500g" },
+      { "name": "Zepto", "price": "₹82", "link": "https://www.zeptonow.com/search?query=Frozen+Corn+Kernels+500g" },
+      { "name": "BigBasket", "price": "₹78", "link": "https://www.bigbasket.com/ps/?q=Frozen+Corn+Kernels" }
+    ]
+  },
+  {
+    "id": 213,
+    "title": "Nandini Curd (Set Dahi)",
+    "quantity": "400 g",
+    "category": "Dairy",
+    "image": "https://images.unsplash.com/photo-1488477181946-6428a0291777?w=300&h=200&fit=crop",
+    "platforms": [
+      { "name": "Blinkit", "price": "₹40", "link": "https://blinkit.com/s/?q=Nandini+Curd+Set+Dahi+400g" },
+      { "name": "Swiggy Instamart", "price": "₹38", "link": "https://www.swiggy.com/instamart/search?q=Nandini+Curd+400g" },
+      { "name": "Zepto", "price": "₹39", "link": "https://www.zeptonow.com/search?query=Nandini+Curd+400g" },
+      { "name": "BigBasket", "price": "₹36", "link": "https://www.bigbasket.com/ps/?q=Nandini+Curd+400g" }
+    ]
+  },
+  {
+    "id": 214,
+    "title": "Urad Dal (Black Split)",
+    "quantity": "1 kg",
+    "category": "Pulses & Lentils",
+    "image": "https://images.unsplash.com/photo-1585575321426-e4b8a0d4879d?w=300&h=200&fit=crop",
+    "platforms": [
+      { "name": "Blinkit", "price": "₹132", "link": "https://blinkit.com/s/?q=Urad+Dal+Black+Split+1kg" },
+      { "name": "Swiggy Instamart", "price": "₹126", "link": "https://www.swiggy.com/instamart/search?q=Urad+Dal+Black+Split+1kg" },
+      { "name": "Zepto", "price": "₹129", "link": "https://www.zeptonow.com/search?query=Urad+Dal+Black+Split+1kg" },
+      { "name": "BigBasket", "price": "₹122", "link": "https://www.bigbasket.com/ps/?q=Urad+Dal+Black+Split" }
+    ]
+  },
+  {
+    "id": 215,
+    "title": "Chana Dal",
+    "quantity": "1 kg",
+    "category": "Pulses & Lentils",
+    "image": "https://images.unsplash.com/photo-1546069901-ba9599a7e63c?w=300&h=200&fit=crop",
+    "platforms": [
+      { "name": "Blinkit", "price": "₹98", "link": "https://blinkit.com/s/?q=Chana+Dal+1kg" },
+      { "name": "Swiggy Instamart", "price": "₹94", "link": "https://www.swiggy.com/instamart/search?q=Chana+Dal+1kg" },
+      { "name": "Zepto", "price": "₹96", "link": "https://www.zeptonow.com/search?query=Chana+Dal+1kg" },
+      { "name": "BigBasket", "price": "₹90", "link": "https://www.bigbasket.com/ps/?q=Chana+Dal" }
+    ]
+  },
+  {
+    "id": 216,
+    "title": "Pumpkin Seeds",
+    "quantity": "200 g",
+    "category": "Health & Nutrition",
+    "image": "https://images.unsplash.com/photo-1606914501449-5a89a48bc1b2?w=300&h=200&fit=crop",
+    "platforms": [
+      { "name": "Blinkit", "price": "₹180", "link": "https://blinkit.com/s/?q=Pumpkin+Seeds+200g" },
+      { "name": "Swiggy Instamart", "price": "₹172", "link": "https://www.swiggy.com/instamart/search?q=Pumpkin+Seeds+200g" },
+      { "name": "Zepto", "price": "₹176", "link": "https://www.zeptonow.com/search?query=Pumpkin+Seeds+200g" },
+      { "name": "BigBasket", "price": "₹165", "link": "https://www.bigbasket.com/ps/?q=Pumpkin+Seeds" }
+    ]
+  },
+  {
+    "id": 217,
+    "title": "Pet Wipes (Dog)",
+    "quantity": "80 Wipes",
+    "category": "Pet Care",
+    "image": "https://images.unsplash.com/photo-1589924691995-400dc9ecc119?w=300&h=200&fit=crop",
+    "platforms": [
+      { "name": "Blinkit", "price": "₹299", "link": "https://blinkit.com/s/?q=Pet+Wipes+Dog+80" },
+      { "name": "Swiggy Instamart", "price": "₹285", "link": "https://www.swiggy.com/instamart/search?q=Pet+Wipes+Dog+80" },
+      { "name": "Zepto", "price": "₹292", "link": "https://www.zeptonow.com/search?query=Pet+Wipes+Dog+80" },
+      { "name": "BigBasket", "price": "₹275", "link": "https://www.bigbasket.com/ps/?q=Pet+Wipes+Dog" }
+    ]
+  },
+  {
+    "id": 218,
+    "title": "Drools Dog Treat (Chicken)",
+    "quantity": "150 g",
+    "category": "Pet Care",
+    "image": "https://images.unsplash.com/photo-1548199973-03cce0bbc87b?w=300&h=200&fit=crop",
+    "platforms": [
+      { "name": "Blinkit", "price": "₹155", "link": "https://blinkit.com/s/?q=Drools+Dog+Treat+Chicken+150g" },
+      { "name": "Swiggy Instamart", "price": "₹148", "link": "https://www.swiggy.com/instamart/search?q=Drools+Dog+Treat+Chicken+150g" },
+      { "name": "Zepto", "price": "₹151", "link": "https://www.zeptonow.com/search?query=Drools+Dog+Treat+Chicken+150g" },
+      { "name": "BigBasket", "price": "₹142", "link": "https://www.bigbasket.com/ps/?q=Drools+Dog+Treat+Chicken" }
+    ]
+  },
+  {
+    "id": 219,
+    "title": "Faber-Castell Color Pencils",
+    "quantity": "24 Shades",
+    "category": "Stationery",
+    "image": "https://images.unsplash.com/photo-1513364776144-60967b0f800f?w=300&h=200&fit=crop",
+    "platforms": [
+      { "name": "Blinkit", "price": "₹195", "link": "https://blinkit.com/s/?q=Faber+Castell+Color+Pencils+24+Shades" },
+      { "name": "Swiggy Instamart", "price": "₹186", "link": "https://www.swiggy.com/instamart/search?q=Faber+Castell+Color+Pencils+24+Shades" },
+      { "name": "Zepto", "price": "₹190", "link": "https://www.zeptonow.com/search?query=Faber+Castell+Color+Pencils+24+Shades" },
+      { "name": "BigBasket", "price": "₹179", "link": "https://www.bigbasket.com/ps/?q=Faber+Castell+Color+Pencils+24+Shades" }
+    ]
+  },
+  {
+    "id": 220,
+    "title": "Post-it Sticky Notes",
+    "quantity": "6 Pads x 100 Sheets",
+    "category": "Stationery",
+    "image": "https://images.unsplash.com/photo-1531346878377-a5be20888e57?w=300&h=200&fit=crop",
+    "platforms": [
+      { "name": "Blinkit", "price": "₹245", "link": "https://blinkit.com/s/?q=Post-it+Sticky+Notes+6+pads+100+sheets" },
+      { "name": "Swiggy Instamart", "price": "₹235", "link": "https://www.swiggy.com/instamart/search?q=Post-it+Sticky+Notes+6+pads" },
+      { "name": "Zepto", "price": "₹240", "link": "https://www.zeptonow.com/search?query=Post-it+Sticky+Notes+6+pads" },
+      { "name": "BigBasket", "price": "₹229", "link": "https://www.bigbasket.com/ps/?q=Post-it+Sticky+Notes" }
+    ]
+  },
+  {
+    "id": 221,
+    "title": "Camlin Whitener (Correction Fluid)",
+    "quantity": "15 ml",
+    "category": "Stationery",
+    "image": "https://images.unsplash.com/photo-1583485088034-697b5bc54ccd?w=300&h=200&fit=crop",
+    "platforms": [
+      { "name": "Blinkit", "price": "₹35", "link": "https://blinkit.com/s/?q=Camlin+Whitener+Correction+Fluid+15ml" },
+      { "name": "Swiggy Instamart", "price": "₹33", "link": "https://www.swiggy.com/instamart/search?q=Camlin+Whitener+15ml" },
+      { "name": "Zepto", "price": "₹34", "link": "https://www.zeptonow.com/search?query=Camlin+Whitener+15ml" },
+      { "name": "BigBasket", "price": "₹32", "link": "https://www.bigbasket.com/ps/?q=Camlin+Whitener" }
+    ]
+  },
+  {
+    "id": 222,
+    "title": "Zebra Highlighter Set",
+    "quantity": "5 Colors",
+    "category": "Stationery",
+    "image": "https://images.unsplash.com/photo-1513364776144-60967b0f800f?w=300&h=200&fit=crop",
+    "platforms": [
+      { "name": "Blinkit", "price": "₹155", "link": "https://blinkit.com/s/?q=Zebra+Highlighter+Set+5+Colors" },
+      { "name": "Swiggy Instamart", "price": "₹148", "link": "https://www.swiggy.com/instamart/search?q=Zebra+Highlighter+Set+5+Colors" },
+      { "name": "Zepto", "price": "₹150", "link": "https://www.zeptonow.com/search?query=Zebra+Highlighter+Set+5+Colors" },
+      { "name": "BigBasket", "price": "₹142", "link": "https://www.bigbasket.com/ps/?q=Zebra+Highlighter+Set" }
+    ]
+  },
+  {
+    "id": 223,
+    "title": "Power Bank 10000 mAh",
+    "quantity": "1 Unit",
+    "category": "Electronics & Accessories",
+    "image": "https://images.unsplash.com/photo-1585338103782-f7d95c7e8a48?w=300&h=200&fit=crop",
+    "platforms": [
+      { "name": "Blinkit", "price": "₹899", "link": "https://blinkit.com/s/?q=Power+Bank+10000mAh" },
+      { "name": "Swiggy Instamart", "price": "₹869", "link": "https://www.swiggy.com/instamart/search?q=Power+Bank+10000mAh" },
+      { "name": "Zepto", "price": "₹885", "link": "https://www.zeptonow.com/search?query=Power+Bank+10000mAh" },
+      { "name": "BigBasket", "price": "₹849", "link": "https://www.bigbasket.com/ps/?q=Power+Bank+10000mAh" }
+    ]
+  },
+  {
+    "id": 224,
+    "title": "Microfiber Cleaning Cloth",
+    "quantity": "Pack of 5",
+    "category": "Electronics & Accessories",
+    "image": "https://images.unsplash.com/photo-1585421514284-efb74c2b69ba?w=300&h=200&fit=crop",
+    "platforms": [
+      { "name": "Blinkit", "price": "₹199", "link": "https://blinkit.com/s/?q=Microfiber+Cleaning+Cloth+5+pack" },
+      { "name": "Swiggy Instamart", "price": "₹190", "link": "https://www.swiggy.com/instamart/search?q=Microfiber+Cleaning+Cloth+5+pack" },
+      { "name": "Zepto", "price": "₹195", "link": "https://www.zeptonow.com/search?query=Microfiber+Cleaning+Cloth+5+pack" },
+      { "name": "BigBasket", "price": "₹182", "link": "https://www.bigbasket.com/ps/?q=Microfiber+Cleaning+Cloth+5+pack" }
+    ]
+  },
+  {
+    "id": 225,
+    "title": "Screen Protector (Universal)",
+    "quantity": "Pack of 2",
+    "category": "Electronics & Accessories",
+    "image": "https://images.unsplash.com/photo-1601784551446-20c9e07cdbdb?w=300&h=200&fit=crop",
+    "platforms": [
+      { "name": "Blinkit", "price": "₹149", "link": "https://blinkit.com/s/?q=Screen+Protector+Universal+2+pack" },
+      { "name": "Swiggy Instamart", "price": "₹142", "link": "https://www.swiggy.com/instamart/search?q=Screen+Protector+Universal+2+pack" },
+      { "name": "Zepto", "price": "₹145", "link": "https://www.zeptonow.com/search?query=Screen+Protector+Universal+2+pack" },
+      { "name": "BigBasket", "price": "₹135", "link": "https://www.bigbasket.com/ps/?q=Screen+Protector+Universal" }
+    ]
+  },
+  {
+    "id": 226,
+    "title": "Mamaearth Vitamin C Face Serum",
+    "quantity": "30 ml",
+    "category": "Personal Care",
+    "image": "https://images.unsplash.com/photo-1556228841-a3c527ebefe5?w=300&h=200&fit=crop",
+    "platforms": [
+      { "name": "Blinkit", "price": "₹599", "link": "https://blinkit.com/s/?q=Mamaearth+Vitamin+C+Face+Serum+30ml" },
+      { "name": "Swiggy Instamart", "price": "₹575", "link": "https://www.swiggy.com/instamart/search?q=Mamaearth+Vitamin+C+Face+Serum+30ml" },
+      { "name": "Zepto", "price": "₹589", "link": "https://www.zeptonow.com/search?query=Mamaearth+Vitamin+C+Face+Serum+30ml" },
+      { "name": "BigBasket", "price": "₹559", "link": "https://www.bigbasket.com/ps/?q=Mamaearth+Vitamin+C+Face+Serum" }
+    ]
+  },
+  {
+    "id": 227,
+    "title": "Minimalist Niacinamide Serum 10%",
+    "quantity": "30 ml",
+    "category": "Personal Care",
+    "image": "https://images.unsplash.com/photo-1556228841-a3c527ebefe5?w=300&h=200&fit=crop",
+    "platforms": [
+      { "name": "Blinkit", "price": "₹599", "link": "https://blinkit.com/s/?q=Minimalist+Niacinamide+Serum+10%+30ml" },
+      { "name": "Swiggy Instamart", "price": "₹575", "link": "https://www.swiggy.com/instamart/search?q=Minimalist+Niacinamide+Serum+10%+30ml" },
+      { "name": "Zepto", "price": "₹585", "link": "https://www.zeptonow.com/search?query=Minimalist+Niacinamide+Serum+10%+30ml" },
+      { "name": "BigBasket", "price": "₹559", "link": "https://www.bigbasket.com/ps/?q=Minimalist+Niacinamide+Serum+10%" }
+    ]
+  },
+  {
+    "id": 228,
+    "title": "Cetaphil Gentle Skin Cleanser",
+    "quantity": "250 ml",
+    "category": "Personal Care",
+    "image": "https://images.unsplash.com/photo-1607006344380-b6775a0824a7?w=300&h=200&fit=crop",
+    "platforms": [
+      { "name": "Blinkit", "price": "₹529", "link": "https://blinkit.com/s/?q=Cetaphil+Gentle+Skin+Cleanser+250ml" },
+      { "name": "Swiggy Instamart", "price": "₹509", "link": "https://www.swiggy.com/instamart/search?q=Cetaphil+Gentle+Skin+Cleanser+250ml" },
+      { "name": "Zepto", "price": "₹519", "link": "https://www.zeptonow.com/search?query=Cetaphil+Gentle+Skin+Cleanser+250ml" },
+      { "name": "BigBasket", "price": "₹499", "link": "https://www.bigbasket.com/ps/?q=Cetaphil+Gentle+Skin+Cleanser" }
+    ]
+  },
+  {
+    "id": 229,
+    "title": "Neutrogena Hydro Boost Water Gel",
+    "quantity": "50 g",
+    "category": "Personal Care",
+    "image": "https://images.unsplash.com/photo-1571781926291-c477ebfd024b?w=300&h=200&fit=crop",
+    "platforms": [
+      { "name": "Blinkit", "price": "₹749", "link": "https://blinkit.com/s/?q=Neutrogena+Hydro+Boost+Water+Gel+50g" },
+      { "name": "Swiggy Instamart", "price": "₹720", "link": "https://www.swiggy.com/instamart/search?q=Neutrogena+Hydro+Boost+Water+Gel+50g" },
+      { "name": "Zepto", "price": "₹735", "link": "https://www.zeptonow.com/search?query=Neutrogena+Hydro+Boost+Water+Gel+50g" },
+      { "name": "BigBasket", "price": "₹699", "link": "https://www.bigbasket.com/ps/?q=Neutrogena+Hydro+Boost+Water+Gel" }
+    ]
+  },
+  {
+    "id": 230,
+    "title": "Lakme Absolute Kajal",
+    "quantity": "1 Unit",
+    "category": "Personal Care",
+    "image": "https://images.unsplash.com/photo-1522335789203-aabd1fc54bc9?w=300&h=200&fit=crop",
+    "platforms": [
+      { "name": "Blinkit", "price": "₹199", "link": "https://blinkit.com/s/?q=Lakme+Absolute+Kajal" },
+      { "name": "Swiggy Instamart", "price": "₹190", "link": "https://www.swiggy.com/instamart/search?q=Lakme+Absolute+Kajal" },
+      { "name": "Zepto", "price": "₹195", "link": "https://www.zeptonow.com/search?query=Lakme+Absolute+Kajal" },
+      { "name": "BigBasket", "price": "₹185", "link": "https://www.bigbasket.com/ps/?q=Lakme+Absolute+Kajal" }
+    ]
+  },
+  {
+    "id": 231,
+    "title": "Maybelline Fit Me Foundation",
+    "quantity": "30 ml",
+    "category": "Personal Care",
+    "image": "https://images.unsplash.com/photo-1522335789203-aabd1fc54bc9?w=300&h=200&fit=crop",
+    "platforms": [
+      { "name": "Blinkit", "price": "₹459", "link": "https://blinkit.com/s/?q=Maybelline+Fit+Me+Foundation+30ml" },
+      { "name": "Swiggy Instamart", "price": "₹440", "link": "https://www.swiggy.com/instamart/search?q=Maybelline+Fit+Me+Foundation+30ml" },
+      { "name": "Zepto", "price": "₹450", "link": "https://www.zeptonow.com/search?query=Maybelline+Fit+Me+Foundation+30ml" },
+      { "name": "BigBasket", "price": "₹429", "link": "https://www.bigbasket.com/ps/?q=Maybelline+Fit+Me+Foundation" }
+    ]
+  },
+  {
+    "id": 232,
+    "title": "Sugar Cosmetics Lipstick",
+    "quantity": "1 Unit",
+    "category": "Personal Care",
+    "image": "https://images.unsplash.com/photo-1522335789203-aabd1fc54bc9?w=300&h=200&fit=crop",
+    "platforms": [
+      { "name": "Blinkit", "price": "₹599", "link": "https://blinkit.com/s/?q=Sugar+Cosmetics+Lipstick" },
+      { "name": "Swiggy Instamart", "price": "₹575", "link": "https://www.swiggy.com/instamart/search?q=Sugar+Cosmetics+Lipstick" },
+      { "name": "Zepto", "price": "₹585", "link": "https://www.zeptonow.com/search?query=Sugar+Cosmetics+Lipstick" },
+      { "name": "BigBasket", "price": "₹560", "link": "https://www.bigbasket.com/ps/?q=Sugar+Cosmetics+Lipstick" }
+    ]
+  },
+  {
+    "id": 233,
+    "title": "Veet Hair Removal Cream",
+    "quantity": "200 g",
+    "category": "Personal Care",
+    "image": "https://images.unsplash.com/photo-1631729371254-42c2892f0e6e?w=300&h=200&fit=crop",
+    "platforms": [
+      { "name": "Blinkit", "price": "₹229", "link": "https://blinkit.com/s/?q=Veet+Hair+Removal+Cream+200g" },
+      { "name": "Swiggy Instamart", "price": "₹219", "link": "https://www.swiggy.com/instamart/search?q=Veet+Hair+Removal+Cream+200g" },
+      { "name": "Zepto", "price": "₹225", "link": "https://www.zeptonow.com/search?query=Veet+Hair+Removal+Cream+200g" },
+      { "name": "BigBasket", "price": "₹209", "link": "https://www.bigbasket.com/ps/?q=Veet+Hair+Removal+Cream" }
+    ]
+  },
+  {
+    "id": 234,
+    "title": "Himalaya Anti Hair Fall Shampoo",
+    "quantity": "400 ml",
+    "category": "Personal Care",
+    "image": "https://images.unsplash.com/photo-1526947425960-945c6e72858f?w=300&h=200&fit=crop",
+    "platforms": [
+      { "name": "Blinkit", "price": "₹295", "link": "https://blinkit.com/s/?q=Himalaya+Anti+Hair+Fall+Shampoo+400ml" },
+      { "name": "Swiggy Instamart", "price": "₹280", "link": "https://www.swiggy.com/instamart/search?q=Himalaya+Anti+Hair+Fall+Shampoo+400ml" },
+      { "name": "Zepto", "price": "₹289", "link": "https://www.zeptonow.com/search?query=Himalaya+Anti+Hair+Fall+Shampoo+400ml" },
+      { "name": "BigBasket", "price": "₹272", "link": "https://www.bigbasket.com/ps/?q=Himalaya+Anti+Hair+Fall+Shampoo+400ml" }
+    ]
+  },
+  {
+    "id": 235,
+    "title": "Parachute Advansed Body Lotion",
+    "quantity": "400 ml",
+    "category": "Personal Care",
+    "image": "https://images.unsplash.com/photo-1571781926291-c477ebfd024b?w=300&h=200&fit=crop",
+    "platforms": [
+      { "name": "Blinkit", "price": "₹185", "link": "https://blinkit.com/s/?q=Parachute+Advansed+Body+Lotion+400ml" },
+      { "name": "Swiggy Instamart", "price": "₹176", "link": "https://www.swiggy.com/instamart/search?q=Parachute+Advansed+Body+Lotion+400ml" },
+      { "name": "Zepto", "price": "₹180", "link": "https://www.zeptonow.com/search?query=Parachute+Advansed+Body+Lotion+400ml" },
+      { "name": "BigBasket", "price": "₹169", "link": "https://www.bigbasket.com/ps/?q=Parachute+Advansed+Body+Lotion" }
+    ]
+  },
+  {
+    "id": 236,
+    "title": "Sunlight Dishwash Bar",
+    "quantity": "4 x 150 g",
+    "category": "Household",
+    "image": "https://images.unsplash.com/photo-1563453392212-326f5e854473?w=300&h=200&fit=crop",
+    "platforms": [
+      { "name": "Blinkit", "price": "₹78", "link": "https://blinkit.com/s/?q=Sunlight+Dishwash+Bar+4+pack+150g" },
+      { "name": "Swiggy Instamart", "price": "₹74", "link": "https://www.swiggy.com/instamart/search?q=Sunlight+Dishwash+Bar+4+pack" },
+      { "name": "Zepto", "price": "₹76", "link": "https://www.zeptonow.com/search?query=Sunlight+Dishwash+Bar+4+pack" },
+      { "name": "BigBasket", "price": "₹70", "link": "https://www.bigbasket.com/ps/?q=Sunlight+Dishwash+Bar" }
+    ]
+  },
+  {
+    "id": 237,
+    "title": "Odonil Air Freshener Block",
+    "quantity": "50 g x 2",
+    "category": "Household",
+    "image": "https://images.unsplash.com/photo-1585421514284-efb74c2b69ba?w=300&h=200&fit=crop",
+    "platforms": [
+      { "name": "Blinkit", "price": "₹65", "link": "https://blinkit.com/s/?q=Odonil+Air+Freshener+Block+50g+2+pack" },
+      { "name": "Swiggy Instamart", "price": "₹62", "link": "https://www.swiggy.com/instamart/search?q=Odonil+Air+Freshener+Block" },
+      { "name": "Zepto", "price": "₹63", "link": "https://www.zeptonow.com/search?query=Odonil+Air+Freshener+Block" },
+      { "name": "BigBasket", "price": "₹59", "link": "https://www.bigbasket.com/ps/?q=Odonil+Air+Freshener+Block" }
+    ]
+  },
+  {
+    "id": 238,
+    "title": "Mortein Power Booster Spray",
+    "quantity": "425 ml",
+    "category": "Household",
+    "image": "https://images.unsplash.com/photo-1558618666-fcd25c85cd64?w=300&h=200&fit=crop",
+    "platforms": [
+      { "name": "Blinkit", "price": "₹245", "link": "https://blinkit.com/s/?q=Mortein+Power+Booster+Spray+425ml" },
+      { "name": "Swiggy Instamart", "price": "₹235", "link": "https://www.swiggy.com/instamart/search?q=Mortein+Power+Booster+Spray+425ml" },
+      { "name": "Zepto", "price": "₹240", "link": "https://www.zeptonow.com/search?query=Mortein+Power+Booster+Spray+425ml" },
+      { "name": "BigBasket", "price": "₹229", "link": "https://www.bigbasket.com/ps/?q=Mortein+Power+Booster+Spray" }
+    ]
+  },
+  {
+    "id": 239,
+    "title": "Naphthalene Balls",
+    "quantity": "100 Balls",
+    "category": "Household",
+    "image": "https://images.unsplash.com/photo-1558618666-fcd25c85cd64?w=300&h=200&fit=crop",
+    "platforms": [
+      { "name": "Blinkit", "price": "₹55", "link": "https://blinkit.com/s/?q=Naphthalene+Balls+100" },
+      { "name": "Swiggy Instamart", "price": "₹52", "link": "https://www.swiggy.com/instamart/search?q=Naphthalene+Balls+100" },
+      { "name": "Zepto", "price": "₹53", "link": "https://www.zeptonow.com/search?query=Naphthalene+Balls+100" },
+      { "name": "BigBasket", "price": "₹50", "link": "https://www.bigbasket.com/ps/?q=Naphthalene+Balls" }
+    ]
+  },
+  {
+    "id": 240,
+    "title": "Plastic Containers Set",
+    "quantity": "Set of 6",
+    "category": "Household",
+    "image": "https://images.unsplash.com/photo-1585421514284-efb74c2b69ba?w=300&h=200&fit=crop",
+    "platforms": [
+      { "name": "Blinkit", "price": "₹349", "link": "https://blinkit.com/s/?q=Plastic+Containers+Set+6+pieces" },
+      { "name": "Swiggy Instamart", "price": "₹335", "link": "https://www.swiggy.com/instamart/search?q=Plastic+Containers+Set+6+pieces" },
+      { "name": "Zepto", "price": "₹340", "link": "https://www.zeptonow.com/search?query=Plastic+Containers+Set+6+pieces" },
+      { "name": "BigBasket", "price": "₹325", "link": "https://www.bigbasket.com/ps/?q=Plastic+Containers+Set" }
+    ]
+  },
+  {
+    "id": 241,
+    "title": "Johnson's Baby Shampoo",
+    "quantity": "200 ml",
+    "category": "Baby Care",
+    "image": "https://images.unsplash.com/photo-1584515933487-779824d29309?w=300&h=200&fit=crop",
+    "platforms": [
+      { "name": "Blinkit", "price": "₹155", "link": "https://blinkit.com/s/?q=Johnsons+Baby+Shampoo+200ml" },
+      { "name": "Swiggy Instamart", "price": "₹148", "link": "https://www.swiggy.com/instamart/search?q=Johnsons+Baby+Shampoo+200ml" },
+      { "name": "Zepto", "price": "₹150", "link": "https://www.zeptonow.com/search?query=Johnsons+Baby+Shampoo+200ml" },
+      { "name": "BigBasket", "price": "₹142", "link": "https://www.bigbasket.com/ps/?q=Johnsons+Baby+Shampoo+200ml" }
+    ]
+  },
+  {
+    "id": 242,
+    "title": "Mamaearth Gentle Cleansing Baby Wash",
+    "quantity": "400 ml",
+    "category": "Baby Care",
+    "image": "https://images.unsplash.com/photo-1556228578-8c89e6adf883?w=300&h=200&fit=crop",
+    "platforms": [
+      { "name": "Blinkit", "price": "₹289", "link": "https://blinkit.com/s/?q=Mamaearth+Gentle+Cleansing+Baby+Wash+400ml" },
+      { "name": "Swiggy Instamart", "price": "₹275", "link": "https://www.swiggy.com/instamart/search?q=Mamaearth+Gentle+Cleansing+Baby+Wash+400ml" },
+      { "name": "Zepto", "price": "₹282", "link": "https://www.zeptonow.com/search?query=Mamaearth+Gentle+Cleansing+Baby+Wash+400ml" },
+      { "name": "BigBasket", "price": "₹265", "link": "https://www.bigbasket.com/ps/?q=Mamaearth+Baby+Wash" }
+    ]
+  },
+  {
+    "id": 243,
+    "title": "Himalaya Baby Cream",
+    "quantity": "100 g",
+    "category": "Baby Care",
+    "image": "https://images.unsplash.com/photo-1556228578-8c89e6adf883?w=300&h=200&fit=crop",
+    "platforms": [
+      { "name": "Blinkit", "price": "₹95", "link": "https://blinkit.com/s/?q=Himalaya+Baby+Cream+100g" },
+      { "name": "Swiggy Instamart", "price": "₹90", "link": "https://www.swiggy.com/instamart/search?q=Himalaya+Baby+Cream+100g" },
+      { "name": "Zepto", "price": "₹92", "link": "https://www.zeptonow.com/search?query=Himalaya+Baby+Cream+100g" },
+      { "name": "BigBasket", "price": "₹88", "link": "https://www.bigbasket.com/ps/?q=Himalaya+Baby+Cream" }
+    ]
+  },
+  {
+    "id": 244,
+    "title": "Pampers New Born Diapers",
+    "quantity": "Size S, 40 Count",
+    "category": "Baby Care",
+    "image": "https://images.unsplash.com/photo-1584515933487-779824d29309?w=300&h=200&fit=crop",
+    "platforms": [
+      { "name": "Blinkit", "price": "₹699", "link": "https://blinkit.com/s/?q=Pampers+New+Born+Diapers+S+40+count" },
+      { "name": "Swiggy Instamart", "price": "₹670", "link": "https://www.swiggy.com/instamart/search?q=Pampers+New+Born+Diapers+S+40+count" },
+      { "name": "Zepto", "price": "₹685", "link": "https://www.zeptonow.com/search?query=Pampers+New+Born+Diapers+S+40+count" },
+      { "name": "BigBasket", "price": "₹655", "link": "https://www.bigbasket.com/ps/?q=Pampers+New+Born+Diapers+S+40+count" }
+    ]
+  },
+  {
+    "id": 245,
+    "title": "Figaro Olive Oil (for cooking)",
+    "quantity": "500 ml",
+    "category": "Staples",
+    "image": "https://images.unsplash.com/photo-1474979266404-7eaacbcd87c5?w=300&h=200&fit=crop",
+    "platforms": [
+      { "name": "Blinkit", "price": "₹380", "link": "https://blinkit.com/s/?q=Figaro+Olive+Oil+cooking+500ml" },
+      { "name": "Swiggy Instamart", "price": "₹365", "link": "https://www.swiggy.com/instamart/search?q=Figaro+Olive+Oil+500ml" },
+      { "name": "Zepto", "price": "₹372", "link": "https://www.zeptonow.com/search?query=Figaro+Olive+Oil+500ml" },
+      { "name": "BigBasket", "price": "₹355", "link": "https://www.bigbasket.com/ps/?q=Figaro+Olive+Oil+500ml" }
+    ]
+  },
+  {
+    "id": 246,
+    "title": "MTR Ready to Eat Palak Paneer",
+    "quantity": "300 g",
+    "category": "Snacks & Instant Food",
+    "image": "https://images.unsplash.com/photo-1601050690597-df0568f70950?w=300&h=200&fit=crop",
+    "platforms": [
+      { "name": "Blinkit", "price": "₹118", "link": "https://blinkit.com/s/?q=MTR+Ready+to+Eat+Palak+Paneer+300g" },
+      { "name": "Swiggy Instamart", "price": "₹112", "link": "https://www.swiggy.com/instamart/search?q=MTR+Ready+to+Eat+Palak+Paneer+300g" },
+      { "name": "Zepto", "price": "₹115", "link": "https://www.zeptonow.com/search?query=MTR+Ready+to+Eat+Palak+Paneer+300g" },
+      { "name": "BigBasket", "price": "₹108", "link": "https://www.bigbasket.com/ps/?q=MTR+Ready+to+Eat+Palak+Paneer" }
+    ]
+  },
+  {
+    "id": 247,
+    "title": "MTR Ready to Eat Dal Makhani",
+    "quantity": "300 g",
+    "category": "Snacks & Instant Food",
+    "image": "https://images.unsplash.com/photo-1546069901-ba9599a7e63c?w=300&h=200&fit=crop",
+    "platforms": [
+      { "name": "Blinkit", "price": "₹118", "link": "https://blinkit.com/s/?q=MTR+Ready+to+Eat+Dal+Makhani+300g" },
+      { "name": "Swiggy Instamart", "price": "₹112", "link": "https://www.swiggy.com/instamart/search?q=MTR+Ready+to+Eat+Dal+Makhani+300g" },
+      { "name": "Zepto", "price": "₹115", "link": "https://www.zeptonow.com/search?query=MTR+Ready+to+Eat+Dal+Makhani+300g" },
+      { "name": "BigBasket", "price": "₹108", "link": "https://www.bigbasket.com/ps/?q=MTR+Ready+to+Eat+Dal+Makhani" }
+    ]
+  },
+  {
+    "id": 248,
+    "title": "Sunfeast Yippee Pasta",
+    "quantity": "Pack of 4",
+    "category": "Snacks & Instant Food",
+    "image": "https://images.unsplash.com/photo-1551462147-37885acc36f1?w=300&h=200&fit=crop",
+    "platforms": [
+      { "name": "Blinkit", "price": "₹95", "link": "https://blinkit.com/s/?q=Sunfeast+Yippee+Pasta+4+pack" },
+      { "name": "Swiggy Instamart", "price": "₹90", "link": "https://www.swiggy.com/instamart/search?q=Sunfeast+Yippee+Pasta+4+pack" },
+      { "name": "Zepto", "price": "₹92", "link": "https://www.zeptonow.com/search?query=Sunfeast+Yippee+Pasta+4+pack" },
+      { "name": "BigBasket", "price": "₹88", "link": "https://www.bigbasket.com/ps/?q=Sunfeast+Yippee+Pasta" }
+    ]
+  },
+  {
+    "id": 249,
+    "title": "Sooji Upma Mix",
+    "quantity": "200 g",
+    "category": "Breakfast & Cereals",
+    "image": "https://images.unsplash.com/photo-1574323347407-f5e1ad6d020b?w=300&h=200&fit=crop",
+    "platforms": [
+      { "name": "Blinkit", "price": "₹55", "link": "https://blinkit.com/s/?q=Sooji+Upma+Mix+200g" },
+      { "name": "Swiggy Instamart", "price": "₹52", "link": "https://www.swiggy.com/instamart/search?q=Sooji+Upma+Mix+200g" },
+      { "name": "Zepto", "price": "₹54", "link": "https://www.zeptonow.com/search?query=Sooji+Upma+Mix+200g" },
+      { "name": "BigBasket", "price": "₹50", "link": "https://www.bigbasket.com/ps/?q=Sooji+Upma+Mix" }
+    ]
+  },
+  {
+    "id": 250,
+    "title": "MTR Masala Oats",
+    "quantity": "Pack of 5 (38 g each)",
+    "category": "Breakfast & Cereals",
+    "image": "https://images.unsplash.com/photo-1517673400267-0251440c45dc?w=300&h=200&fit=crop",
+    "platforms": [
+      { "name": "Blinkit", "price": "₹115", "link": "https://blinkit.com/s/?q=MTR+Masala+Oats+5+pack" },
+      { "name": "Swiggy Instamart", "price": "₹109", "link": "https://www.swiggy.com/instamart/search?q=MTR+Masala+Oats+5+pack" },
+      { "name": "Zepto", "price": "₹112", "link": "https://www.zeptonow.com/search?query=MTR+Masala+Oats+5+pack" },
+      { "name": "BigBasket", "price": "₹105", "link": "https://www.bigbasket.com/ps/?q=MTR+Masala+Oats" }
+    ]
+  }
+
+]

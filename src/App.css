@@ -1,0 +1,125 @@
+/* GLOBAL */
+body {
+  margin: 0;
+  font-family: Arial, sans-serif;
+  background-color: #1a1a1a;
+  color: white;
+}
+
+/* HEADER */
+.header {
+  padding: 20px;
+  border-bottom: 1px solid #333;
+}
+
+.logo {
+  font-size: 32px;
+  font-weight: bold;
+  color: #53d22c;
+}
+
+.search-input {
+  margin-top: 10px;
+  padding: 8px;
+  width: 250px;
+  border-radius: 6px;
+  border: 1px solid #444;
+  background: #222;
+  color: rgb(10, 10, 10);
+}
+
+/* MAIN */
+.container {
+  padding: 24px;
+}
+
+.notice {
+  font-size: 14px;
+  margin-bottom: 16px;
+}
+
+.notice.green {
+  color: #22c55e;
+}
+
+.notice.yellow {
+  color: #facc15;
+}
+
+/* PRODUCT CARD */
+.grid {
+  display: grid;
+  grid-template-columns: repeat(auto-fill, minmax(260px, 1fr));
+  gap: 20px;
+}
+
+.card {
+  background: #222;
+  border-radius: 12px;
+  border: 1px solid #333;
+  overflow: hidden;
+}
+
+.card img {
+  width: 100%;
+  height: 160px;
+  object-fit: contain;
+  background: #111;
+}
+
+.card-body {
+  padding: 16px;
+}
+
+.card-title {
+  font-weight: bold;
+  margin-bottom: 4px;
+}
+
+.card-sub {
+  font-size: 14px;
+  color: #aaa;
+}
+
+/* PLATFORMS */
+.platforms {
+  display: flex;
+  gap: 12px;
+  margin-top: 12px;
+  overflow-x: auto;
+}
+
+.platform {
+  min-width: 130px;
+  background: #111;
+  border-radius: 8px;
+  border: 1px solid #333;
+  text-decoration: none;
+  color: white;
+}
+
+.platform-bar {
+  height: 4px;
+}
+
+.platform-body {
+  padding: 10px;
+}
+
+.platform-name {
+  font-size: 14px;
+  font-weight: bold;
+}
+
+.platform-price {
+  font-size: 18px;
+}
+
+/* FOOTER */
+.footer {
+  border-top: 1px solid #333;
+  text-align: center;
+  padding: 16px;
+  font-size: 12px;
+  color: #aaa;
+}
