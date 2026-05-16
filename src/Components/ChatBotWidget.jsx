@@ -6,7 +6,7 @@ export default function ChatbotWidget() {
     if (document.getElementById('commitbot-script')) return
 
     // Pass config as globals BEFORE script loads (document.currentScript is null for dynamic scripts)
-    window.__commitbot_id__ = '6a08ebfb63af29544e1257af'
+    window.__commitbot_id__ = '6a08ee2963af29544e125832'
     window.__commitbot_api__ = 'https://commitbot-ws0p.onrender.com'
 
     const script = document.createElement('script')
