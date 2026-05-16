@@ -1,6 +1,7 @@
 import { useEffect, useRef, useState } from "react";
 import { useNavigate } from "react-router-dom";
 
+
 const BigBasketLogo = "/Images/Bigbasket.png";
 const BlinkitLogo   = "/Images/BlinkIt.png";
 const SwiggyLogo    = "/Images/Swiggy-Instamart.png";
