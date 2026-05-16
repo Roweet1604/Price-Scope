@@ -2,19 +2,24 @@ import { useEffect } from 'react'
 
 export default function ChatbotWidget() {
   useEffect(() => {
-    // Avoid duplicate script injection
-    if (document.querySelector('script[data-bot-id="6a08e8f749817a300a148845"]')) return
+    // Avoid duplicate injection
+    if (document.getElementById('commitbot-script')) return
+
+    // Pass config as globals BEFORE script loads (document.currentScript is null for dynamic scripts)
+    window.__commitbot_id__ = '6a08ebfb63af29544e1257af'
+    window.__commitbot_api__ = 'https://commitbot-ws0p.onrender.com'
 
     const script = document.createElement('script')
+    script.id = 'commitbot-script'
     script.src = 'https://commitbot-ws0p.onrender.com/widget/widget.js'
-    script.setAttribute('data-bot-id', '6a08e8f749817a300a148845')
-    script.setAttribute('data-api-url', 'https://commitbot-ws0p.onrender.com')
     document.body.appendChild(script)
 
     return () => {
-      // Optional cleanup on unmount
-      const el = document.querySelector('script[data-bot-id="6a08e8f749817a300a148845"]')
-      if (el) el.remove()
+      document.getElementById('commitbot-script')?.remove()
+      document.getElementById('sitebot-bubble')?.remove()
+      document.getElementById('sitebot-window')?.remove()
+      delete window.__commitbot_id__
+      delete window.__commitbot_api__
     }
   }, [])
 
